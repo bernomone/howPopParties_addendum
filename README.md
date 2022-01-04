@@ -17,7 +17,7 @@ The PC configuration used for the repository testing is:
 
 The requirements for the repo to work are in env.yml. If you use Anaconda then *conda env create -f env.yml*, otherwise just install the listed dependencies via pip.
 
-# Raw Data
+## Corrected Raw Data
 
 The raw data of political manifestos and leaders' speeches can be found in the **/datasets** directory. All the files are in .json format and each record of the json represents a sentence and contains the following fields:
 
@@ -27,16 +27,16 @@ The raw data of political manifestos and leaders' speeches can be found in the *
 - text: the raw text of the sentence
 - cleaned_text: a list of stemmed words obtained from the raw text
 
-In the original version, party and year labels for Austria (AT) were randomly assigned to manifestos, while the German data (DE) had a repeated manifesto. Here you can find the correct version.
+In the original version, party and year labels for Austria (AT) were randomly assigned to manifestos, while the German data (DE) had a repeated manifesto. Here you can find the correct version. Please contact us if you find any other mistake.
 
-# Pre-computed Populist Scores
+## Pre-computed Populist Scores
 
 Pre-computed Populist scores are stored in the **/scores** folder:
 
 - global_scores_{nation}.csv files contain the scores computed using each manifesto for each party
 - scores_in_time_{nation}.csv files contain the scores computed by dividing manifestos by year
 
-# How to use it?
+## How to use it?
 
 To compute scores from scratch:
 
@@ -49,7 +49,7 @@ Since point *2* is quite time consuming, there are pre-computed classifier model
 
 4. Run *03_shap_values.ipynb* and *04_reshuffling_effect.ipynb* to reproduce the results.
 
-# Acknowledgements
+## Acknowledgements
 
 We would like to acknowledge *Michael Jankowski* (Institute for Social Sciences, University of Bremen) and *Robert A. Huber* (Department of Political Science, University of Salzburg) that found the issues with the Austrian and German datasets.
 

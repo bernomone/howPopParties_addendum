@@ -1,6 +1,6 @@
 # howPopParties_addendum
 
-This repository contains scripts and data related to the Corrigendum and Addendum of the "How populist are parties? measuring degrees of populism in party manifestos using supervised machine learning" published on Political Analysis (DOI: https://doi.org/10.1017/pan.2021.29).
+This repository contains scripts and data related to the Corrigendum and Addendum of the *"How populist are parties? measuring degrees of populism in party manifestos using supervised machine learning"* published on *Political Analysis* (DOI: https://doi.org/10.1017/pan.2021.29).
 
 The original version of this repository is:
 
@@ -15,7 +15,7 @@ The PC configuration used for the repository testing is:
 - Graphics: Intel UHD Graphics 630 (first graphic card) and GeForce GTX 1650 Mobile (second graphic card)
 - Hard Disk: Intel SSDPEMKF010T8 NVMe 1024GB
 
-The requirements for the repo to work are in env.yml (if you use conda: conda env create -f env.yml).
+The requirements for the repo to work are in env.yml. If you use Anaconda then *conda env create -f env.yml*, otherwise just install the listed dependencies via pip.
 
 # Raw Data
 

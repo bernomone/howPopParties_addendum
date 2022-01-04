@@ -1,0 +1,3081 @@
+party,score,orientation,counts,random_state
+Christian Union,0.4003059663437022,Other,1961,0
+People’s Party for Freedom and Democracy,0.4321988114532685,Right-wing,1851,0
+List Pim Fortuyn,0.5848595848595849,Right-wing,819,0
+Democrats‘66,0.3620448179271708,Other,1428,0
+Party of Freedom,0.652555910543131,Right-wing,2504,0
+Forum for Democracy,0.12,Right-wing,75,0
+Socialist Party,0.5685160427807486,Left-wing,2992,0
+Christian Democratic Appeal,0.4587458745874587,Right-wing,1818,0
+Labour Party,0.3777777777777777,Left-wing,2880,0
+Reformed Political Party,0.4759725400457666,Right-wing,5681,0
+50Plus,0.4106167056986729,Other,2562,0
+Party for the Animals,0.4880015358034171,Left-wing,5209,0
+DENK,0.4163716814159292,Left-wing,2260,0
+Green Left,0.487036785665807,Left-wing,7367,0
+Christian Union,0.3485653560042508,Other,941,1
+People’s Party for Freedom and Democracy,0.4264288609647345,Right-wing,2467,1
+List Pim Fortuyn,0.8,Right-wing,5,1
+Democrats‘66,0.3946332737030411,Other,2795,1
+Forum for Democracy,0.5092592592592593,Right-wing,108,1
+Party of Freedom,0.5700871898054997,Right-wing,1491,1
+Socialist Party,0.5665954415954416,Left-wing,2808,1
+Christian Democratic Appeal,0.4065009560229445,Right-wing,2615,1
+Labour Party,0.3279535183989671,Left-wing,3098,1
+Reformed Political Party,0.4756554307116105,Right-wing,4272,1
+50Plus,0.4829396325459317,Other,3048,1
+Party for the Animals,0.502029959400812,Left-wing,7143,1
+DENK,0.5380753138075314,Left-wing,1195,1
+Green Left,0.5143511656111036,Left-wing,7421,1
+Christian Union,0.4030587074494327,Other,2027,2
+People’s Party for Freedom and Democracy,0.3996865203761755,Right-wing,1276,2
+List Pim Fortuyn,0.5790725326991677,Right-wing,841,2
+Democrats‘66,0.4482576557550158,Other,1894,2
+Party of Freedom,0.5844907407407407,Right-wing,2592,2
+Forum for Democracy,0.603225806451613,Right-wing,310,2
+Socialist Party,0.5848094471282878,Left-wing,3726,2
+Christian Democratic Appeal,0.3131407269338304,Right-wing,1073,2
+Labour Party,0.4213982232522209,Left-wing,2589,2
+Reformed Political Party,0.4933457545914293,Right-wing,7514,2
+50Plus,0.5113814756671899,Other,2548,2
+Party for the Animals,0.4682741116751269,Left-wing,3940,2
+DENK,0.5234633179114342,Left-wing,1513,2
+Green Left,0.5223426758328926,Left-wing,7564,2
+Christian Union,0.3329150982852363,Other,2391,3
+People’s Party for Freedom and Democracy,0.3217329545454545,Right-wing,1408,3
+List Pim Fortuyn,0.4956521739130435,Right-wing,690,3
+Democrats‘66,0.3226736566186107,Other,3815,3
+Forum for Democracy,0.6336032388663968,Right-wing,494,3
+Party of Freedom,0.6905158069883528,Right-wing,601,3
+Socialist Party,0.5080645161290323,Left-wing,2480,3
+Christian Democratic Appeal,0.2324131789848619,Right-wing,1123,3
+Labour Party,0.3156945279615153,Left-wing,3326,3
+Reformed Political Party,0.3958363452363742,Right-wing,6917,3
+50Plus,0.3586107091172214,Other,3455,3
+Party for the Animals,0.3346895453741376,Left-wing,5653,3
+DENK,0.4076990376202974,Left-wing,1143,3
+Green Left,0.4099137201827102,Left-wing,5911,3
+Christian Union,0.4083088543852287,Other,2383,4
+People’s Party for Freedom and Democracy,0.432,Right-wing,2500,4
+List Pim Fortuyn,0.60801393728223,Right-wing,574,4
+Democrats‘66,0.481053307642903,Other,1557,4
+Party of Freedom,0.4705364995602462,Right-wing,1137,4
+Forum for Democracy,0.5006031363088058,Right-wing,829,4
+Socialist Party,0.5670483930550425,Left-wing,2707,4
+Christian Democratic Appeal,0.3842268842268842,Right-wing,2574,4
+Labour Party,0.3676826318335752,Left-wing,2067,4
+Reformed Political Party,0.5066298342541437,Right-wing,9050,4
+50Plus,0.4595870206489675,Other,1695,4
+Party for the Animals,0.4756535110199897,Left-wing,5853,4
+DENK,0.5271966527196653,Left-wing,1195,4
+Green Left,0.4886492622020431,Left-wing,5286,4
+Christian Union,0.4165316045380875,Other,1234,5
+People’s Party for Freedom and Democracy,0.3635467980295566,Right-wing,4060,5
+List Pim Fortuyn,0.3218390804597701,Right-wing,87,5
+Democrats‘66,0.3713684210526315,Other,2375,5
+Forum for Democracy,0.3157894736842105,Right-wing,19,5
+Party of Freedom,0.459847844463229,Right-wing,1183,5
+Socialist Party,0.4775629332360452,Left-wing,2741,5
+Christian Democratic Appeal,0.3194379391100702,Right-wing,2135,5
+Labour Party,0.3957497995188452,Left-wing,2494,5
+Reformed Political Party,0.3944397641112047,Right-wing,5935,5
+50Plus,0.4430926216640502,Other,2548,5
+Party for the Animals,0.4339053066412456,Left-wing,6294,5
+DENK,0.4672036823935558,Left-wing,869,5
+Green Left,0.4492129691914435,Left-wing,7433,5
+Christian Union,0.403295409964692,Other,2549,6
+People’s Party for Freedom and Democracy,0.4014665444546287,Right-wing,2182,6
+List Pim Fortuyn,0.6336633663366337,Right-wing,202,6
+Democrats‘66,0.3600659159571546,Other,3641,6
+Forum for Democracy,0.6573426573426573,Right-wing,143,6
+Party of Freedom,0.4989444053483462,Right-wing,1421,6
+Socialist Party,0.5433583959899749,Left-wing,1995,6
+Christian Democratic Appeal,0.4452912357103973,Right-wing,1837,6
+Labour Party,0.3583545377438507,Left-wing,2358,6
+Reformed Political Party,0.4894234049812351,Right-wing,5862,6
+50Plus,0.5005668934240363,Other,1764,6
+Party for the Animals,0.4690986364441296,Left-wing,5647,6
+DENK,0.4727868852459016,Left-wing,1525,6
+Green Left,0.4868977176669484,Left-wing,8281,6
+Christian Union,0.3901581722319859,Other,1707,7
+People’s Party for Freedom and Democracy,0.3444913877153071,Right-wing,3077,7
+List Pim Fortuyn,0.5689277899343544,Right-wing,457,7
+Democrats‘66,0.28693039559339,Other,1997,7
+Forum for Democracy,0.4329268292682927,Right-wing,164,7
+Party of Freedom,0.5145075602778912,Right-wing,2447,7
+Socialist Party,0.5794392523364486,Left-wing,1712,7
+Christian Democratic Appeal,0.406559405940594,Right-wing,1616,7
+Labour Party,0.3440177721358299,Left-wing,3151,7
+Reformed Political Party,0.4676025917926565,Right-wing,7408,7
+50Plus,0.5038481272447409,Other,1949,7
+Party for the Animals,0.5400654129190515,Left-wing,4892,7
+DENK,0.5530973451327433,Left-wing,2260,7
+Green Left,0.5051750380517503,Left-wing,6570,7
+Christian Union,0.4698412698412698,Other,2205,8
+People’s Party for Freedom and Democracy,0.3573893944148101,Right-wing,3187,8
+List Pim Fortuyn,0.5495818399044206,Right-wing,837,8
+Democrats‘66,0.4079696394686907,Other,2635,8
+Party of Freedom,0.6224899598393574,Right-wing,747,8
+Forum for Democracy,0.4572748267898383,Right-wing,433,8
+Socialist Party,0.5909810126582279,Left-wing,2528,8
+Christian Democratic Appeal,0.4295277054667162,Right-wing,2689,8
+Labour Party,0.380506091846298,Left-wing,1067,8
+Reformed Political Party,0.5558978873239436,Right-wing,6816,8
+50Plus,0.5435452254270512,Other,3571,8
+Party for the Animals,0.5188284518828452,Left-wing,4780,8
+DENK,0.5466052934407365,Left-wing,869,8
+Green Left,0.5127076529887832,Left-wing,7043,8
+Christian Union,0.3573298429319371,Other,1528,9
+People’s Party for Freedom and Democracy,0.2798722044728434,Right-wing,1565,9
+List Pim Fortuyn,0.4839572192513369,Right-wing,374,9
+Democrats‘66,0.3517773306505701,Other,2982,9
+Party of Freedom,0.6004098360655737,Right-wing,3416,9
+Forum for Democracy,0.4962264150943396,Right-wing,530,9
+Socialist Party,0.5429553264604811,Left-wing,1746,9
+Christian Democratic Appeal,0.359519912711402,Right-wing,1833,9
+Labour Party,0.4107901444350042,Left-wing,2354,9
+Reformed Political Party,0.4747336377473364,Right-wing,6570,9
+50Plus,0.4003789074834228,Other,3167,9
+Party for the Animals,0.4953596287703016,Left-wing,4310,9
+DENK,0.3640776699029126,Left-wing,206,9
+Green Left,0.399841377747564,Left-wing,8826,9
+Christian Union,0.4785553047404063,Other,1772,10
+People’s Party for Freedom and Democracy,0.4623733719247467,Right-wing,1382,10
+List Pim Fortuyn,0.4171779141104294,Right-wing,163,10
+Democrats‘66,0.3565264293419633,Other,1854,10
+Forum for Democracy,0.6151279199110122,Right-wing,899,10
+Party of Freedom,0.5402089959109496,Right-wing,2201,10
+Socialist Party,0.5105740181268882,Left-wing,2317,10
+Christian Democratic Appeal,0.3709144326110907,Right-wing,2723,10
+Labour Party,0.3689095127610209,Left-wing,3017,10
+Reformed Political Party,0.4761510237897976,Right-wing,8449,10
+50Plus,0.3676222596964587,Other,1186,10
+Party for the Animals,0.4539744847890088,Left-wing,5095,10
+DENK,0.5280289330922242,Left-wing,553,10
+Green Left,0.5034633145202668,Left-wing,7796,10
+Christian Union,0.391304347826087,Other,2300,11
+People’s Party for Freedom and Democracy,0.3611111111111111,Right-wing,1368,11
+List Pim Fortuyn,0.6420454545454546,Right-wing,176,11
+Democrats‘66,0.3302523995734092,Other,2813,11
+Forum for Democracy,0.171875,Right-wing,64,11
+Party of Freedom,0.5307470078415187,Right-wing,2423,11
+Socialist Party,0.5089903181189488,Left-wing,1446,11
+Christian Democratic Appeal,0.3173180351380423,Right-wing,2789,11
+Labour Party,0.3628348592743303,Left-wing,2949,11
+Reformed Political Party,0.4458614972580028,Right-wing,7841,11
+50Plus,0.3543982216576691,Other,3149,11
+Party for the Animals,0.4230016313213703,Left-wing,6130,11
+DENK,0.470873786407767,Left-wing,206,11
+Green Left,0.4583695463236572,Left-wing,5753,11
+Christian Union,0.3705179282868526,Other,1506,12
+People’s Party for Freedom and Democracy,0.3716200047858339,Right-wing,4179,12
+List Pim Fortuyn,0.5826446280991735,Right-wing,484,12
+Democrats‘66,0.4039032668646584,Other,2357,12
+Forum for Democracy,0.485424588086185,Right-wing,789,12
+Party of Freedom,0.4966292134831461,Right-wing,890,12
+Socialist Party,0.535035035035035,Left-wing,1998,12
+Christian Democratic Appeal,0.4006669842782277,Right-wing,2099,12
+Labour Party,0.290720631786772,Left-wing,2026,12
+Reformed Political Party,0.5290601129192959,Right-wing,6022,12
+50Plus,0.5352014821676703,Other,4318,12
+Party for the Animals,0.4724960254372019,Left-wing,3145,12
+DENK,0.4674610449129239,Left-wing,1091,12
+Green Left,0.5044102081618252,Left-wing,8503,12
+Christian Union,0.4025921425678412,Other,2469,13
+People’s Party for Freedom and Democracy,0.4366537717601547,Right-wing,2068,13
+List Pim Fortuyn,0.1333333333333333,Right-wing,60,13
+Democrats‘66,0.3736929003852504,Other,1817,13
+Forum for Democracy,0.5038910505836576,Right-wing,514,13
+Party of Freedom,0.6780122532334921,Right-wing,1469,13
+Socialist Party,0.5346704871060172,Left-wing,3490,13
+Christian Democratic Appeal,0.3427027027027027,Right-wing,1850,13
+Labour Party,0.4025472790428406,Left-wing,2591,13
+Reformed Political Party,0.462578781512605,Right-wing,7616,13
+50Plus,0.4425363276089828,Other,3785,13
+Party for the Animals,0.4952167718298392,Left-wing,4913,13
+DENK,0.392619926199262,Left-wing,1355,13
+Green Left,0.4151571164510166,Left-wing,5410,13
+Christian Union,0.3831070889894419,Other,1989,14
+People’s Party for Freedom and Democracy,0.3704215618521078,Right-wing,1447,14
+List Pim Fortuyn,0.5517928286852589,Right-wing,502,14
+Democrats‘66,0.4273092369477911,Other,2490,14
+Forum for Democracy,0.6185935637663885,Right-wing,839,14
+Party of Freedom,0.6375321336760925,Right-wing,1556,14
+Socialist Party,0.5259332672613148,Left-wing,3027,14
+Christian Democratic Appeal,0.374054054054054,Right-wing,925,14
+Labour Party,0.3940332113706726,Left-wing,3553,14
+Reformed Political Party,0.4748427672955975,Right-wing,7314,14
+50Plus,0.4539748953974895,Other,2868,14
+Party for the Animals,0.5032947462154942,Left-wing,5615,14
+DENK,0.4970612930310663,Left-wing,1191,14
+Green Left,0.4874404859628961,Left-wing,6091,14
+Christian Union,0.4215740231150248,Other,1817,15
+People’s Party for Freedom and Democracy,0.3977681785457163,Right-wing,2778,15
+List Pim Fortuyn,0.3,Right-wing,80,15
+Democrats‘66,0.3857615894039735,Other,1208,15
+Party of Freedom,0.4727272727272727,Right-wing,1430,15
+Forum for Democracy,0.602112676056338,Right-wing,852,15
+Socialist Party,0.5760015710919089,Left-wing,5092,15
+Christian Democratic Appeal,0.3448773448773449,Right-wing,693,15
+Labour Party,0.4541631623212784,Left-wing,2378,15
+Reformed Political Party,0.4531662269129287,Right-wing,6064,15
+50Plus,0.5006153846153846,Other,3250,15
+Party for the Animals,0.4937175043327556,Left-wing,4616,15
+DENK,0.3883495145631068,Left-wing,206,15
+Green Left,0.4905512691490551,Left-wing,8943,15
+Christian Union,0.3656633221850613,Other,1794,16
+People’s Party for Freedom and Democracy,0.4454319232136509,Right-wing,2813,16
+List Pim Fortuyn,0.3881578947368421,Right-wing,608,16
+Democrats‘66,0.377431906614786,Other,2056,16
+Forum for Democracy,0.5606469002695418,Right-wing,371,16
+Party of Freedom,0.6220865704772475,Right-wing,1802,16
+Socialist Party,0.5578532742491383,Left-wing,2031,16
+Christian Democratic Appeal,0.3748773307163886,Right-wing,3057,16
+Labour Party,0.3685968819599109,Left-wing,1796,16
+Reformed Political Party,0.4812612612612613,Right-wing,5550,16
+50Plus,0.5094289508632138,Other,3765,16
+Party for the Animals,0.4494064443188242,Left-wing,5307,16
+DENK,0.4514563106796116,Left-wing,206,16
+Green Left,0.4104956974912132,Left-wing,8251,16
+Christian Union,0.4121621621621621,Other,1480,17
+People’s Party for Freedom and Democracy,0.4287719298245614,Right-wing,2850,17
+List Pim Fortuyn,0.5506329113924051,Right-wing,474,17
+Democrats‘66,0.4349030470914127,Other,2166,17
+Forum for Democracy,0.328125,Right-wing,128,17
+Party of Freedom,0.5638921453692849,Right-wing,853,17
+Socialist Party,0.5539445628997868,Left-wing,2345,17
+Christian Democratic Appeal,0.3697104677060133,Right-wing,3143,17
+Labour Party,0.4427137417791623,Left-wing,2889,17
+Reformed Political Party,0.5462657880285557,Right-wing,7284,17
+50Plus,0.5466461063993832,Other,1297,17
+Party for the Animals,0.557345971563981,Left-wing,6330,17
+DENK,0.4887029288702929,Left-wing,1195,17
+Green Left,0.4875950093216692,Left-wing,6973,17
+Christian Union,0.3636363636363636,Other,2266,18
+People’s Party for Freedom and Democracy,0.3965779467680608,Right-wing,2630,18
+List Pim Fortuyn,0.5325443786982249,Right-wing,169,18
+Democrats‘66,0.3835270338554826,Other,1979,18
+Forum for Democracy,0.7148148148148148,Right-wing,270,18
+Party of Freedom,0.4375,Right-wing,464,18
+Socialist Party,0.548235294117647,Left-wing,2550,18
+Christian Democratic Appeal,0.3908895044629116,Right-wing,3249,18
+Labour Party,0.455470737913486,Left-wing,2751,18
+Reformed Political Party,0.5153460695270905,Right-wing,6386,18
+50Plus,0.5,Other,3250,18
+Party for the Animals,0.5133754863813229,Left-wing,4112,18
+DENK,0.6564195298372514,Left-wing,553,18
+Green Left,0.5059239006607428,Left-wing,8778,18
+Christian Union,0.2991583779648049,Other,1307,19
+People’s Party for Freedom and Democracy,0.4543740573152338,Right-wing,2652,19
+List Pim Fortuyn,0.5821138211382114,Right-wing,1230,19
+Democrats‘66,0.4058866279069767,Other,2752,19
+Forum for Democracy,0.6081081081081081,Right-wing,148,19
+Party of Freedom,0.5572842998585573,Right-wing,1414,19
+Socialist Party,0.5538961038961039,Left-wing,1540,19
+Christian Democratic Appeal,0.406380027739251,Right-wing,3605,19
+Labour Party,0.35,Left-wing,1680,19
+Reformed Political Party,0.4607516121859017,Right-wing,4497,19
+50Plus,0.540084388185654,Other,2133,19
+Party for the Animals,0.4659905577898234,Left-wing,5719,19
+DENK,0.1801715919923737,Left-wing,1049,19
+Green Left,0.4641049478359673,Left-wing,9681,19
+Christian Democratic Appeal,0.5727336612789881,Right-wing,2846,0
+List Pim Fortuyn,0.7162629757785467,Right-wing,289,0
+Party of Freedom,0.7072484166080225,Right-wing,1421,0
+People’s Party for Freedom and Democracy,0.5891089108910891,Right-wing,1818,0
+Christian Union,0.5061936936936937,Other,1776,0
+Democrats‘66,0.587288817377313,Other,2486,0
+Forum for Democracy,0.5929203539823009,Right-wing,113,0
+Socialist Party,0.6712898751733704,Left-wing,3605,0
+Labour Party,0.4893617021276595,Left-wing,1974,0
+DENK,0.5907079646017699,Left-wing,2260,0
+Green Left,0.6264422424324692,Left-wing,7367,0
+50Plus,0.5429352068696331,Other,2562,0
+Reformed Political Party,0.6361556064073226,Right-wing,5681,0
+Party for the Animals,0.6529084277212517,Left-wing,5209,0
+Christian Democratic Appeal,0.2737881508078995,Right-wing,2228,1
+List Pim Fortuyn,0.3089700996677741,Right-wing,602,1
+Party of Freedom,0.3833439287984742,Right-wing,1573,1
+People’s Party for Freedom and Democracy,0.273416761471369,Right-wing,2637,1
+Christian Union,0.2019927536231884,Other,2208,1
+Democrats‘66,0.2337549062363715,Other,2293,1
+Forum for Democracy,0.26,Right-wing,200,1
+Socialist Party,0.4152823920265781,Left-wing,2408,1
+Labour Party,0.2781092244148692,Left-wing,2179,1
+DENK,0.1815899581589958,Left-wing,1195,1
+Green Left,0.2564344427974666,Left-wing,7421,1
+50Plus,0.2716535433070866,Other,3048,1
+Reformed Political Party,0.2469569288389513,Right-wing,4272,1
+Party for the Animals,0.2661346773064538,Left-wing,7143,1
+Christian Democratic Appeal,0.3272543059777102,Right-wing,1974,2
+List Pim Fortuyn,0.9402985074626866,Right-wing,67,2
+Party of Freedom,0.4176533907427341,Right-wing,929,2
+People’s Party for Freedom and Democracy,0.3101540892927696,Right-wing,2531,2
+Christian Union,0.3091603053435114,Other,1572,2
+Democrats‘66,0.3125802310654685,Other,1558,2
+Forum for Democracy,0.3765381460213289,Right-wing,1219,2
+Socialist Party,0.423472301541976,Left-wing,3502,2
+Labour Party,0.2775537634408602,Left-wing,2976,2
+DENK,0.3337739590218109,Left-wing,1513,2
+Green Left,0.3507403490216816,Left-wing,7564,2
+50Plus,0.3277080062794348,Other,2548,2
+Reformed Political Party,0.3273888741016769,Right-wing,7514,2
+Party for the Animals,0.3467005076142131,Left-wing,3940,2
+Christian Democratic Appeal,0.5015985790408526,Right-wing,2815,3
+List Pim Fortuyn,0.6712598425196851,Right-wing,508,3
+Party of Freedom,0.6707964601769911,Right-wing,1695,3
+People’s Party for Freedom and Democracy,0.4874213836477987,Right-wing,1272,3
+Christian Union,0.4228341939185313,Other,1743,3
+Democrats‘66,0.5784157363104732,Other,3762,3
+Forum for Democracy,0.7323481116584565,Right-wing,609,3
+Socialist Party,0.6817545496966869,Left-wing,2143,3
+Labour Party,0.442448062886019,Left-wing,1781,3
+DENK,0.6640419947506562,Left-wing,1143,3
+Green Left,0.6367788868211809,Left-wing,5911,3
+50Plus,0.6593342981186686,Other,3455,3
+Reformed Political Party,0.6752927569755675,Right-wing,6917,3
+Party for the Animals,0.6417831240049531,Left-wing,5653,3
+Christian Democratic Appeal,0.2064308681672025,Right-wing,1555,4
+List Pim Fortuyn,0.2002176278563656,Right-wing,919,4
+Party of Freedom,0.3230769230769231,Right-wing,1690,4
+People’s Party for Freedom and Democracy,0.2182723071453963,Right-wing,2813,4
+Christian Union,0.2688172043010752,Other,1023,4
+Democrats‘66,0.2249698431845597,Other,1658,4
+Forum for Democracy,0.0,Right-wing,11,4
+Socialist Party,0.3615286624203822,Left-wing,3925,4
+Labour Party,0.190929041697147,Left-wing,2734,4
+DENK,0.1623430962343096,Left-wing,1195,4
+Green Left,0.1927733636019674,Left-wing,5286,4
+50Plus,0.1864306784660767,Other,1695,4
+Reformed Political Party,0.2961325966850828,Right-wing,9050,4
+Party for the Animals,0.2677259525029899,Left-wing,5853,4
+Christian Democratic Appeal,0.516320474777448,Right-wing,1685,5
+List Pim Fortuyn,0.6356073211314476,Right-wing,601,5
+Party of Freedom,0.5785656728444802,Right-wing,1241,5
+People’s Party for Freedom and Democracy,0.5,Right-wing,1552,5
+Christian Union,0.4555984555984556,Other,2072,5
+Democrats‘66,0.5449392712550607,Other,1235,5
+Forum for Democracy,0.7416666666666667,Right-wing,840,5
+Socialist Party,0.6946585903083701,Left-wing,3632,5
+Labour Party,0.4703170028818443,Left-wing,3470,5
+DENK,0.2945914844649022,Left-wing,869,5
+Green Left,0.5388133997040226,Left-wing,7433,5
+50Plus,0.6255886970172685,Other,2548,5
+Reformed Political Party,0.4577927548441449,Right-wing,5935,5
+Party for the Animals,0.5551318716237686,Left-wing,6294,5
+Christian Democratic Appeal,0.2631115028646981,Right-wing,2269,6
+List Pim Fortuyn,0.826530612244898,Right-wing,98,6
+Party of Freedom,0.4183740912095175,Right-wing,1513,6
+People’s Party for Freedom and Democracy,0.2894385026737968,Right-wing,1496,6
+Christian Union,0.2469619756958055,Other,2551,6
+Democrats‘66,0.3881681370005189,Other,1927,6
+Forum for Democracy,0.2713178294573643,Right-wing,645,6
+Socialist Party,0.4274478961856075,Left-wing,2543,6
+Labour Party,0.3472306755934267,Left-wing,3286,6
+DENK,0.3278688524590163,Left-wing,1525,6
+Green Left,0.3096244414925733,Left-wing,8281,6
+50Plus,0.278344671201814,Other,1764,6
+Reformed Political Party,0.3515864892528147,Right-wing,5862,6
+Party for the Animals,0.3417743934832654,Left-wing,5647,6
+Christian Democratic Appeal,0.2335098700048146,Right-wing,2077,7
+List Pim Fortuyn,0.8373983739837398,Right-wing,123,7
+Party of Freedom,0.4404545454545454,Right-wing,2200,7
+People’s Party for Freedom and Democracy,0.3365310821181888,Right-wing,2606,7
+Christian Union,0.3273224043715847,Other,1830,7
+Democrats‘66,0.2709237445753255,Other,1613,7
+Forum for Democracy,0.3435700575815739,Right-wing,521,7
+Socialist Party,0.4723154362416107,Left-wing,2384,7
+Labour Party,0.3315400134498991,Left-wing,2974,7
+DENK,0.3274336283185841,Left-wing,2260,7
+Green Left,0.3051750380517504,Left-wing,6570,7
+50Plus,0.3150333504361211,Other,1949,7
+Reformed Political Party,0.2994060475161987,Right-wing,7408,7
+Party for the Animals,0.2612428454619787,Left-wing,4892,7
+Christian Democratic Appeal,0.1670690487687107,Right-wing,2071,8
+List Pim Fortuyn,0.3072289156626506,Right-wing,166,8
+Party of Freedom,0.3411214953271028,Right-wing,1284,8
+People’s Party for Freedom and Democracy,0.1739130434782608,Right-wing,1679,8
+Christian Union,0.2392026578073089,Other,1806,8
+Democrats‘66,0.2396072013093289,Other,3055,8
+Forum for Democracy,0.3023255813953488,Right-wing,129,8
+Socialist Party,0.3974393898120403,Left-wing,3671,8
+Labour Party,0.2513173895419538,Left-wing,2467,8
+DENK,0.0678941311852704,Left-wing,869,8
+Green Left,0.2051682521652705,Left-wing,7043,8
+50Plus,0.1954634556146737,Other,3571,8
+Reformed Political Party,0.1951291079812206,Right-wing,6816,8
+Party for the Animals,0.1481171548117154,Left-wing,4780,8
+Christian Democratic Appeal,0.2925998052580331,Right-wing,2054,9
+List Pim Fortuyn,0.5898078529657477,Right-wing,1197,9
+Party of Freedom,0.4760850310008857,Right-wing,2258,9
+People’s Party for Freedom and Democracy,0.262107051826678,Right-wing,2354,9
+Christian Union,0.2812135355892649,Other,1714,9
+Democrats‘66,0.2456521739130434,Other,2300,9
+Forum for Democracy,0.3399339933993399,Right-wing,303,9
+Socialist Party,0.3780326422584914,Left-wing,2267,9
+Labour Party,0.3492822966507177,Left-wing,1881,9
+DENK,0.1262135922330097,Left-wing,206,9
+Green Left,0.2417856333559936,Left-wing,8826,9
+50Plus,0.2245026839280075,Other,3167,9
+Reformed Political Party,0.2427701674277016,Right-wing,6570,9
+Party for the Animals,0.2672853828306265,Left-wing,4310,9
+Christian Democratic Appeal,0.1953846153846153,Right-wing,1950,10
+List Pim Fortuyn,0.3016241299303944,Right-wing,862,10
+Party of Freedom,0.267515923566879,Right-wing,2041,10
+People’s Party for Freedom and Democracy,0.1982990152193375,Right-wing,2234,10
+Christian Union,0.2070640176600441,Other,2265,10
+Democrats‘66,0.1579813494240263,Other,1823,10
+Forum for Democracy,0.4,Right-wing,25,10
+Socialist Party,0.2917771883289125,Left-wing,1508,10
+Labour Party,0.2044198895027624,Left-wing,3620,10
+DENK,0.1012658227848101,Left-wing,553,10
+Green Left,0.1291688045151359,Left-wing,7796,10
+50Plus,0.2715008431703204,Other,1186,10
+Reformed Political Party,0.1401349272103207,Right-wing,8449,10
+Party for the Animals,0.1627085377821393,Left-wing,5095,10
+Christian Democratic Appeal,0.2160194174757281,Right-wing,2060,11
+List Pim Fortuyn,0.4691075514874142,Right-wing,437,11
+Party of Freedom,0.3765978367748279,Right-wing,2034,11
+People’s Party for Freedom and Democracy,0.2708922083165119,Right-wing,2477,11
+Christian Union,0.1865703357416064,Other,2353,11
+Democrats‘66,0.305770887166236,Other,2322,11
+Forum for Democracy,0.8840579710144928,Right-wing,69,11
+Socialist Party,0.4486945962355798,Left-wing,1647,11
+Labour Party,0.2461590986684875,Left-wing,2929,11
+DENK,0.1990291262135922,Left-wing,206,11
+Green Left,0.3010603163566834,Left-wing,5753,11
+50Plus,0.2292791362337249,Other,3149,11
+Reformed Political Party,0.2347914806784848,Right-wing,7841,11
+Party for the Animals,0.2123980424143556,Left-wing,6130,11
+Christian Democratic Appeal,0.2453580901856764,Right-wing,754,12
+List Pim Fortuyn,0.2614795918367347,Right-wing,784,12
+Party of Freedom,0.2723311546840958,Right-wing,1836,12
+People’s Party for Freedom and Democracy,0.2365702479338843,Right-wing,1936,12
+Christian Union,0.2706441850410722,Other,2313,12
+Democrats‘66,0.2574728260869565,Other,2944,12
+Forum for Democracy,0.3309859154929577,Right-wing,284,12
+Socialist Party,0.3811111111111111,Left-wing,2700,12
+Labour Party,0.2329852358660425,Left-wing,2777,12
+DENK,0.1787351054078826,Left-wing,1091,12
+Green Left,0.2210984358461719,Left-wing,8503,12
+50Plus,0.1533117183881426,Other,4318,12
+Reformed Political Party,0.2283294586516107,Right-wing,6022,12
+Party for the Animals,0.1802861685214626,Left-wing,3145,12
+Christian Democratic Appeal,0.489689135118498,Right-wing,3249,13
+List Pim Fortuyn,0.6804469273743017,Right-wing,895,13
+Party of Freedom,0.5362035225048923,Right-wing,1533,13
+People’s Party for Freedom and Democracy,0.4658361645904115,Right-wing,2649,13
+Christian Union,0.4614435533621221,Other,1621,13
+Democrats‘66,0.5107991360691144,Other,1852,13
+Forum for Democracy,0.6566037735849056,Right-wing,795,13
+Socialist Party,0.6895766954938553,Left-wing,2197,13
+Labour Party,0.4899154196486662,Left-wing,1537,13
+DENK,0.6051660516605166,Left-wing,1355,13
+Green Left,0.5149722735674677,Left-wing,5410,13
+50Plus,0.5434610303830911,Other,3785,13
+Reformed Political Party,0.6251313025210085,Right-wing,7616,13
+Party for the Animals,0.5515978017504579,Left-wing,4913,13
+Christian Democratic Appeal,0.4903271192402392,Right-wing,2843,14
+List Pim Fortuyn,0.5569620253164557,Right-wing,79,14
+Party of Freedom,0.6460865337870686,Right-wing,2057,14
+People’s Party for Freedom and Democracy,0.6065573770491803,Right-wing,976,14
+Christian Union,0.5966162065894924,Other,2246,14
+Democrats‘66,0.5256237356709373,Other,2966,14
+Forum for Democracy,0.6217948717948718,Right-wing,156,14
+Socialist Party,0.6540586485337867,Left-wing,2353,14
+Labour Party,0.4864253393665158,Left-wing,2652,14
+DENK,0.7514693534844669,Left-wing,1191,14
+Green Left,0.6946314234115909,Left-wing,6091,14
+50Plus,0.7102510460251046,Other,2868,14
+Reformed Political Party,0.6391851244189226,Right-wing,7314,14
+Party for the Animals,0.6730186999109528,Left-wing,5615,14
+Christian Democratic Appeal,0.1937239833493435,Right-wing,3123,15
+List Pim Fortuyn,0.3156199677938808,Right-wing,621,15
+Party of Freedom,0.5305039787798409,Right-wing,754,15
+People’s Party for Freedom and Democracy,0.2700363027087405,Right-wing,3581,15
+Christian Union,0.2349806201550387,Other,2064,15
+Democrats‘66,0.3410493827160494,Other,1944,15
+Forum for Democracy,0.53125,Right-wing,32,15
+Socialist Party,0.4429102496016994,Left-wing,1883,15
+Labour Party,0.2850386930352536,Left-wing,2326,15
+DENK,0.3495145631067961,Left-wing,206,15
+Green Left,0.2852510343285251,Left-wing,8943,15
+50Plus,0.3215384615384615,Other,3250,15
+Reformed Political Party,0.387862796833773,Right-wing,6064,15
+Party for the Animals,0.28921143847487,Left-wing,4616,15
+Christian Democratic Appeal,0.3282997762863535,Right-wing,3576,16
+List Pim Fortuyn,0.1960132890365448,Right-wing,301,16
+Party of Freedom,0.3564245810055866,Right-wing,1790,16
+People’s Party for Freedom and Democracy,0.3379120879120879,Right-wing,1456,16
+Christian Union,0.2413280475718533,Other,2018,16
+Democrats‘66,0.2919730392156863,Other,3264,16
+Forum for Democracy,0.482832618025751,Right-wing,466,16
+Socialist Party,0.4033477321814255,Left-wing,1852,16
+Labour Party,0.2996884735202492,Left-wing,1605,16
+DENK,0.1941747572815534,Left-wing,206,16
+Green Left,0.2557265785965337,Left-wing,8251,16
+50Plus,0.2329349269588313,Other,3765,16
+Reformed Political Party,0.2648648648648649,Right-wing,5550,16
+Party for the Animals,0.2146221970981722,Left-wing,5307,16
+Christian Democratic Appeal,0.2957233848953594,Right-wing,2198,17
+List Pim Fortuyn,0.3934142114384749,Right-wing,577,17
+Party of Freedom,0.48,Right-wing,1200,17
+People’s Party for Freedom and Democracy,0.2843051929213809,Right-wing,3447,17
+Christian Union,0.3841494194851085,Other,1981,17
+Democrats‘66,0.3395472703062583,Other,3004,17
+Forum for Democracy,0.2195121951219512,Right-wing,41,17
+Socialist Party,0.4355243351731058,Left-wing,1993,17
+Labour Party,0.3004769475357711,Left-wing,1887,17
+DENK,0.2610878661087866,Left-wing,1195,17
+Green Left,0.2360533486304316,Left-wing,6973,17
+50Plus,0.251349267540478,Other,1297,17
+Reformed Political Party,0.2208951125755079,Right-wing,7284,17
+Party for the Animals,0.2584518167456556,Left-wing,6330,17
+Christian Democratic Appeal,0.1875871687587168,Right-wing,1434,18
+List Pim Fortuyn,0.2731707317073171,Right-wing,820,18
+Party of Freedom,0.2913322632423756,Right-wing,1246,18
+People’s Party for Freedom and Democracy,0.2157377049180328,Right-wing,3050,18
+Christian Union,0.2313043478260869,Other,1725,18
+Democrats‘66,0.3058877644894204,Other,2174,18
+Forum for Democracy,0.4571428571428571,Right-wing,35,18
+Socialist Party,0.3086172344689378,Left-wing,2994,18
+Labour Party,0.2098245614035087,Left-wing,2850,18
+DENK,0.1175406871609403,Left-wing,553,18
+Green Left,0.2244246981089086,Left-wing,8778,18
+50Plus,0.2295384615384615,Other,3250,18
+Reformed Political Party,0.2131224553711243,Right-wing,6386,18
+Party for the Animals,0.2037937743190661,Left-wing,4112,18
+Christian Democratic Appeal,0.3531575720416922,Right-wing,1631,19
+List Pim Fortuyn,0.6293103448275862,Right-wing,116,19
+Party of Freedom,0.5782241014799154,Right-wing,946,19
+People’s Party for Freedom and Democracy,0.2382404181184669,Right-wing,2296,19
+Christian Union,0.2800757814966845,Other,3167,19
+Democrats‘66,0.2910168434185901,Other,3206,19
+Forum for Democracy,0.3638170974155069,Right-wing,503,19
+Socialist Party,0.3271123176111299,Left-wing,2947,19
+Labour Party,0.2077836411609498,Left-wing,1516,19
+DENK,0.5185891325071497,Left-wing,1049,19
+Green Left,0.2765210205557277,Left-wing,9681,19
+50Plus,0.2489451476793249,Other,2133,19
+Reformed Political Party,0.2483878140982877,Right-wing,4497,19
+Party for the Animals,0.3175380311243224,Left-wing,5719,19
+Christian Democratic Appeal,0.2312176165803108,Right-wing,3088,20
+List Pim Fortuyn,0.4619883040935672,Right-wing,513,20
+Party of Freedom,0.3206924979389942,Right-wing,1213,20
+People’s Party for Freedom and Democracy,0.2740885416666667,Right-wing,1536,20
+Christian Union,0.3263103802672148,Other,1946,20
+Democrats‘66,0.271619975639464,Other,3284,20
+Forum for Democracy,0.323019801980198,Right-wing,808,20
+Socialist Party,0.452473596442468,Left-wing,1799,20
+Labour Party,0.237739374124241,Left-wing,2141,20
+DENK,0.5166858457997698,Left-wing,869,20
+Green Left,0.2596956308296514,Left-wing,6111,20
+50Plus,0.3253533971728226,Other,4386,20
+Reformed Political Party,0.3627850162866449,Right-wing,7368,20
+Party for the Animals,0.2616800920598389,Left-wing,4345,20
+Christian Democratic Appeal,0.6419322709163346,Right-wing,2008,21
+List Pim Fortuyn,0.7167630057803468,Right-wing,519,21
+Party of Freedom,0.6705091258405379,Right-wing,2082,21
+People’s Party for Freedom and Democracy,0.5936170212765958,Right-wing,1410,21
+Christian Union,0.5743362831858407,Other,1130,21
+Democrats‘66,0.5891148325358851,Other,3344,21
+Forum for Democracy,0.7196149217809867,Right-wing,831,21
+Socialist Party,0.6890024038461539,Left-wing,3328,21
+Labour Party,0.5202863961813843,Left-wing,1676,21
+DENK,0.7458697764820214,Left-wing,2058,21
+Green Left,0.7016350555918901,Left-wing,7645,21
+50Plus,0.7648686030428768,Other,3615,21
+Reformed Political Party,0.7254500818330606,Right-wing,4888,21
+Party for the Animals,0.6882823722552842,Left-wing,4873,21
+Christian Democratic Appeal,0.4150737302020754,Right-wing,1831,22
+List Pim Fortuyn,0.5705521472392638,Right-wing,163,22
+Party of Freedom,0.607608129233976,Right-wing,1919,22
+People’s Party for Freedom and Democracy,0.5502709211318483,Right-wing,3322,22
+Christian Union,0.4406779661016949,Other,1475,22
+Democrats‘66,0.4616695059625213,Other,2348,22
+Forum for Democracy,0.609504132231405,Right-wing,484,22
+Socialist Party,0.6833460656990069,Left-wing,2618,22
+Labour Party,0.4091328413284132,Left-wing,2168,22
+DENK,0.5673640167364017,Left-wing,1195,22
+Green Left,0.4816524088248536,Left-wing,8884,22
+50Plus,0.5184331797235023,Other,3038,22
+Reformed Political Party,0.5007444907683145,Right-wing,6716,22
+Party for the Animals,0.4115834873690696,Left-wing,3246,22
+Christian Democratic Appeal,0.1377601585728444,Right-wing,2018,23
+List Pim Fortuyn,0.2607655502392344,Right-wing,836,23
+Party of Freedom,0.5358565737051793,Right-wing,502,23
+People’s Party for Freedom and Democracy,0.2278673562519014,Right-wing,3287,23
+Christian Union,0.2184743124026985,Other,1927,23
+Democrats‘66,0.1794035414725069,Other,2146,23
+Forum for Democracy,0.4100346020761246,Right-wing,578,23
+Socialist Party,0.4546391752577319,Left-wing,1940,23
+Labour Party,0.1722689075630252,Left-wing,3094,23
+DENK,0.1891996891996891,Left-wing,2574,23
+Green Left,0.2334120115394702,Left-wing,7626,23
+50Plus,0.1093544137022397,Other,759,23
+Reformed Political Party,0.1827142857142857,Right-wing,7000,23
+Party for the Animals,0.2375,Left-wing,5120,23
+Christian Democratic Appeal,0.3647166361974406,Right-wing,1094,24
+List Pim Fortuyn,0.6822107081174439,Right-wing,579,24
+Party of Freedom,0.6315128688010044,Right-wing,1593,24
+People’s Party for Freedom and Democracy,0.5575286718460969,Right-wing,2703,24
+Christian Union,0.5058386411889597,Other,1884,24
+Democrats‘66,0.4470774091627172,Other,3798,24
+Forum for Democracy,0.561119293078056,Right-wing,679,24
+Socialist Party,0.5477582846003899,Left-wing,1026,24
+Labour Party,0.452557200538358,Left-wing,2972,24
+DENK,0.5223097112860893,Left-wing,1143,24
+Green Left,0.5585897991619708,Left-wing,6921,24
+50Plus,0.5852130325814536,Other,2394,24
+Reformed Political Party,0.5306122448979592,Right-wing,6566,24
+Party for the Animals,0.5301403798513625,Left-wing,6055,24
+Christian Democratic Appeal,0.2855313700384123,Right-wing,2343,25
+List Pim Fortuyn,0.6877192982456141,Right-wing,285,25
+Party of Freedom,0.3890274314214463,Right-wing,1604,25
+People’s Party for Freedom and Democracy,0.3183391003460207,Right-wing,1734,25
+Christian Union,0.3129694541812719,Other,1997,25
+Democrats‘66,0.2130394857667585,Other,3267,25
+Forum for Democracy,0.2743628185907046,Right-wing,667,25
+Socialist Party,0.3453908984830805,Left-wing,1714,25
+Labour Party,0.2517482517482518,Left-wing,2717,25
+DENK,0.5693430656934306,Left-wing,137,25
+Green Left,0.2876827896512935,Left-wing,7112,25
+50Plus,0.2495452891960713,Other,2749,25
+Reformed Political Party,0.3254901960784314,Right-wing,7140,25
+Party for the Animals,0.3145935027773102,Left-wing,5941,25
+Christian Democratic Appeal,0.6047227926078029,Right-wing,1948,26
+List Pim Fortuyn,0.7948717948717948,Right-wing,39,26
+Party of Freedom,0.7532097004279601,Right-wing,2103,26
+People’s Party for Freedom and Democracy,0.6478506296135476,Right-wing,2303,26
+Christian Union,0.6377787126630207,Other,2377,26
+Democrats‘66,0.7373929590865842,Other,2102,26
+Forum for Democracy,0.780952380952381,Right-wing,105,26
+Socialist Party,0.7663230240549829,Left-wing,2328,26
+Labour Party,0.646046973205425,Left-wing,3023,26
+DENK,0.7225663716814159,Left-wing,2260,26
+Green Left,0.8074756784434204,Left-wing,5859,26
+50Plus,0.8129076553381394,Other,2913,26
+Reformed Political Party,0.7834415584415585,Right-wing,6160,26
+Party for the Animals,0.73653813487345,Left-wing,5887,26
+Christian Democratic Appeal,0.2786885245901639,Right-wing,488,27
+List Pim Fortuyn,0.5683709869203329,Right-wing,841,27
+Party of Freedom,0.6435559336452573,Right-wing,2351,27
+People’s Party for Freedom and Democracy,0.4905127169963665,Right-wing,2477,27
+Christian Union,0.4141414141414141,Other,1881,27
+Democrats‘66,0.5544882411394502,Other,3019,27
+Forum for Democracy,0.5551181102362205,Right-wing,254,27
+Socialist Party,0.6018916595012898,Left-wing,2326,27
+Labour Party,0.4418431809736157,Left-wing,2691,27
+DENK,0.218978102189781,Left-wing,137,27
+Green Left,0.5408341155960842,Left-wing,7457,27
+50Plus,0.5459183673469388,Other,1764,27
+Reformed Political Party,0.5155891483331084,Right-wing,7409,27
+Party for the Animals,0.449936628643853,Left-wing,6312,27
+Christian Democratic Appeal,0.5734265734265734,Right-wing,2145,28
+List Pim Fortuyn,0.4285714285714285,Right-wing,14,28
+Party of Freedom,0.6799043062200957,Right-wing,2090,28
+People’s Party for Freedom and Democracy,0.6260129659643436,Right-wing,2468,28
+Christian Union,0.4805825242718446,Other,2060,28
+Democrats‘66,0.6620583717357911,Other,1302,28
+Forum for Democracy,0.6276083467094703,Right-wing,1246,28
+Socialist Party,0.6882145998240985,Left-wing,2274,28
+Labour Party,0.6027849028948332,Left-wing,2729,28
+DENK,0.6416131989000916,Left-wing,1091,28
+Green Left,0.6679900744416873,Left-wing,8060,28
+50Plus,0.6094890510948905,Other,2466,28
+Reformed Political Party,0.6919869706840391,Right-wing,7675,28
+Party for the Animals,0.6091893319250066,Left-wing,3787,28
+Christian Democratic Appeal,0.2641165755919854,Right-wing,1647,29
+List Pim Fortuyn,0.3597678916827853,Right-wing,517,29
+Party of Freedom,0.5181467181467182,Right-wing,1295,29
+People’s Party for Freedom and Democracy,0.3331357439241256,Right-wing,1687,29
+Christian Union,0.3538380651945321,Other,1902,29
+Democrats‘66,0.357471264367816,Other,3480,29
+Forum for Democracy,0.0,Right-wing,5,29
+Socialist Party,0.5400329489291598,Left-wing,3035,29
+Labour Party,0.3489130434782608,Left-wing,2760,29
+DENK,0.2981549815498155,Left-wing,1355,29
+Green Left,0.282812043262204,Left-wing,6842,29
+50Plus,0.416970802919708,Other,2192,29
+Reformed Political Party,0.3243598161523309,Right-wing,6092,29
+Party for the Animals,0.3188845104577144,Left-wing,6598,29
+Christian Democratic Appeal,0.4905020352781546,Right-wing,1474,30
+List Pim Fortuyn,0.6196473551637279,Right-wing,794,30
+Party of Freedom,0.6113116726835138,Right-wing,1662,30
+People’s Party for Freedom and Democracy,0.4902962206332993,Right-wing,2937,30
+Christian Union,0.4534518828451883,Other,1912,30
+Democrats‘66,0.5150044130626655,Other,2266,30
+Forum for Democracy,0.7537688442211056,Right-wing,199,30
+Socialist Party,0.5843469063987309,Left-wing,1891,30
+Labour Party,0.4660194174757281,Left-wing,3193,30
+DENK,0.541969596827495,Left-wing,1513,30
+Green Left,0.4765564950038432,Left-wing,7806,30
+50Plus,0.5059364228265033,Other,2611,30
+Reformed Political Party,0.539593171086088,Right-wing,5506,30
+Party for the Animals,0.4607478291688818,Left-wing,5643,30
+Christian Democratic Appeal,0.6014588859416445,Right-wing,1508,31
+List Pim Fortuyn,0.40625,Right-wing,32,31
+Party of Freedom,0.69068255687974,Right-wing,1846,31
+People’s Party for Freedom and Democracy,0.6044754431851206,Right-wing,3441,31
+Christian Union,0.6311010215664018,Other,1762,31
+Democrats‘66,0.6415752741774676,Other,2006,31
+Forum for Democracy,0.7010428736964078,Right-wing,863,31
+Socialist Party,0.6920462270564242,Left-wing,2942,31
+Labour Party,0.5850622406639004,Left-wing,1928,31
+DENK,0.6797979797979798,Left-wing,990,31
+Green Left,0.7204241071428571,Left-wing,7168,31
+50Plus,0.7146034099332839,Other,1349,31
+Reformed Political Party,0.67519710482099,Right-wing,7737,31
+Party for the Animals,0.7379605826906598,Left-wing,5835,31
+Christian Democratic Appeal,0.284412955465587,Right-wing,988,32
+List Pim Fortuyn,0.52,Right-wing,125,32
+Party of Freedom,0.4893719806763285,Right-wing,2070,32
+People’s Party for Freedom and Democracy,0.3410385259631491,Right-wing,2985,32
+Christian Union,0.2941176470588235,Other,1836,32
+Democrats‘66,0.2347743767750079,Other,3169,32
+Forum for Democracy,0.898876404494382,Right-wing,89,32
+Socialist Party,0.5041322314049587,Left-wing,1573,32
+Labour Party,0.2811336959633553,Left-wing,3493,32
+DENK,0.3794683776351971,Left-wing,1091,32
+Green Left,0.3118387348257044,Left-wing,8979,32
+50Plus,0.2956434985034918,Other,3007,32
+Reformed Political Party,0.3864942528735632,Right-wing,6264,32
+Party for the Animals,0.3103263777421081,Left-wing,3738,32
+Christian Democratic Appeal,0.16015625,Right-wing,1024,33
+List Pim Fortuyn,0.3497536945812808,Right-wing,812,33
+Party of Freedom,0.3022388059701492,Right-wing,1072,33
+People’s Party for Freedom and Democracy,0.2014607425441266,Right-wing,3286,33
+Christian Union,0.2927272727272727,Other,550,33
+Democrats‘66,0.1906625663964216,Other,3577,33
+Forum for Democracy,0.2012711864406779,Right-wing,472,33
+Socialist Party,0.287636669470143,Left-wing,2378,33
+Labour Party,0.1843522331327209,Left-wing,3157,33
+DENK,0.1649862511457378,Left-wing,1091,33
+Green Left,0.1792124542124542,Left-wing,10920,33
+50Plus,0.2130025662959794,Other,2338,33
+Reformed Political Party,0.1690987124463519,Right-wing,5825,33
+Party for the Animals,0.2757314974182444,Left-wing,2905,33
+Christian Democratic Appeal,0.374251497005988,Right-wing,1002,34
+List Pim Fortuyn,0.3697318007662835,Right-wing,522,34
+Party of Freedom,0.3917579551382368,Right-wing,1917,34
+People’s Party for Freedom and Democracy,0.1978557504873294,Right-wing,2052,34
+Christian Union,0.2240822320117474,Other,3405,34
+Democrats‘66,0.1891891891891892,Other,1591,34
+Forum for Democracy,0.4310344827586206,Right-wing,116,34
+Socialist Party,0.3493034318722392,Left-wing,2943,34
+Labour Party,0.2435251798561151,Left-wing,2780,34
+DENK,0.3177150192554557,Left-wing,1558,34
+Green Left,0.3052383316782522,Left-wing,8056,34
+50Plus,0.2178090967328635,Other,1561,34
+Reformed Political Party,0.2451077009714205,Right-wing,7103,34
+Party for the Animals,0.2457821287231826,Left-wing,4801,34
+Christian Democratic Appeal,0.3277574490329326,Right-wing,1913,35
+List Pim Fortuyn,0.44,Right-wing,650,35
+Party of Freedom,0.540453074433657,Right-wing,618,35
+People’s Party for Freedom and Democracy,0.3363514419852448,Right-wing,2982,35
+Christian Union,0.3294117647058823,Other,1020,35
+Democrats‘66,0.3710666121781774,Other,2447,35
+Forum for Democracy,0.3320683111954459,Right-wing,527,35
+Socialist Party,0.4855270344074276,Left-wing,3662,35
+Labour Party,0.3507373455559984,Left-wing,2509,35
+DENK,0.2199832073887489,Left-wing,1191,35
+Green Left,0.2848668981481481,Left-wing,6912,35
+50Plus,0.3076643661460225,Other,2753,35
+Reformed Political Party,0.3132485029940119,Right-wing,8016,35
+Party for the Animals,0.2850011884953649,Left-wing,4207,35
+Christian Democratic Appeal,0.5342062193126023,Right-wing,3055,36
+List Pim Fortuyn,0.4090909090909091,Right-wing,22,36
+Party of Freedom,0.8208603417796111,Right-wing,1697,36
+People’s Party for Freedom and Democracy,0.6035578144853876,Right-wing,2361,36
+Christian Union,0.7265705458290422,Other,1942,36
+Democrats‘66,0.5922202797202797,Other,2288,36
+Forum for Democracy,0.7544910179640718,Right-wing,167,36
+Socialist Party,0.7348484848484849,Left-wing,2244,36
+Labour Party,0.6508620689655172,Left-wing,2552,36
+DENK,0.7481108312342569,Left-wing,1191,36
+Green Left,0.6993771450362273,Left-wing,7867,36
+50Plus,0.7140625,Other,1280,36
+Reformed Political Party,0.7267399267399267,Right-wing,6825,36
+Party for the Animals,0.7128127112914131,Left-wing,5916,36
+Christian Democratic Appeal,0.3630672926447574,Right-wing,1278,37
+List Pim Fortuyn,0.4480286738351254,Right-wing,279,37
+Party of Freedom,0.5668789808917197,Right-wing,1570,37
+People’s Party for Freedom and Democracy,0.5436132865244396,Right-wing,3703,37
+Christian Union,0.5093457943925234,Other,2568,37
+Democrats‘66,0.5586319218241043,Other,1842,37
+Forum for Democracy,0.508411214953271,Right-wing,535,37
+Socialist Party,0.6827956989247311,Left-wing,2604,37
+Labour Party,0.5207798871216008,Left-wing,1949,37
+DENK,0.6583025830258302,Left-wing,1355,37
+Green Left,0.5665907365223994,Left-wing,6585,37
+50Plus,0.5382247306310929,Other,1949,37
+Reformed Political Party,0.5804217331075882,Right-wing,6497,37
+Party for the Animals,0.540415359330644,Left-wing,6693,37
+Christian Democratic Appeal,0.1441670911869587,Right-wing,1963,38
+List Pim Fortuyn,0.2918032786885245,Right-wing,610,38
+Party of Freedom,0.299644128113879,Right-wing,1405,38
+People’s Party for Freedom and Democracy,0.1510820743160473,Right-wing,2449,38
+Christian Union,0.2738738738738738,Other,1110,38
+Democrats‘66,0.1647558386411889,Other,2355,38
+Forum for Democracy,0.232242617717478,Right-wing,1253,38
+Socialist Party,0.3050524308865586,Left-wing,2098,38
+Labour Party,0.172771474878444,Left-wing,3085,38
+DENK,0.3069590085795996,Left-wing,1049,38
+Green Left,0.1660723382577687,Left-wing,7852,38
+50Plus,0.1599709583736689,Other,4132,38
+Reformed Political Party,0.1786754002911208,Right-wing,5496,38
+Party for the Animals,0.187032967032967,Left-wing,4550,38
+Christian Democratic Appeal,0.2762221167536782,Right-wing,2107,39
+List Pim Fortuyn,0.0,Right-wing,5,39
+Party of Freedom,0.5223438887244747,Right-wing,3379,39
+People’s Party for Freedom and Democracy,0.349008082292432,Right-wing,2722,39
+Christian Union,0.2380599777860051,Other,2701,39
+Democrats‘66,0.2590987868284228,Other,1154,39
+Forum for Democracy,0.4567901234567901,Right-wing,81,39
+Socialist Party,0.3457044673539519,Left-wing,1455,39
+Labour Party,0.2463289280469897,Left-wing,2724,39
+DENK,0.2272143774069319,Left-wing,1558,39
+Green Left,0.2186515437933207,Left-wing,7935,39
+50Plus,0.2892430278884462,Other,1255,39
+Reformed Political Party,0.2101741984347387,Right-wing,7922,39
+Party for the Animals,0.1970968473576775,Left-wing,4409,39
+Christian Democratic Appeal,0.1474164133738602,Right-wing,1974,40
+List Pim Fortuyn,0.1992481203007518,Right-wing,266,40
+Party of Freedom,0.4079585894532513,Right-wing,3091,40
+People’s Party for Freedom and Democracy,0.2460707269155206,Right-wing,2036,40
+Christian Union,0.1909693454846727,Other,2414,40
+Democrats‘66,0.157,Other,2000,40
+Forum for Democracy,0.1545778834720571,Right-wing,841,40
+Socialist Party,0.2536456031816173,Left-wing,2263,40
+Labour Party,0.1767151767151767,Left-wing,1443,40
+DENK,0.1367521367521367,Left-wing,2574,40
+Green Left,0.1378008494572911,Left-wing,8476,40
+50Plus,0.163167104111986,Other,2286,40
+Reformed Political Party,0.1541120815138282,Right-wing,5496,40
+Party for the Animals,0.1645867671297386,Left-wing,4247,40
+Christian Democratic Appeal,0.2722443559096945,Right-wing,2259,41
+List Pim Fortuyn,0.2,Right-wing,155,41
+Party of Freedom,0.4382608695652173,Right-wing,1150,41
+People’s Party for Freedom and Democracy,0.2452038369304556,Right-wing,3336,41
+Christian Union,0.1848516949152542,Other,1888,41
+Democrats‘66,0.2867540029112082,Other,2061,41
+Forum for Democracy,0.3213859020310633,Right-wing,837,41
+Socialist Party,0.4300378173960021,Left-wing,1851,41
+Labour Party,0.2783948405589394,Left-wing,2791,41
+DENK,0.1767279090113735,Left-wing,1143,41
+Green Left,0.2121475054229935,Left-wing,9220,41
+50Plus,0.3899895724713243,Other,1918,41
+Reformed Political Party,0.2260794473229706,Right-wing,5790,41
+Party for the Animals,0.2705670926517572,Left-wing,5008,41
+Christian Democratic Appeal,0.2762568442010951,Right-wing,2009,42
+List Pim Fortuyn,0.3217391304347826,Right-wing,115,42
+Party of Freedom,0.3422489082969432,Right-wing,1832,42
+People’s Party for Freedom and Democracy,0.2590725806451613,Right-wing,1984,42
+Christian Union,0.2829403606102635,Other,1442,42
+Democrats‘66,0.249584487534626,Other,3610,42
+Forum for Democracy,0.3432835820895522,Right-wing,67,42
+Socialist Party,0.408712019360043,Left-wing,3719,42
+Labour Party,0.1787096774193548,Left-wing,1550,42
+DENK,0.1645675902602854,Left-wing,1191,42
+Green Left,0.2402221149203283,Left-wing,8284,42
+50Plus,0.190775681341719,Other,1908,42
+Reformed Political Party,0.2026270040564033,Right-wing,5177,42
+Party for the Animals,0.2026384414787544,Left-wing,6519,42
+Christian Democratic Appeal,0.4450184501845018,Right-wing,1355,43
+List Pim Fortuyn,0.6955645161290323,Right-wing,496,43
+Party of Freedom,0.7850255246738513,Right-wing,1763,43
+People’s Party for Freedom and Democracy,0.5251798561151079,Right-wing,1668,43
+Christian Union,0.5434412265758092,Other,2935,43
+Democrats‘66,0.5875311720698254,Other,2005,43
+Forum for Democracy,0.82642089093702,Right-wing,1302,43
+Socialist Party,0.7187943262411347,Left-wing,2820,43
+Labour Party,0.6295362903225806,Left-wing,1984,43
+DENK,0.5310981535471332,Left-wing,2058,43
+Green Left,0.4989597356504712,Left-wing,8171,43
+50Plus,0.6349206349206349,Other,3717,43
+Reformed Political Party,0.562362758014932,Right-wing,4554,43
+Party for the Animals,0.5913955012011356,Left-wing,4579,43
+Christian Democratic Appeal,0.5103324348607368,Right-wing,2226,44
+List Pim Fortuyn,0.3450704225352112,Right-wing,142,44
+Party of Freedom,0.6109839816933639,Right-wing,1748,44
+People’s Party for Freedom and Democracy,0.5882352941176471,Right-wing,1989,44
+Christian Union,0.4165813715455476,Other,977,44
+Democrats‘66,0.5016666666666667,Other,3000,44
+Forum for Democracy,0.6228287841191067,Right-wing,806,44
+Socialist Party,0.6766390833863781,Left-wing,3142,44
+Labour Party,0.484769364664926,Left-wing,2298,44
+DENK,0.429228998849252,Left-wing,869,44
+Green Left,0.5812374633544206,Left-wing,6481,44
+50Plus,0.5008110300081103,Other,2466,44
+Reformed Political Party,0.6077586206896551,Right-wing,8120,44
+Party for the Animals,0.537429515846782,Left-wing,5143,44
+Christian Democratic Appeal,0.3300852618757612,Right-wing,1642,45
+List Pim Fortuyn,0.4226415094339623,Right-wing,530,45
+Party of Freedom,0.4178321678321678,Right-wing,2288,45
+People’s Party for Freedom and Democracy,0.2951212211912601,Right-wing,3341,45
+Christian Union,0.2508909479686386,Other,1403,45
+Democrats‘66,0.3823697767601602,Other,1747,45
+Forum for Democracy,0.5918762088974855,Right-wing,517,45
+Socialist Party,0.4023944130362487,Left-wing,3007,45
+Labour Party,0.2784673502428494,Left-wing,1853,45
+DENK,0.3342082239720035,Left-wing,1143,45
+Green Left,0.2929371499688861,Left-wing,6428,45
+50Plus,0.3761647866601275,Other,2039,45
+Reformed Political Party,0.2927610506085842,Right-wing,9366,45
+Party for the Animals,0.2817450645868876,Left-wing,4103,45
+Christian Democratic Appeal,0.1857273559011893,Right-wing,2186,46
+List Pim Fortuyn,0.3846153846153846,Right-wing,26,46
+Party of Freedom,0.5058823529411764,Right-wing,1020,46
+People’s Party for Freedom and Democracy,0.3311345646437995,Right-wing,2274,46
+Christian Union,0.2783764367816091,Other,2784,46
+Democrats‘66,0.2361553150859325,Other,1571,46
+Forum for Democracy,0.4401993355481727,Right-wing,602,46
+Socialist Party,0.4165591397849462,Left-wing,4650,46
+Labour Party,0.231275720164609,Left-wing,1215,46
+DENK,0.3,Left-wing,2260,46
+Green Left,0.259488681157788,Left-wing,8879,46
+50Plus,0.2340425531914893,Other,3149,46
+Reformed Political Party,0.3104668801618068,Right-wing,5933,46
+Party for the Animals,0.3222533240027991,Left-wing,2858,46
+Christian Democratic Appeal,0.6013333333333334,Right-wing,3000,47
+List Pim Fortuyn,0.7484662576687117,Right-wing,163,47
+Party of Freedom,0.6973365617433414,Right-wing,826,47
+People’s Party for Freedom and Democracy,0.6136560069144339,Right-wing,2314,47
+Christian Union,0.6268932397487994,Other,2707,47
+Democrats‘66,0.6754212091179386,Other,2018,47
+Forum for Democracy,1.0,Right-wing,7,47
+Socialist Party,0.764861683343143,Left-wing,3398,47
+Labour Party,0.5857519788918206,Left-wing,1895,47
+DENK,0.6342804766269478,Left-wing,1091,47
+Green Left,0.6924898066552676,Left-wing,7603,47
+50Plus,0.7610040014550745,Other,2749,47
+Reformed Political Party,0.6362519201228879,Right-wing,6510,47
+Party for the Animals,0.6609442060085837,Left-wing,5126,47
+Christian Democratic Appeal,0.1133217993079584,Right-wing,1156,48
+List Pim Fortuyn,0.4002320185614849,Right-wing,862,48
+Party of Freedom,0.3048469387755102,Right-wing,1568,48
+People’s Party for Freedom and Democracy,0.2407407407407407,Right-wing,2484,48
+Christian Union,0.1280062063615205,Other,2578,48
+Democrats‘66,0.1368209255533199,Other,2485,48
+Forum for Democracy,0.2857142857142857,Right-wing,21,48
+Socialist Party,0.2827586206896552,Left-wing,2465,48
+Labour Party,0.1679586563307493,Left-wing,2709,48
+DENK,0.1561712846347607,Left-wing,1191,48
+Green Left,0.1430260047281324,Left-wing,7614,48
+50Plus,0.1776563033823027,Other,2927,48
+Reformed Political Party,0.1716325263811297,Right-wing,6444,48
+Party for the Animals,0.1762186416479706,Left-wing,4903,48
+Christian Democratic Appeal,0.515532940546331,Right-wing,3734,49
+List Pim Fortuyn,0.642023346303502,Right-wing,514,49
+Party of Freedom,0.6082966226138032,Right-wing,2724,49
+People’s Party for Freedom and Democracy,0.5422365245374094,Right-wing,2486,49
+Christian Union,0.3107221006564551,Other,914,49
+Democrats‘66,0.4236209335219236,Other,1414,49
+Forum for Democracy,0.5415430267062314,Right-wing,674,49
+Socialist Party,0.6970770593445527,Left-wing,2258,49
+Labour Party,0.5105590062111801,Left-wing,1610,49
+DENK,0.6796116504854369,Left-wing,206,49
+Green Left,0.5543983822042468,Left-wing,9890,49
+50Plus,0.5936704256093125,Other,2749,49
+Reformed Political Party,0.5630794701986755,Right-wing,6040,49
+Party for the Animals,0.561993323795899,Left-wing,4194,49
+Christian Democratic Appeal,0.2525208241999123,Right-wing,2281,50
+List Pim Fortuyn,0.375,Right-wing,8,50
+Party of Freedom,0.3575284943011397,Right-wing,1667,50
+People’s Party for Freedom and Democracy,0.2201591511936339,Right-wing,2262,50
+Christian Union,0.1730067743616467,Other,1919,50
+Democrats‘66,0.2039722572509457,Other,3172,50
+Forum for Democracy,0.1842105263157894,Right-wing,456,50
+Socialist Party,0.3381481481481481,Left-wing,2700,50
+Labour Party,0.2485238862050456,Left-wing,1863,50
+DENK,0.1969696969696969,Left-wing,990,50
+Green Left,0.2236200838716989,Left-wing,8823,50
+50Plus,0.19453125,Other,1280,50
+Reformed Political Party,0.2125739644970414,Right-wing,6760,50
+Party for the Animals,0.2257941063911213,Left-wing,5226,50
+Christian Democratic Appeal,0.4050704225352112,Right-wing,1775,51
+List Pim Fortuyn,0.34765625,Right-wing,256,51
+Party of Freedom,0.5066539923954373,Right-wing,1052,51
+People’s Party for Freedom and Democracy,0.2256907068532472,Right-wing,2787,51
+Christian Union,0.237719298245614,Other,2280,51
+Democrats‘66,0.2570855997709705,Other,3493,51
+Forum for Democracy,0.2383720930232558,Right-wing,172,51
+Socialist Party,0.4154929577464789,Left-wing,2556,51
+Labour Party,0.2953500255493101,Left-wing,1957,51
+DENK,0.3221757322175732,Left-wing,1195,51
+Green Left,0.2993331686836256,Left-wing,8098,51
+50Plus,0.3506300963676798,Other,1349,51
+Reformed Political Party,0.2783736193372819,Right-wing,6247,51
+Party for the Animals,0.3479806138933764,Left-wing,6190,51
+Christian Democratic Appeal,0.4464508094645081,Right-wing,1606,52
+List Pim Fortuyn,0.6272189349112426,Right-wing,169,52
+Party of Freedom,0.5754119138149556,Right-wing,2367,52
+People’s Party for Freedom and Democracy,0.4703612767450018,Right-wing,2851,52
+Christian Union,0.4533029612756264,Other,1756,52
+Democrats‘66,0.3957810145655449,Other,1991,52
+Forum for Democracy,0.5899880810488677,Right-wing,839,52
+Socialist Party,0.5662451896646509,Left-wing,1819,52
+Labour Party,0.3569965870307167,Left-wing,2930,52
+DENK,0.3660516605166051,Left-wing,1355,52
+Green Left,0.4204860544772468,Left-wing,6131,52
+50Plus,0.4653105702869596,Other,2753,52
+Reformed Political Party,0.4306865828092243,Right-wing,7632,52
+Party for the Animals,0.5193932411674347,Left-wing,5208,52
+Christian Democratic Appeal,0.2982195845697329,Right-wing,2696,53
+List Pim Fortuyn,0.228235294117647,Right-wing,425,53
+Party of Freedom,0.3857331571994716,Right-wing,757,53
+People’s Party for Freedom and Democracy,0.1517495395948434,Right-wing,2715,53
+Christian Union,0.2600969305331179,Other,1238,53
+Democrats‘66,0.2911660777385159,Other,2830,53
+Forum for Democracy,0.3236994219653179,Right-wing,173,53
+Socialist Party,0.4340215439856373,Left-wing,2228,53
+Labour Party,0.1690140845070422,Left-wing,3266,53
+DENK,0.2687637969094922,Left-wing,1812,53
+Green Left,0.2916053019145803,Left-wing,7469,53
+50Plus,0.4308176100628931,Other,1908,53
+Reformed Political Party,0.3402113739305485,Right-wing,5961,53
+Party for the Animals,0.2504638218923933,Left-wing,5929,53
+Christian Democratic Appeal,0.2292118582791034,Right-wing,1383,54
+List Pim Fortuyn,0.6447368421052632,Right-wing,76,54
+Party of Freedom,0.3077753779697624,Right-wing,1852,54
+People’s Party for Freedom and Democracy,0.2543393552957846,Right-wing,2823,54
+Christian Union,0.2002419842710223,Other,3306,54
+Democrats‘66,0.3020465772759351,Other,1417,54
+Forum for Democracy,0.1629629629629629,Right-wing,270,54
+Socialist Party,0.3614100185528757,Left-wing,2695,54
+Labour Party,0.2454110135674381,Left-wing,2506,54
+DENK,0.1283905967450271,Left-wing,553,54
+Green Left,0.2195877389725515,Left-wing,9363,54
+50Plus,0.1834862385321101,Other,2616,54
+Reformed Political Party,0.2238490320481535,Right-wing,6147,54
+Party for the Animals,0.2511363636363636,Left-wing,4400,54
+Christian Democratic Appeal,0.4673539518900343,Right-wing,1455,55
+List Pim Fortuyn,0.8133971291866029,Right-wing,209,55
+Party of Freedom,0.676038338658147,Right-wing,1565,55
+People’s Party for Freedom and Democracy,0.6759550561797752,Right-wing,2225,55
+Christian Union,0.618993993993994,Other,2664,55
+Democrats‘66,0.6117117117117117,Other,2220,55
+Forum for Democracy,0.7236180904522613,Right-wing,597,55
+Socialist Party,0.7236994219653179,Left-wing,3460,55
+Labour Party,0.5954474909467149,Left-wing,1933,55
+DENK,0.6490416391275612,Left-wing,1513,55
+Green Left,0.7076719576719577,Left-wing,9828,55
+50Plus,0.693714665779847,Other,3007,55
+Reformed Political Party,0.682658757850663,Right-wing,5732,55
+Party for the Animals,0.6218739579859953,Left-wing,2999,55
+Christian Democratic Appeal,0.6180327868852459,Right-wing,1220,56
+List Pim Fortuyn,0.4032258064516129,Right-wing,124,56
+Party of Freedom,0.751694393099199,Right-wing,1623,56
+People’s Party for Freedom and Democracy,0.5586370839936609,Right-wing,1262,56
+Christian Union,0.5341121495327102,Other,2140,56
+Democrats‘66,0.6325539022168236,Other,3293,56
+Forum for Democracy,0.7183098591549296,Right-wing,639,56
+Socialist Party,0.692741935483871,Left-wing,3720,56
+Labour Party,0.6423927178153446,Left-wing,2307,56
+DENK,0.697907949790795,Left-wing,1195,56
+Green Left,0.6817134960847536,Left-wing,8684,56
+50Plus,0.6375291375291375,Other,2574,56
+Reformed Political Party,0.6858545292280233,Right-wing,4482,56
+Party for the Animals,0.6775716145833334,Left-wing,6144,56
+Christian Democratic Appeal,0.2020953024670496,Right-wing,2959,57
+List Pim Fortuyn,0.4603729603729604,Right-wing,858,57
+Party of Freedom,0.4151389710230633,Right-wing,1691,57
+People’s Party for Freedom and Democracy,0.2941622441243366,Right-wing,2638,57
+Christian Union,0.2700037921880925,Other,2637,57
+Democrats‘66,0.225,Other,2080,57
+Forum for Democracy,0.5533333333333333,Right-wing,300,57
+Socialist Party,0.3638475836431227,Left-wing,2152,57
+Labour Party,0.2833168805528134,Left-wing,1013,57
+DENK,0.2042300066093853,Left-wing,1513,57
+Green Left,0.2276386404293381,Left-wing,8944,57
+50Plus,0.300098231827112,Other,4072,57
+Reformed Political Party,0.2384828259807911,Right-wing,6143,57
+Party for the Animals,0.2771084337349397,Left-wing,2407,57
+Christian Democratic Appeal,0.2435189120271993,Right-wing,2353,58
+List Pim Fortuyn,0.2645687645687645,Right-wing,858,58
+Party of Freedom,0.4003416856492027,Right-wing,1756,58
+People’s Party for Freedom and Democracy,0.2144373673036093,Right-wing,2826,58
+Christian Union,0.3114423851732474,Other,2482,58
+Democrats‘66,0.2490864799025578,Other,1642,58
+Forum for Democracy,0.5566037735849056,Right-wing,318,58
+Socialist Party,0.3744292237442922,Left-wing,2409,58
+Labour Party,0.3200712589073634,Left-wing,1684,58
+DENK,0.5316455696202531,Left-wing,869,58
+Green Left,0.3399014778325123,Left-wing,9135,58
+50Plus,0.2630098452883263,Other,2133,58
+Reformed Political Party,0.2909571830054554,Right-wing,6049,58
+Party for the Animals,0.3288371142448396,Left-wing,4893,58
+Christian Democratic Appeal,0.2376209447922595,Right-wing,3514,59
+List Pim Fortuyn,0.3174603174603174,Right-wing,189,59
+Party of Freedom,0.4092261904761904,Right-wing,1344,59
+People’s Party for Freedom and Democracy,0.2814814814814815,Right-wing,2160,59
+Christian Union,0.3677419354838709,Other,775,59
+Democrats‘66,0.2132530120481927,Other,3320,59
+Forum for Democracy,0.4864864864864865,Right-wing,37,59
+Socialist Party,0.3619691119691119,Left-wing,3108,59
+Labour Party,0.2743221690590112,Left-wing,1881,59
+DENK,0.4169741697416974,Left-wing,1355,59
+Green Left,0.2438074032841636,Left-wing,7186,59
+50Plus,0.2194561470700881,Other,2611,59
+Reformed Political Party,0.2755947607591553,Right-wing,7482,59
+Party for the Animals,0.2742407199100112,Left-wing,4445,59
+Christian Democratic Appeal,0.1851604278074866,Right-wing,2992,60
+List Pim Fortuyn,0.2572815533980582,Right-wing,206,60
+Party of Freedom,0.3279871692060946,Right-wing,1247,60
+People’s Party for Freedom and Democracy,0.305468258956631,Right-wing,1591,60
+Christian Union,0.2453397474443776,Other,1663,60
+Democrats‘66,0.2634216177523264,Other,4191,60
+Forum for Democracy,0.6666666666666666,Right-wing,123,60
+Socialist Party,0.437112239142696,Left-wing,1773,60
+Labour Party,0.2332808811959087,Left-wing,2542,60
+DENK,0.2247787610619469,Left-wing,2260,60
+Green Left,0.2108379888268156,Left-wing,8950,60
+50Plus,0.1606441476826394,Other,2546,60
+Reformed Political Party,0.254028247463696,Right-wing,5027,60
+Party for the Animals,0.2111266294227188,Left-wing,4296,60
+Christian Democratic Appeal,0.2861335289801907,Right-wing,1363,61
+List Pim Fortuyn,0.4090202177293934,Right-wing,643,61
+Party of Freedom,0.4194729136163982,Right-wing,1366,61
+People’s Party for Freedom and Democracy,0.2912162162162162,Right-wing,2960,61
+Christian Union,0.3176874642243846,Other,1747,61
+Democrats‘66,0.2882277671145233,Other,3126,61
+Forum for Democracy,0.4571428571428571,Right-wing,455,61
+Socialist Party,0.3390688259109312,Left-wing,1976,61
+Labour Party,0.3086924219910847,Left-wing,2692,61
+DENK,0.1841196777905638,Left-wing,869,61
+Green Left,0.2573813249869588,Left-wing,9585,61
+50Plus,0.2357571214392803,Other,2668,61
+Reformed Political Party,0.2413443675054889,Right-wing,5921,61
+Party for the Animals,0.242814667988107,Left-wing,4036,61
+Christian Democratic Appeal,0.2090592334494773,Right-wing,1722,62
+List Pim Fortuyn,0.3833333333333333,Right-wing,600,62
+Party of Freedom,0.3102253032928942,Right-wing,577,62
+People’s Party for Freedom and Democracy,0.2307692307692307,Right-wing,3315,62
+Christian Union,0.2933245642880631,Other,3041,62
+Democrats‘66,0.2771474878444084,Other,617,62
+Forum for Democracy,0.2850412249705536,Right-wing,849,62
+Socialist Party,0.3428100535640708,Left-wing,2427,62
+Labour Party,0.2528301886792453,Left-wing,3180,62
+DENK,0.2321311475409836,Left-wing,1525,62
+Green Left,0.2600837557857615,Left-wing,9074,62
+50Plus,0.2840579710144927,Other,690,62
+Reformed Political Party,0.2645121764435595,Right-wing,6529,62
+Party for the Animals,0.2590762212507128,Left-wing,5261,62
+Christian Democratic Appeal,0.2205600306866129,Right-wing,2607,63
+List Pim Fortuyn,0.7222222222222222,Right-wing,18,63
+Party of Freedom,0.3382233088834556,Right-wing,2454,63
+People’s Party for Freedom and Democracy,0.3315939278937381,Right-wing,2108,63
+Christian Union,0.2196631144723272,Other,2909,63
+Democrats‘66,0.3232902917264467,Other,2091,63
+Forum for Democracy,0.5,Right-wing,6,63
+Socialist Party,0.3685589519650655,Left-wing,2290,63
+Labour Party,0.3197831978319783,Left-wing,1845,63
+DENK,0.2362082362082362,Left-wing,2574,63
+Green Left,0.275535863968387,Left-wing,8351,63
+50Plus,0.3496524629797521,Other,3309,63
+Reformed Political Party,0.2811288237828522,Right-wing,4642,63
+Party for the Animals,0.2467285272424458,Left-wing,4203,63
+Christian Democratic Appeal,0.2313988095238095,Right-wing,2688,64
+List Pim Fortuyn,0.474671669793621,Right-wing,533,64
+Party of Freedom,0.5650623885918004,Right-wing,561,64
+People’s Party for Freedom and Democracy,0.2611111111111111,Right-wing,3060,64
+Christian Union,0.2772117962466487,Other,1865,64
+Democrats‘66,0.2331623931623931,Other,2925,64
+Forum for Democracy,0.8170731707317073,Right-wing,82,64
+Socialist Party,0.3487378640776699,Left-wing,2575,64
+Labour Party,0.2378616969102501,Left-wing,2039,64
+DENK,0.3420796890184645,Left-wing,2058,64
+Green Left,0.4055461711711711,Left-wing,7104,64
+50Plus,0.2902987827369974,Other,2711,64
+Reformed Political Party,0.3093525179856115,Right-wing,5977,64
+Party for the Animals,0.3237712755785045,Left-wing,5229,64
+Christian Democratic Appeal,0.4574243490499648,Right-wing,1421,65
+List Pim Fortuyn,0.6095238095238096,Right-wing,840,65
+Party of Freedom,0.6082949308755761,Right-wing,868,65
+People’s Party for Freedom and Democracy,0.4428772919605077,Right-wing,1418,65
+Christian Union,0.5815548780487805,Other,1312,65
+Democrats‘66,0.4855399310161846,Other,3769,65
+Forum for Democracy,0.7148562300319489,Right-wing,1252,65
+Socialist Party,0.637223974763407,Left-wing,3170,65
+Labour Party,0.5232660228270413,Left-wing,2278,65
+DENK,0.6184100418410042,Left-wing,1195,65
+Green Left,0.5080534398801348,Left-wing,8009,65
+50Plus,0.5928885337594886,Other,2503,65
+Reformed Political Party,0.5271071273673558,Right-wing,6917,65
+Party for the Animals,0.5701459034792368,Left-wing,4455,65
+Christian Democratic Appeal,0.3408304498269896,Right-wing,2312,66
+List Pim Fortuyn,0.4638109305760709,Right-wing,677,66
+Party of Freedom,0.4594477998274374,Right-wing,2318,66
+People’s Party for Freedom and Democracy,0.2009773976786805,Right-wing,1637,66
+Christian Union,0.2602071907373552,Other,1641,66
+Democrats‘66,0.225054945054945,Other,2275,66
+Forum for Democracy,0.487012987012987,Right-wing,154,66
+Socialist Party,0.4133454106280193,Left-wing,3312,66
+Labour Party,0.2552447552447552,Left-wing,2002,66
+DENK,0.2800884955752212,Left-wing,2260,66
+Green Left,0.2529103236535755,Left-wing,7817,66
+50Plus,0.2397626112759644,Other,3370,66
+Reformed Political Party,0.2564281721632196,Right-wing,7156,66
+Party for the Animals,0.2443457189014539,Left-wing,2476,66
+Christian Democratic Appeal,0.3028006589785832,Right-wing,3035,67
+List Pim Fortuyn,0.9316239316239316,Right-wing,117,67
+Party of Freedom,0.4629629629629629,Right-wing,972,67
+People’s Party for Freedom and Democracy,0.2708029197080292,Right-wing,1370,67
+Christian Union,0.237919926369075,Other,2173,67
+Democrats‘66,0.2206946454413892,Other,2764,67
+Forum for Democracy,0.4406392694063927,Right-wing,876,67
+Socialist Party,0.3928571428571428,Left-wing,2828,67
+Labour Party,0.2795257637938896,Left-wing,2193,67
+DENK,0.3947065592635213,Left-wing,869,67
+Green Left,0.21680708115602,Left-wing,9377,67
+50Plus,0.1957650819017179,Other,2503,67
+Reformed Political Party,0.2453695537131769,Right-wing,5669,67
+Party for the Animals,0.2617464063505685,Left-wing,4661,67
+Christian Democratic Appeal,0.5074563272262462,Right-wing,2347,68
+List Pim Fortuyn,0.6188340807174888,Right-wing,446,68
+Party of Freedom,0.6643356643356644,Right-wing,1573,68
+People’s Party for Freedom and Democracy,0.6061151079136691,Right-wing,3336,68
+Christian Union,0.4821428571428571,Other,840,68
+Democrats‘66,0.5451856720341768,Other,3043,68
+Forum for Democracy,0.7149220489977728,Right-wing,449,68
+Socialist Party,0.7203757225433526,Left-wing,2768,68
+Labour Party,0.5681520314547838,Left-wing,1526,68
+DENK,0.364963503649635,Left-wing,137,68
+Green Left,0.5720581229156741,Left-wing,8396,68
+50Plus,0.5239957340917171,Other,2813,68
+Reformed Political Party,0.46994430574227,Right-wing,5207,68
+Party for the Animals,0.5597609561752988,Left-wing,6526,68
+Christian Democratic Appeal,0.5293031841255191,Right-wing,2167,69
+List Pim Fortuyn,0.5289256198347108,Right-wing,484,69
+Party of Freedom,0.7079843662758235,Right-wing,1791,69
+People’s Party for Freedom and Democracy,0.5728155339805825,Right-wing,1442,69
+Christian Union,0.5677557579003749,Other,1867,69
+Democrats‘66,0.507396449704142,Other,2704,69
+Forum for Democracy,0.7404129793510325,Right-wing,678,69
+Socialist Party,0.686934491494752,Left-wing,2763,69
+Labour Party,0.6546052631578947,Left-wing,2432,69
+DENK,0.6853556485355649,Left-wing,1195,69
+Green Left,0.669124531835206,Left-wing,8544,69
+50Plus,0.6898550724637681,Other,690,69
+Reformed Political Party,0.6461364599519707,Right-wing,7079,69
+Party for the Animals,0.6998743493089212,Left-wing,5571,69
+Christian Democratic Appeal,0.4580031695721077,Right-wing,1893,70
+List Pim Fortuyn,0.6593059936908517,Right-wing,317,70
+Party of Freedom,0.6378600823045267,Right-wing,729,70
+People’s Party for Freedom and Democracy,0.5139891696750902,Right-wing,2216,70
+Christian Union,0.3931914893617021,Other,1175,70
+Democrats‘66,0.6222488995598239,Other,2499,70
+Forum for Democracy,0.7468671679197995,Right-wing,798,70
+Socialist Party,0.6839978448275862,Left-wing,3712,70
+Labour Party,0.5138842422214788,Left-wing,2989,70
+DENK,0.7378640776699029,Left-wing,206,70
+Green Left,0.6574389744988408,Left-wing,7333,70
+50Plus,0.6455696202531646,Other,2133,70
+Reformed Political Party,0.6762082279323659,Right-wing,7511,70
+Party for the Animals,0.6823270013568521,Left-wing,5896,70
+Christian Democratic Appeal,0.4881015335801163,Right-wing,1891,71
+List Pim Fortuyn,0.6196319018404908,Right-wing,815,71
+Party of Freedom,0.5286312849162011,Right-wing,1432,71
+People’s Party for Freedom and Democracy,0.4825616355983163,Right-wing,3326,71
+Christian Union,0.4840538625088589,Other,1411,71
+Democrats‘66,0.3430538679627379,Other,2469,71
+Forum for Democracy,0.3043478260869565,Right-wing,69,71
+Socialist Party,0.6159818828857975,Left-wing,3091,71
+Labour Party,0.4961622807017544,Left-wing,1824,71
+DENK,0.437956204379562,Left-wing,137,71
+Green Left,0.5064463637501565,Left-wing,7989,71
+50Plus,0.5156196361139719,Other,2913,71
+Reformed Political Party,0.4911919763404911,Right-wing,7777,71
+Party for the Animals,0.5636875439831105,Left-wing,4263,71
+Christian Democratic Appeal,0.6230672795653991,Right-wing,2393,72
+List Pim Fortuyn,0.6904761904761905,Right-wing,168,72
+Party of Freedom,0.7526881720430108,Right-wing,1860,72
+People’s Party for Freedom and Democracy,0.5671471927162367,Right-wing,2636,72
+Christian Union,0.4610574189880614,Other,1759,72
+Democrats‘66,0.6283783783783784,Other,2812,72
+Forum for Democracy,0.62882096069869,Right-wing,458,72
+Socialist Party,0.7824561403508772,Left-wing,1140,72
+Labour Party,0.5206318504190844,Left-wing,3102,72
+DENK,0.7129707112970711,Left-wing,1195,72
+Green Left,0.7173873045078197,Left-wing,5435,72
+50Plus,0.6846240179573513,Other,3564,72
+Reformed Political Party,0.688209886418173,Right-wing,6251,72
+Party for the Animals,0.6477238468495629,Left-wing,6634,72
+Christian Democratic Appeal,0.2942028985507246,Right-wing,690,73
+List Pim Fortuyn,0.9342105263157896,Right-wing,76,73
+Party of Freedom,0.421594684385382,Right-wing,3010,73
+People’s Party for Freedom and Democracy,0.2593722755013077,Right-wing,2294,73
+Christian Union,0.1962102689486552,Other,1636,73
+Democrats‘66,0.2925641025641026,Other,3900,73
+Forum for Democracy,0.3873684210526316,Right-wing,475,73
+Socialist Party,0.4090909090909091,Left-wing,1958,73
+Labour Party,0.2324159021406728,Left-wing,2289,73
+DENK,0.1809734513274336,Left-wing,2260,73
+Green Left,0.2043865661411926,Left-wing,7295,73
+50Plus,0.1915303176130895,Other,2078,73
+Reformed Political Party,0.2177242888402625,Right-wing,7312,73
+Party for the Animals,0.2336719883889695,Left-wing,4134,73
+Christian Democratic Appeal,0.5388567758509955,Right-wing,1557,74
+List Pim Fortuyn,0.5307692307692308,Right-wing,130,74
+Party of Freedom,0.5828571428571429,Right-wing,1400,74
+People’s Party for Freedom and Democracy,0.5485205217944639,Right-wing,3143,74
+Christian Union,0.5272277227722773,Other,2020,74
+Democrats‘66,0.5131995776135164,Other,1894,74
+Forum for Democracy,0.7222222222222222,Right-wing,36,74
+Socialist Party,0.6665678719620628,Left-wing,3374,74
+Labour Party,0.5447007930785869,Left-wing,2774,74
+DENK,0.578088578088578,Left-wing,2574,74
+Green Left,0.6017991345934867,Left-wing,8782,74
+50Plus,0.6387878787878788,Other,1650,74
+Reformed Political Party,0.6074052306788128,Right-wing,6806,74
+Party for the Animals,0.5194367921640649,Left-wing,3267,74
+Christian Democratic Appeal,0.2613272311212815,Right-wing,2185,75
+List Pim Fortuyn,0.925,Right-wing,80,75
+Party of Freedom,0.3193277310924369,Right-wing,1190,75
+People’s Party for Freedom and Democracy,0.2564034856086612,Right-wing,3787,75
+Christian Union,0.2903091060985798,Other,2394,75
+Democrats‘66,0.2354383813611281,Other,1631,75
+Forum for Democracy,0.4371482176360225,Right-wing,533,75
+Socialist Party,0.411250475104523,Left-wing,2631,75
+Labour Party,0.3057459146020032,Left-wing,1897,75
+DENK,0.3291473892927957,Left-wing,1513,75
+Green Left,0.3501212726494507,Left-wing,7009,75
+50Plus,0.3558868501529052,Other,2616,75
+Reformed Political Party,0.3978349120433017,Right-wing,5912,75
+Party for the Animals,0.3562779897163708,Left-wing,6029,75
+Christian Democratic Appeal,0.5107559926244623,Right-wing,1627,76
+List Pim Fortuyn,0.768566493955095,Right-wing,579,76
+Party of Freedom,0.6676624346527259,Right-wing,1339,76
+People’s Party for Freedom and Democracy,0.594106090373281,Right-wing,2545,76
+Christian Union,0.5018430753027909,Other,1899,76
+Democrats‘66,0.4875222816399287,Other,1122,76
+Forum for Democracy,0.6989010989010989,Right-wing,455,76
+Socialist Party,0.6676897321428571,Left-wing,3584,76
+Labour Party,0.593140339836375,Left-wing,3178,76
+DENK,0.6828451882845188,Left-wing,1195,76
+Green Left,0.6096984033116499,Left-wing,8455,76
+50Plus,0.6847226727213753,Other,3083,76
+Reformed Political Party,0.5820818228896945,Right-wing,5793,76
+Party for the Animals,0.5978475730287722,Left-wing,4553,76
+Christian Democratic Appeal,0.2830585759382673,Right-wing,2851,77
+List Pim Fortuyn,0.3977695167286245,Right-wing,269,77
+Party of Freedom,0.4634873323397913,Right-wing,2013,77
+People’s Party for Freedom and Democracy,0.3390685256600415,Right-wing,3371,77
+Christian Union,0.3867973182052604,Other,1939,77
+Democrats‘66,0.4018302828618968,Other,1202,77
+Forum for Democracy,0.2,Right-wing,50,77
+Socialist Party,0.4746543778801843,Left-wing,1736,77
+Labour Party,0.297894373489817,Left-wing,2897,77
+DENK,0.3002915451895043,Left-wing,2058,77
+Green Left,0.3057754704737184,Left-wing,7705,77
+50Plus,0.3495535714285714,Other,2240,77
+Reformed Political Party,0.2991154562383613,Right-wing,4296,77
+Party for the Animals,0.3160766961651917,Left-wing,6780,77
+Christian Democratic Appeal,0.2666376685515441,Right-wing,2299,78
+List Pim Fortuyn,0.5714285714285714,Right-wing,21,78
+Party of Freedom,0.3667076167076167,Right-wing,1628,78
+People’s Party for Freedom and Democracy,0.2183150183150183,Right-wing,1365,78
+Christian Union,0.2482376636455186,Other,1986,78
+Democrats‘66,0.2563237774030354,Other,3558,78
+Forum for Democracy,0.8202247191011236,Right-wing,89,78
+Socialist Party,0.3691891891891892,Left-wing,3700,78
+Labour Party,0.3650416171224732,Left-wing,1682,78
+DENK,0.2482993197278911,Left-wing,2058,78
+Green Left,0.3091991850807083,Left-wing,6381,78
+50Plus,0.1975662133142448,Other,1397,78
+Reformed Political Party,0.2144356955380577,Right-wing,7620,78
+Party for the Animals,0.2207006935799395,Left-wing,5623,78
+Christian Democratic Appeal,0.2100202429149797,Right-wing,1976,79
+List Pim Fortuyn,0.7342657342657343,Right-wing,143,79
+Party of Freedom,0.4320480404551201,Right-wing,3164,79
+People’s Party for Freedom and Democracy,0.310126582278481,Right-wing,1422,79
+Christian Union,0.2777404169468729,Other,1487,79
+Democrats‘66,0.2146551724137931,Other,3480,79
+Forum for Democracy,0.40625,Right-wing,32,79
+Socialist Party,0.4537695590327169,Left-wing,2109,79
+Labour Party,0.3085487077534791,Left-wing,2515,79
+DENK,0.2519685039370078,Left-wing,1143,79
+Green Left,0.2340867757859184,Left-wing,7698,79
+50Plus,0.1987023519870235,Other,2466,79
+Reformed Political Party,0.2258227848101265,Right-wing,5925,79
+Party for the Animals,0.2332820249700701,Left-wing,5847,79
+Christian Democratic Appeal,0.213903743315508,Right-wing,2805,80
+List Pim Fortuyn,0.2536764705882353,Right-wing,272,80
+Party of Freedom,0.3279270146984288,Right-wing,1973,80
+People’s Party for Freedom and Democracy,0.2461538461538461,Right-wing,3575,80
+Christian Union,0.1819284414796846,Other,1649,80
+Democrats‘66,0.1973434535104364,Other,2635,80
+Forum for Democracy,0.7411764705882353,Right-wing,85,80
+Socialist Party,0.3785926660059465,Left-wing,1009,80
+Labour Party,0.3139784946236559,Left-wing,2325,80
+DENK,0.2504918032786885,Left-wing,1525,80
+Green Left,0.2463411099840602,Left-wing,6901,80
+50Plus,0.1876923076923076,Other,3250,80
+Reformed Political Party,0.2243571630404069,Right-wing,7078,80
+Party for the Animals,0.1653179190751445,Left-wing,4325,80
+Christian Democratic Appeal,0.210126582278481,Right-wing,1185,81
+List Pim Fortuyn,0.2532258064516129,Right-wing,620,81
+Party of Freedom,0.3023434498655397,Right-wing,2603,81
+People’s Party for Freedom and Democracy,0.2222701769529564,Right-wing,2317,81
+Christian Union,0.2410986775178026,Other,1966,81
+Democrats‘66,0.214068209500609,Other,3284,81
+Forum for Democracy,0.1388888888888889,Right-wing,36,81
+Socialist Party,0.3963553530751708,Left-wing,1317,81
+Labour Party,0.209,Left-wing,3000,81
+DENK,0.3739930955120829,Left-wing,869,81
+Green Left,0.2350448050375393,Left-wing,8258,81
+50Plus,0.3921404682274247,Other,1196,81
+Reformed Political Party,0.2094924003441353,Right-wing,6974,81
+Party for the Animals,0.2201660325147008,Left-wing,5782,81
+Christian Democratic Appeal,0.446139180171592,Right-wing,1049,82
+List Pim Fortuyn,0.6349557522123894,Right-wing,452,82
+Party of Freedom,0.6470588235294118,Right-wing,2482,82
+People’s Party for Freedom and Democracy,0.4897631473303894,Right-wing,2491,82
+Christian Union,0.5744283714419038,Other,2143,82
+Democrats‘66,0.521756329113924,Other,2528,82
+Forum for Democracy,0.5035335689045937,Right-wing,566,82
+Socialist Party,0.5909626719056974,Left-wing,2545,82
+Labour Party,0.4343629343629344,Left-wing,2072,82
+DENK,0.6098964326812428,Left-wing,869,82
+Green Left,0.5591824731657109,Left-wing,6801,82
+50Plus,0.5804436113714464,Other,3201,82
+Reformed Political Party,0.5566233276804221,Right-wing,5307,82
+Party for the Animals,0.6520794087813361,Left-wing,6901,82
+Christian Democratic Appeal,0.54240043348686,Right-wing,3691,83
+List Pim Fortuyn,0.7200854700854701,Right-wing,468,83
+Party of Freedom,0.6021021021021021,Right-wing,666,83
+People’s Party for Freedom and Democracy,0.5045264623955432,Right-wing,2872,83
+Christian Union,0.4954954954954955,Other,777,83
+Democrats‘66,0.5471349353049908,Other,2705,83
+Forum for Democracy,0.8333333333333334,Right-wing,42,83
+Socialist Party,0.6549803407601573,Left-wing,3052,83
+Labour Party,0.5231143552311436,Left-wing,2055,83
+DENK,0.534372135655362,Left-wing,1091,83
+Green Left,0.6149059734513275,Left-wing,7232,83
+50Plus,0.6653166421207658,Other,2716,83
+Reformed Political Party,0.6588170865279299,Right-wing,5478,83
+Party for the Animals,0.568881438585797,Left-wing,6562,83
+Christian Democratic Appeal,0.3726708074534161,Right-wing,1127,84
+List Pim Fortuyn,0.7727272727272727,Right-wing,110,84
+Party of Freedom,0.3848750844024308,Right-wing,1481,84
+People’s Party for Freedom and Democracy,0.2777583187390542,Right-wing,2855,84
+Christian Union,0.3091715976331361,Other,2704,84
+Democrats‘66,0.3391019644527596,Other,2138,84
+Forum for Democracy,0.8456375838926175,Right-wing,149,84
+Socialist Party,0.4242108914325355,Left-wing,2883,84
+Labour Party,0.3203748698368622,Left-wing,2881,84
+DENK,0.2696969696969697,Left-wing,990,84
+Green Left,0.2656742777847862,Left-wing,7927,84
+50Plus,0.3813351974833974,Other,2861,84
+Reformed Political Party,0.3192192192192192,Right-wing,6660,84
+Party for the Animals,0.2566257272139625,Left-wing,4641,84
+Christian Democratic Appeal,0.346360153256705,Right-wing,1305,85
+List Pim Fortuyn,0.3359497645211931,Right-wing,637,85
+Party of Freedom,0.5193548387096775,Right-wing,1860,85
+People’s Party for Freedom and Democracy,0.243680066307501,Right-wing,2413,85
+Christian Union,0.2884462151394422,Other,1255,85
+Democrats‘66,0.2592723419286471,Other,2831,85
+Forum for Democracy,0.436144578313253,Right-wing,415,85
+Socialist Party,0.4548911164880747,Left-wing,2893,85
+Labour Party,0.2622287605737403,Left-wing,2719,85
+DENK,0.3199115044247788,Left-wing,2260,85
+Green Left,0.239220150846734,Left-wing,7027,85
+50Plus,0.1801334321719792,Other,1349,85
+Reformed Political Party,0.2418685584259135,Right-wing,7471,85
+Party for the Animals,0.2866049879324215,Left-wing,4972,85
+Christian Democratic Appeal,0.2448181462651544,Right-wing,2557,86
+List Pim Fortuyn,0.3457943925233644,Right-wing,107,86
+Party of Freedom,0.3919627256843331,Right-wing,1717,86
+People’s Party for Freedom and Democracy,0.2893491124260355,Right-wing,1690,86
+Christian Union,0.1898580121703854,Other,2465,86
+Democrats‘66,0.2567963195315767,Other,2391,86
+Forum for Democracy,0.875,Right-wing,64,86
+Socialist Party,0.4097894137734775,Left-wing,3514,86
+Labour Party,0.1623697202413604,Left-wing,1823,86
+DENK,0.2535748331744518,Left-wing,1049,86
+Green Left,0.2574707147979919,Left-wing,8366,86
+50Plus,0.1764267064528161,Other,2681,86
+Reformed Political Party,0.2013226699477084,Right-wing,6502,86
+Party for the Animals,0.1988395447444766,Left-wing,4481,86
+Christian Democratic Appeal,0.3353314527503526,Right-wing,2836,87
+List Pim Fortuyn,0.3921282798833819,Right-wing,686,87
+Party of Freedom,0.4571917808219178,Right-wing,2336,87
+People’s Party for Freedom and Democracy,0.2554991539763113,Right-wing,1773,87
+Christian Union,0.3179699637493526,Other,1931,87
+Democrats‘66,0.2221088435374149,Other,2940,87
+Forum for Democracy,0.3044315992292871,Right-wing,519,87
+Socialist Party,0.5563218390804597,Left-wing,435,87
+Labour Party,0.2190111420612813,Left-wing,2872,87
+DENK,0.2066752246469833,Left-wing,1558,87
+Green Left,0.2198609997326918,Left-wing,7482,87
+50Plus,0.2209567198177676,Other,2195,87
+Reformed Political Party,0.2125035847433324,Right-wing,6974,87
+Party for the Animals,0.2503080082135523,Left-wing,4870,87
+Christian Democratic Appeal,0.2381651376146789,Right-wing,2725,88
+List Pim Fortuyn,0.3159090909090909,Right-wing,440,88
+Party of Freedom,0.3431952662721893,Right-wing,676,88
+People’s Party for Freedom and Democracy,0.3166058394160584,Right-wing,2192,88
+Christian Union,0.2957857424182749,Other,2539,88
+Democrats‘66,0.348968105065666,Other,2132,88
+Forum for Democracy,0.3212121212121212,Right-wing,495,88
+Socialist Party,0.4718702483527623,Left-wing,1973,88
+Labour Party,0.2553865652724968,Left-wing,3156,88
+DENK,0.5912408759124088,Left-wing,137,88
+Green Left,0.2839467005076142,Left-wing,9456,88
+50Plus,0.2808653487504662,Other,2681,88
+Reformed Political Party,0.382636655948553,Right-wing,4354,88
+Party for the Animals,0.3008835839404743,Left-wing,6451,88
+Christian Democratic Appeal,0.4783653846153846,Right-wing,1664,89
+List Pim Fortuyn,0.8155172413793104,Right-wing,580,89
+Party of Freedom,0.6162962962962963,Right-wing,2025,89
+People’s Party for Freedom and Democracy,0.5712861415752741,Right-wing,2006,89
+Christian Union,0.4906666666666666,Other,750,89
+Democrats‘66,0.4791423001949317,Other,2565,89
+Forum for Democracy,0.6288782816229117,Right-wing,838,89
+Socialist Party,0.6827814569536423,Left-wing,3020,89
+Labour Party,0.5628472222222223,Left-wing,2880,89
+DENK,0.5909090909090909,Left-wing,990,89
+Green Left,0.5355860050552081,Left-wing,7517,89
+50Plus,0.5443853262391487,Other,3571,89
+Reformed Political Party,0.5538648813146683,Right-wing,6572,89
+Party for the Animals,0.5448182433958004,Left-wing,4429,89
+Christian Democratic Appeal,0.2128577028616229,Right-wing,2551,90
+List Pim Fortuyn,0.2308943089430894,Right-wing,615,90
+Party of Freedom,0.3004032258064516,Right-wing,992,90
+People’s Party for Freedom and Democracy,0.1917943648047454,Right-wing,4046,90
+Christian Union,0.1712135465663217,Other,2126,90
+Democrats‘66,0.2846952010376135,Other,1542,90
+Forum for Democracy,0.1379310344827586,Right-wing,29,90
+Socialist Party,0.3226725775807473,Left-wing,3158,90
+Labour Party,0.1922773837667454,Left-wing,1269,90
+DENK,0.4246260069044879,Left-wing,869,90
+Green Left,0.2148065058889512,Left-wing,8915,90
+50Plus,0.2270562083201016,Other,3149,90
+Reformed Political Party,0.2196096511449208,Right-wing,6507,90
+Party for the Animals,0.2250618301731244,Left-wing,3639,90
+Christian Democratic Appeal,0.2675933970460469,Right-wing,2302,91
+List Pim Fortuyn,0.5217391304347826,Right-wing,529,91
+Party of Freedom,0.4638971315529179,Right-wing,1011,91
+People’s Party for Freedom and Democracy,0.3405438813349815,Right-wing,1618,91
+Christian Union,0.3455604075691412,Other,3435,91
+Democrats‘66,0.3425381903642773,Other,1702,91
+Forum for Democracy,0.3235294117647059,Right-wing,442,91
+Socialist Party,0.4747139165743816,Left-wing,2709,91
+Labour Party,0.3945736434108527,Left-wing,2580,91
+DENK,0.2694560669456067,Left-wing,1195,91
+Green Left,0.3463203463203463,Left-wing,6699,91
+50Plus,0.293614219881501,Other,3038,91
+Reformed Political Party,0.383437717466945,Right-wing,5748,91
+Party for the Animals,0.3831848726363494,Left-wing,6399,91
+Christian Democratic Appeal,0.2795698924731182,Right-wing,2139,92
+List Pim Fortuyn,0.572289156626506,Right-wing,332,92
+Party of Freedom,0.5559947299077734,Right-wing,759,92
+People’s Party for Freedom and Democracy,0.2954288939051919,Right-wing,3544,92
+Christian Union,0.2668886774500476,Other,2102,92
+Democrats‘66,0.2865027596588058,Other,1993,92
+Forum for Democracy,0.2681818181818182,Right-wing,440,92
+Socialist Party,0.4133333333333333,Left-wing,3825,92
+Labour Party,0.3634840871021775,Left-wing,1194,92
+DENK,0.2642169728783902,Left-wing,1143,92
+Green Left,0.3255458848679187,Left-wing,6549,92
+50Plus,0.2570770243581303,Other,3038,92
+Reformed Political Party,0.3084025854108956,Right-wing,5415,92
+Party for the Animals,0.3142486299394289,Left-wing,6934,92
+Christian Democratic Appeal,0.3775700934579439,Right-wing,1070,93
+List Pim Fortuyn,0.5062429057888763,Right-wing,881,93
+Party of Freedom,0.5532163742690058,Right-wing,855,93
+People’s Party for Freedom and Democracy,0.3720073664825046,Right-wing,1629,93
+Christian Union,0.3320363164721141,Other,3084,93
+Democrats‘66,0.3356303202269963,Other,2467,93
+Forum for Democracy,0.3601895734597156,Right-wing,211,93
+Socialist Party,0.3678707224334601,Left-wing,2104,93
+Labour Party,0.2835857958778247,Left-wing,4027,93
+DENK,0.3706293706293706,Left-wing,2574,93
+Green Left,0.3521485797523671,Left-wing,8238,93
+50Plus,0.4372964169381108,Other,1228,93
+Reformed Political Party,0.3032098765432098,Right-wing,6075,93
+Party for the Animals,0.3420628525382755,Left-wing,4964,93
+Christian Democratic Appeal,0.2127107652399481,Right-wing,3084,94
+List Pim Fortuyn,0.3941299790356394,Right-wing,477,94
+Party of Freedom,0.3011152416356877,Right-wing,2690,94
+People’s Party for Freedom and Democracy,0.1530701754385965,Right-wing,2280,94
+Christian Union,0.1881868131868131,Other,1456,94
+Democrats‘66,0.2216956292785676,Other,1899,94
+Forum for Democracy,0.320754716981132,Right-wing,159,94
+Socialist Party,0.2767045454545455,Left-wing,1760,94
+Labour Party,0.2493063812921125,Left-wing,2523,94
+DENK,0.1750819672131147,Left-wing,1525,94
+Green Left,0.167396787468472,Left-wing,7533,94
+50Plus,0.2017726798748696,Other,1918,94
+Reformed Political Party,0.182598249528059,Right-wing,5827,94
+Party for the Animals,0.1540790312300828,Left-wing,6276,94
+Christian Democratic Appeal,0.2536973833902161,Right-wing,1758,95
+List Pim Fortuyn,0.5405405405405406,Right-wing,37,95
+Party of Freedom,0.3103448275862069,Right-wing,1653,95
+People’s Party for Freedom and Democracy,0.1648675171736997,Right-wing,3057,95
+Christian Union,0.1538152610441767,Other,2490,95
+Democrats‘66,0.236959158916296,Other,2473,95
+Forum for Democracy,0.3245546088303641,Right-wing,1291,95
+Socialist Party,0.4698689956331878,Left-wing,1145,95
+Labour Party,0.1951320132013201,Left-wing,2424,95
+DENK,0.108080808080808,Left-wing,990,95
+Green Left,0.1725298771250631,Left-wing,5941,95
+50Plus,0.2070890315378174,Other,3583,95
+Reformed Political Party,0.2161386730424387,Right-wing,8365,95
+Party for the Animals,0.3311904761904762,Left-wing,4200,95
+Christian Democratic Appeal,0.5674885081487673,Right-wing,2393,96
+List Pim Fortuyn,0.4666666666666667,Right-wing,90,96
+Party of Freedom,0.6977209116353459,Right-wing,2501,96
+People’s Party for Freedom and Democracy,0.5105655686761964,Right-wing,3218,96
+Christian Union,0.4311926605504587,Other,1090,96
+Democrats‘66,0.6103896103896104,Other,2387,96
+Forum for Democracy,0.902439024390244,Right-wing,41,96
+Socialist Party,0.6754344762799437,Left-wing,2129,96
+Labour Party,0.5893505445744252,Left-wing,2479,96
+DENK,0.7087378640776699,Left-wing,206,96
+Green Left,0.647335718320467,Left-wing,10622,96
+50Plus,0.6281714785651793,Other,2286,96
+Reformed Political Party,0.6370204285002491,Right-wing,4014,96
+Party for the Animals,0.6667786926566963,Left-wing,5951,96
+Christian Democratic Appeal,0.4246339362618432,Right-wing,1161,97
+List Pim Fortuyn,0.8202247191011236,Right-wing,89,97
+Party of Freedom,0.5642232683254875,Right-wing,1487,97
+People’s Party for Freedom and Democracy,0.4316912138141188,Right-wing,1969,97
+Christian Union,0.3513295729250604,Other,2482,97
+Democrats‘66,0.3416856492027335,Other,2195,97
+Forum for Democracy,0.3752620545073375,Right-wing,477,97
+Socialist Party,0.4743515850144092,Left-wing,3470,97
+Labour Party,0.3065376917945296,Left-wing,2998,97
+DENK,0.3647871116225546,Left-wing,869,97
+Green Left,0.4252258280361324,Left-wing,5978,97
+50Plus,0.4385530227948463,Other,2018,97
+Reformed Political Party,0.4066952391984246,Right-wing,8633,97
+Party for the Animals,0.2951084035119154,Left-wing,5581,97
+Christian Democratic Appeal,0.2623728813559322,Right-wing,2950,98
+List Pim Fortuyn,0.8734177215189873,Right-wing,79,98
+Party of Freedom,0.2907735321528425,Right-wing,1073,98
+People’s Party for Freedom and Democracy,0.2284345047923322,Right-wing,2504,98
+Christian Union,0.2192174913693901,Other,3476,98
+Democrats‘66,0.2962818003913894,Other,2555,98
+Forum for Democracy,0.5333333333333333,Right-wing,15,98
+Socialist Party,0.3652773219560223,Left-wing,3047,98
+Labour Party,0.2368839427662957,Left-wing,629,98
+DENK,0.2225020990764064,Left-wing,1191,98
+Green Left,0.2604177600503831,Left-wing,9527,98
+50Plus,0.2261904761904762,Other,1764,98
+Reformed Political Party,0.2847754654983571,Right-wing,5478,98
+Party for the Animals,0.243797616722016,Left-wing,5119,98
+Christian Democratic Appeal,0.2936740678676162,Right-wing,2387,99
+List Pim Fortuyn,0.6785714285714286,Right-wing,28,99
+Party of Freedom,0.4591611479028697,Right-wing,2265,99
+People’s Party for Freedom and Democracy,0.3351158645276292,Right-wing,3366,99
+Christian Union,0.336473050758765,Other,1911,99
+Democrats‘66,0.4506627393225331,Other,1358,99
+Forum for Democracy,0.65625,Right-wing,32,99
+Socialist Party,0.5814606741573034,Left-wing,2848,99
+Labour Party,0.2991092358180965,Left-wing,2133,99
+DENK,0.3228346456692913,Left-wing,1143,99
+Green Left,0.3298296484233418,Left-wing,5518,99
+50Plus,0.3168934240362812,Other,1764,99
+Reformed Political Party,0.3473353336190884,Right-wing,6999,99
+Party for the Animals,0.3227955584585238,Left-wing,7655,99
+People’s Party for Freedom and Democracy,0.4950634696755994,Right-wing,3545,0
+Party of Freedom,0.6248972884141332,Right-wing,2434,0
+Labour Party,0.4902928594932543,Left-wing,3039,0
+Christian Union,0.49941792782305,Other,859,0
+Forum for Democracy,0.3,Right-wing,20,0
+List Pim Fortuyn,0.5871212121212122,Right-wing,792,0
+Socialist Party,0.6089743589743589,Left-wing,2184,0
+Christian Democratic Appeal,0.4110787172011662,Right-wing,686,0
+Democrats‘66,0.5160707836764175,Other,2769,0
+Green Left,0.5705171711687254,Left-wing,7367,0
+DENK,0.5738938053097346,Left-wing,2260,0
+Party for the Animals,0.5667114609330006,Left-wing,5209,0
+Reformed Political Party,0.5817637739834536,Right-wing,5681,0
+50Plus,0.4590163934426229,Other,2562,0
+People’s Party for Freedom and Democracy,0.2624458874458874,Right-wing,1848,1
+Party of Freedom,0.4296002880806626,Right-wing,2777,1
+Labour Party,0.3184913567312729,Left-wing,1909,1
+Christian Union,0.2520050654284508,Other,2369,1
+Forum for Democracy,0.7006802721088435,Right-wing,294,1
+List Pim Fortuyn,0.2550335570469799,Right-wing,149,1
+Socialist Party,0.4700075930144267,Left-wing,1317,1
+Christian Democratic Appeal,0.2407347728005156,Right-wing,3103,1
+Democrats‘66,0.3337236533957845,Other,2562,1
+Green Left,0.3511656111036249,Left-wing,7421,1
+DENK,0.2719665271966527,Left-wing,1195,1
+Party for the Animals,0.367772644547109,Left-wing,7143,1
+50Plus,0.3349737532808399,Other,3048,1
+Reformed Political Party,0.3892790262172285,Right-wing,4272,1
+People’s Party for Freedom and Democracy,0.3806451612903225,Right-wing,1395,2
+Party of Freedom,0.5024154589371981,Right-wing,1242,2
+Labour Party,0.2478386167146974,Left-wing,2776,2
+Christian Union,0.2791712104689204,Other,3668,2
+Forum for Democracy,0.5127272727272727,Right-wing,275,2
+List Pim Fortuyn,0.3368421052631579,Right-wing,475,2
+Socialist Party,0.4247391952309985,Left-wing,2684,2
+Christian Democratic Appeal,0.3238307349665924,Right-wing,2245,2
+Democrats‘66,0.319515306122449,Other,1568,2
+Green Left,0.3500793231094659,Left-wing,7564,2
+DENK,0.3740912095175148,Left-wing,1513,2
+Reformed Political Party,0.3335107798775619,Right-wing,7514,2
+Party for the Animals,0.3753807106598985,Left-wing,3940,2
+50Plus,0.32574568288854,Other,2548,2
+People’s Party for Freedom and Democracy,0.5137127690946623,Right-wing,3391,3
+Party of Freedom,0.6104446012702893,Right-wing,1417,3
+Labour Party,0.5108315863032844,Left-wing,2862,3
+Christian Union,0.5963990997749438,Other,1333,3
+Forum for Democracy,0.6506024096385542,Right-wing,166,3
+List Pim Fortuyn,0.6499402628434886,Right-wing,837,3
+Socialist Party,0.6112200863083562,Left-wing,2549,3
+Christian Democratic Appeal,0.4860031104199067,Right-wing,1286,3
+Democrats‘66,0.484519501407318,Other,2487,3
+Green Left,0.5557435290137033,Left-wing,5911,3
+DENK,0.5205599300087489,Left-wing,1143,3
+Reformed Political Party,0.5440219748445858,Right-wing,6917,3
+Party for the Animals,0.5128250486467363,Left-wing,5653,3
+50Plus,0.561794500723589,Other,3455,3
+People’s Party for Freedom and Democracy,0.5110771581359816,Right-wing,2618,4
+Party of Freedom,0.672979797979798,Right-wing,1584,4
+Labour Party,0.5546702080566622,Left-wing,2259,4
+Christian Union,0.5366957646298093,Other,3093,4
+Forum for Democracy,0.6027397260273972,Right-wing,584,4
+List Pim Fortuyn,0.6420581655480985,Right-wing,447,4
+Socialist Party,0.6219672131147541,Left-wing,3050,4
+Christian Democratic Appeal,0.521311475409836,Right-wing,1220,4
+Democrats‘66,0.4874405974202308,Other,1473,4
+Green Left,0.6013999243284147,Left-wing,5286,4
+DENK,0.5439330543933054,Left-wing,1195,4
+Reformed Political Party,0.6207734806629834,Right-wing,9050,4
+50Plus,0.5935103244837758,Other,1695,4
+Party for the Animals,0.626174611310439,Left-wing,5853,4
+People’s Party for Freedom and Democracy,0.3563218390804598,Right-wing,2871,5
+Party of Freedom,0.4316143497757848,Right-wing,1784,5
+Labour Party,0.3107705406555981,Left-wing,2349,5
+Christian Union,0.3486238532110092,Other,2725,5
+Forum for Democracy,0.4488095238095238,Right-wing,840,5
+List Pim Fortuyn,0.3181818181818182,Right-wing,572,5
+Socialist Party,0.5868625756266206,Left-wing,1157,5
+Christian Democratic Appeal,0.408929836995039,Right-wing,1411,5
+Democrats‘66,0.3119511263841161,Other,2619,5
+Green Left,0.3380869097268936,Left-wing,7433,5
+DENK,0.429228998849252,Left-wing,869,5
+Party for the Animals,0.3388941849380362,Left-wing,6294,5
+Reformed Political Party,0.3782645324347093,Right-wing,5935,5
+50Plus,0.2939560439560439,Other,2548,5
+People’s Party for Freedom and Democracy,0.3607305936073059,Right-wing,1752,6
+Party of Freedom,0.4989858012170385,Right-wing,1972,6
+Labour Party,0.4349791376912378,Left-wing,2876,6
+Christian Union,0.3401385344513307,Other,2743,6
+Forum for Democracy,0.6031007751937985,Right-wing,645,6
+List Pim Fortuyn,0.5728813559322034,Right-wing,590,6
+Socialist Party,0.4768747193533902,Left-wing,2227,6
+Christian Democratic Appeal,0.3571428571428571,Right-wing,2016,6
+Democrats‘66,0.3463835434638354,Other,1507,6
+Green Left,0.4866562009419152,Left-wing,8281,6
+DENK,0.4872131147540983,Left-wing,1525,6
+Reformed Political Party,0.4996588195155237,Right-wing,5862,6
+Party for the Animals,0.5204533380556048,Left-wing,5647,6
+50Plus,0.4047619047619047,Other,1764,6
+People’s Party for Freedom and Democracy,0.3284753363228699,Right-wing,892,7
+Party of Freedom,0.4590785907859078,Right-wing,1845,7
+Labour Party,0.2910179640718562,Left-wing,2505,7
+Christian Union,0.3306590257879656,Other,1745,7
+Forum for Democracy,0.673202614379085,Right-wing,306,7
+List Pim Fortuyn,0.5051975051975052,Right-wing,481,7
+Socialist Party,0.4665284360189573,Left-wing,3376,7
+Christian Democratic Appeal,0.2756302521008403,Right-wing,1190,7
+Democrats‘66,0.3716148445336008,Other,3988,7
+Green Left,0.3834094368340943,Left-wing,6570,7
+DENK,0.4778761061946903,Left-wing,2260,7
+Party for the Animals,0.3577269010629599,Left-wing,4892,7
+Reformed Political Party,0.3677105831533477,Right-wing,7408,7
+50Plus,0.4607491021036429,Other,1949,7
+People’s Party for Freedom and Democracy,0.3507120444122616,Right-wing,4143,8
+Party of Freedom,0.494059405940594,Right-wing,1010,8
+Labour Party,0.3034441805225653,Left-wing,1684,8
+Christian Union,0.4354066985645933,Other,627,8
+Forum for Democracy,0.5738317757009346,Right-wing,535,8
+List Pim Fortuyn,0.2662337662337662,Right-wing,308,8
+Socialist Party,0.4718019257221458,Left-wing,3635,8
+Christian Democratic Appeal,0.331028522039758,Right-wing,1157,8
+Democrats‘66,0.3056673892846082,Other,3229,8
+Green Left,0.292347011216811,Left-wing,7043,8
+DENK,0.2784810126582278,Left-wing,869,8
+Reformed Political Party,0.4049295774647887,Right-wing,6816,8
+Party for the Animals,0.306694560669456,Left-wing,4780,8
+50Plus,0.3629235508260991,Other,3571,8
+People’s Party for Freedom and Democracy,0.2700945626477541,Right-wing,1692,9
+Party of Freedom,0.5834829443447038,Right-wing,2228,9
+Labour Party,0.3329248366013072,Left-wing,2448,9
+Christian Union,0.3010533469249065,Other,2943,9
+Forum for Democracy,0.5711805555555556,Right-wing,576,9
+List Pim Fortuyn,0.4296116504854368,Right-wing,824,9
+Socialist Party,0.4589147286821705,Left-wing,1935,9
+Christian Democratic Appeal,0.3240124278739458,Right-wing,2253,9
+Democrats‘66,0.3869839048285514,Other,1429,9
+Green Left,0.2872195785180149,Left-wing,8826,9
+DENK,0.2281553398058252,Left-wing,206,9
+Reformed Political Party,0.3395738203957382,Right-wing,6570,9
+50Plus,0.3103883801705083,Other,3167,9
+Party for the Animals,0.3348027842227378,Left-wing,4310,9
+People’s Party for Freedom and Democracy,0.3160621761658031,Right-wing,1544,10
+Party of Freedom,0.3638573743922204,Right-wing,1234,10
+Labour Party,0.2546201232032854,Left-wing,3409,10
+Christian Union,0.1796907647304638,Other,2393,10
+Forum for Democracy,0.0975609756097561,Right-wing,41,10
+List Pim Fortuyn,0.3359288097886541,Right-wing,899,10
+Socialist Party,0.4687714481811942,Left-wing,1457,10
+Christian Democratic Appeal,0.2957559681697613,Right-wing,1508,10
+Democrats‘66,0.1706999739786625,Other,3843,10
+Green Left,0.2696254489481785,Left-wing,7796,10
+DENK,0.1139240506329113,Left-wing,553,10
+Party for the Animals,0.2153091265947007,Left-wing,5095,10
+50Plus,0.5834738617200674,Other,1186,10
+Reformed Political Party,0.2426322641732749,Right-wing,8449,10
+People’s Party for Freedom and Democracy,0.2888235294117647,Right-wing,1700,11
+Party of Freedom,0.538781163434903,Right-wing,1444,11
+Labour Party,0.2530816640986132,Left-wing,2596,11
+Christian Union,0.4850299401197604,Other,1503,11
+Forum for Democracy,0.4629349470499244,Right-wing,661,11
+List Pim Fortuyn,0.368547418967587,Right-wing,833,11
+Socialist Party,0.5022026431718062,Left-wing,2270,11
+Christian Democratic Appeal,0.2667976424361493,Right-wing,2545,11
+Democrats‘66,0.281700288184438,Other,2776,11
+Green Left,0.4390752650790891,Left-wing,5753,11
+DENK,0.3155339805825243,Left-wing,206,11
+Reformed Political Party,0.4517280959061344,Right-wing,7841,11
+50Plus,0.4185455700222292,Other,3149,11
+Party for the Animals,0.3869494290375204,Left-wing,6130,11
+People’s Party for Freedom and Democracy,0.5330220146764509,Right-wing,1499,12
+Party of Freedom,0.6104417670682731,Right-wing,1992,12
+Labour Party,0.4961067853170189,Left-wing,1798,12
+Christian Union,0.6012016522718738,Other,2663,12
+Forum for Democracy,0.4933333333333333,Right-wing,75,12
+List Pim Fortuyn,0.5306859205776173,Right-wing,554,12
+Socialist Party,0.6403194712200496,Left-wing,3631,12
+Christian Democratic Appeal,0.4678394722374931,Right-wing,1819,12
+Democrats‘66,0.5524597300827165,Other,2297,12
+Green Left,0.5766200164647771,Left-wing,8503,12
+DENK,0.6067827681026581,Left-wing,1091,12
+Party for the Animals,0.6006359300476948,Left-wing,3145,12
+Reformed Political Party,0.5870142809697775,Right-wing,6022,12
+50Plus,0.5611394163964799,Other,4318,12
+People’s Party for Freedom and Democracy,0.5772187281621244,Right-wing,1431,13
+Party of Freedom,0.6090280305788133,Right-wing,2747,13
+Labour Party,0.450268817204301,Left-wing,2976,13
+Christian Union,0.4885679903730445,Other,1662,13
+Forum for Democracy,0.4305555555555556,Right-wing,72,13
+List Pim Fortuyn,0.698547215496368,Right-wing,826,13
+Socialist Party,0.5948230322239831,Left-wing,1893,13
+Christian Democratic Appeal,0.4429081177520071,Right-wing,2242,13
+Democrats‘66,0.5167406212182332,Other,2479,13
+Green Left,0.5883548983364141,Left-wing,5410,13
+DENK,0.6996309963099631,Left-wing,1355,13
+Party for the Animals,0.5495623855078363,Left-wing,4913,13
+50Plus,0.6044914134742404,Other,3785,13
+Reformed Political Party,0.5722163865546218,Right-wing,7616,13
+People’s Party for Freedom and Democracy,0.2959013662112629,Right-wing,3001,14
+Party of Freedom,0.3942257217847769,Right-wing,1905,14
+Labour Party,0.2521008403361344,Left-wing,1547,14
+Christian Union,0.2679045092838196,Other,2262,14
+Forum for Democracy,0.4328859060402684,Right-wing,298,14
+List Pim Fortuyn,0.3888213851761847,Right-wing,823,14
+Socialist Party,0.4513422818791946,Left-wing,2384,14
+Christian Democratic Appeal,0.3254437869822485,Right-wing,507,14
+Democrats‘66,0.2768675367953346,Other,3601,14
+Green Left,0.3324577245115744,Left-wing,6091,14
+DENK,0.4005037783375315,Left-wing,1191,14
+Reformed Political Party,0.3433141919606234,Right-wing,7314,14
+50Plus,0.3682008368200837,Other,2868,14
+Party for the Animals,0.3303650934995548,Left-wing,5615,14
+People’s Party for Freedom and Democracy,0.2795734755081639,Right-wing,3001,15
+Party of Freedom,0.5152838427947598,Right-wing,916,15
+Labour Party,0.3197994987468672,Left-wing,1995,15
+Christian Union,0.3478260869565217,Other,2323,15
+Forum for Democracy,0.4416058394160584,Right-wing,274,15
+List Pim Fortuyn,0.4119601328903654,Right-wing,301,15
+Socialist Party,0.4901029295328583,Left-wing,2526,15
+Christian Democratic Appeal,0.3354749885268471,Right-wing,2179,15
+Democrats‘66,0.3281194454319232,Other,2813,15
+Green Left,0.3334451526333445,Left-wing,8943,15
+DENK,0.2864077669902912,Left-wing,206,15
+Reformed Political Party,0.337730870712401,Right-wing,6064,15
+50Plus,0.3156923076923077,Other,3250,15
+Party for the Animals,0.3427209705372617,Left-wing,4616,15
+People’s Party for Freedom and Democracy,0.520523497917906,Right-wing,3362,16
+Party of Freedom,0.6722997795738428,Right-wing,2722,16
+Labour Party,0.5217391304347826,Left-wing,1127,16
+Christian Union,0.4505734571272529,Other,1831,16
+Forum for Democracy,0.5602836879432624,Right-wing,141,16
+List Pim Fortuyn,0.6383442265795207,Right-wing,459,16
+Socialist Party,0.6488888888888888,Left-wing,2700,16
+Christian Democratic Appeal,0.6059405940594059,Right-wing,1515,16
+Democrats‘66,0.5244840145690004,Other,2471,16
+Green Left,0.6033208095988365,Left-wing,8251,16
+DENK,0.6844660194174758,Left-wing,206,16
+Party for the Animals,0.6506500847936687,Left-wing,5307,16
+50Plus,0.6565737051792828,Other,3765,16
+Reformed Political Party,0.5857657657657658,Right-wing,5550,16
+People’s Party for Freedom and Democracy,0.2655723905723905,Right-wing,2376,17
+Party of Freedom,0.4605422905706192,Right-wing,2471,17
+Labour Party,0.3498066179630425,Left-wing,2327,17
+Christian Union,0.3111370716510903,Other,2568,17
+Forum for Democracy,0.1896551724137931,Right-wing,290,17
+List Pim Fortuyn,0.5217391304347826,Right-wing,575,17
+Socialist Party,0.3892092257001647,Left-wing,2428,17
+Christian Democratic Appeal,0.2725872689938398,Right-wing,1948,17
+Democrats‘66,0.3256505576208178,Other,1345,17
+Green Left,0.2660261006740284,Left-wing,6973,17
+DENK,0.2945606694560669,Left-wing,1195,17
+Party for the Animals,0.2642969984202212,Left-wing,6330,17
+50Plus,0.2721665381649961,Other,1297,17
+Reformed Political Party,0.2764964305326743,Right-wing,7284,17
+People’s Party for Freedom and Democracy,0.2744630071599045,Right-wing,2095,18
+Party of Freedom,0.4658664666166541,Right-wing,1333,18
+Labour Party,0.3279709392838609,Left-wing,1927,18
+Christian Union,0.2772608857461853,Other,2687,18
+Forum for Democracy,0.4651162790697674,Right-wing,301,18
+List Pim Fortuyn,0.2588652482269503,Right-wing,564,18
+Socialist Party,0.430818734358241,Left-wing,2797,18
+Christian Democratic Appeal,0.3365384615384615,Right-wing,1040,18
+Democrats‘66,0.3292410714285714,Other,3584,18
+Green Left,0.2848029163818637,Left-wing,8778,18
+DENK,0.2332730560578662,Left-wing,553,18
+Reformed Political Party,0.2726276229251487,Right-wing,6386,18
+50Plus,0.3212307692307692,Other,3250,18
+Party for the Animals,0.2679961089494163,Left-wing,4112,18
+People’s Party for Freedom and Democracy,0.4683171234895373,Right-wing,3393,19
+Party of Freedom,0.6351674641148325,Right-wing,1672,19
+Labour Party,0.4986972381448671,Left-wing,1919,19
+Christian Union,0.5183603757472246,Other,1171,19
+Forum for Democracy,0.5714285714285714,Right-wing,7,19
+List Pim Fortuyn,0.4352941176470588,Right-wing,85,19
+Socialist Party,0.6201780415430267,Left-wing,3370,19
+Christian Democratic Appeal,0.457641196013289,Right-wing,2408,19
+Democrats‘66,0.5240990013026487,Other,2303,19
+Green Left,0.527114967462039,Left-wing,9681,19
+DENK,0.440419447092469,Left-wing,1049,19
+Party for the Animals,0.5338345864661654,Left-wing,5719,19
+Reformed Political Party,0.5683789192795197,Right-wing,4497,19
+50Plus,0.5850914205344585,Other,2133,19
+People’s Party for Freedom and Democracy,0.5948469006721434,Right-wing,2678,20
+Party of Freedom,0.7308457711442786,Right-wing,2010,20
+Labour Party,0.5511932255581217,Left-wing,2598,20
+Christian Union,0.5427423981640849,Other,1743,20
+Forum for Democracy,0.6733333333333333,Right-wing,300,20
+List Pim Fortuyn,0.7021996615905245,Right-wing,591,20
+Socialist Party,0.6593851132686084,Left-wing,2472,20
+Christian Democratic Appeal,0.5059920106524634,Right-wing,751,20
+Democrats‘66,0.4709576138147566,Other,3185,20
+Green Left,0.6575028636884307,Left-wing,6111,20
+DENK,0.6685845799769851,Left-wing,869,20
+Reformed Political Party,0.6844462540716613,Right-wing,7368,20
+Party for the Animals,0.6950517836593786,Left-wing,4345,20
+50Plus,0.6445508435932512,Other,4386,20
+People’s Party for Freedom and Democracy,0.3904727535185853,Right-wing,2771,21
+Party of Freedom,0.5117960426179604,Right-wing,2628,21
+Labour Party,0.2464454976303317,Left-wing,2321,21
+Christian Union,0.3109987357774968,Other,1582,21
+Forum for Democracy,0.7368421052631579,Right-wing,57,21
+List Pim Fortuyn,0.8461538461538461,Right-wing,65,21
+Socialist Party,0.4964570416297608,Left-wing,2258,21
+Christian Democratic Appeal,0.3735105407882676,Right-wing,2182,21
+Democrats‘66,0.3575487012987013,Other,2464,21
+Green Left,0.3667756703727927,Left-wing,7645,21
+DENK,0.2905733722060252,Left-wing,2058,21
+Party for the Animals,0.3410630002052124,Left-wing,4873,21
+Reformed Political Party,0.3158756137479542,Right-wing,4888,21
+50Plus,0.2868603042876901,Other,3615,21
+People’s Party for Freedom and Democracy,0.3576572251560249,Right-wing,2083,22
+Party of Freedom,0.42997542997543,Right-wing,814,22
+Labour Party,0.339046598821639,Left-wing,1867,22
+Christian Union,0.2961890979257115,Other,2073,22
+Forum for Democracy,0.7432432432432432,Right-wing,148,22
+List Pim Fortuyn,0.4817073170731707,Right-wing,820,22
+Socialist Party,0.4669647292598112,Left-wing,2013,22
+Christian Democratic Appeal,0.2851500789889415,Right-wing,2532,22
+Democrats‘66,0.2868275515334338,Other,3978,22
+Green Left,0.304817649707339,Left-wing,8884,22
+DENK,0.3104602510460251,Left-wing,1195,22
+Party for the Animals,0.3983364140480591,Left-wing,3246,22
+50Plus,0.3334430546412113,Other,3038,22
+Reformed Political Party,0.2943716497915425,Right-wing,6716,22
+People’s Party for Freedom and Democracy,0.2309619238476954,Right-wing,1996,23
+Party of Freedom,0.4939759036144578,Right-wing,1909,23
+Labour Party,0.2980513728963684,Left-wing,2258,23
+Christian Union,0.2339930151338766,Other,1718,23
+Forum for Democracy,0.7832167832167832,Right-wing,143,23
+List Pim Fortuyn,0.3072625698324022,Right-wing,179,23
+Socialist Party,0.3969623748705557,Left-wing,2897,23
+Christian Democratic Appeal,0.2868821999256782,Right-wing,2691,23
+Democrats‘66,0.2889239258967284,Other,2537,23
+Green Left,0.2399685287175452,Left-wing,7626,23
+DENK,0.1961926961926962,Left-wing,2574,23
+Party for the Animals,0.266015625,Left-wing,5120,23
+Reformed Political Party,0.2364285714285714,Right-wing,7000,23
+50Plus,0.1699604743083003,Other,759,23
+People’s Party for Freedom and Democracy,0.30446735395189,Right-wing,1455,24
+Party of Freedom,0.4810659186535764,Right-wing,713,24
+Labour Party,0.3379518072289156,Left-wing,3320,24
+Christian Union,0.2635702294348069,Other,1787,24
+Forum for Democracy,0.4992887624466572,Right-wing,703,24
+List Pim Fortuyn,0.5046728971962616,Right-wing,107,24
+Socialist Party,0.4400146305779078,Left-wing,2734,24
+Christian Democratic Appeal,0.2811512811512811,Right-wing,2849,24
+Democrats‘66,0.2387218045112782,Other,2660,24
+Green Left,0.2473630978182343,Left-wing,6921,24
+DENK,0.2449693788276465,Left-wing,1143,24
+Reformed Political Party,0.2456594578129759,Right-wing,6566,24
+Party for the Animals,0.2617671345995045,Left-wing,6055,24
+50Plus,0.2109440267335004,Other,2394,24
+People’s Party for Freedom and Democracy,0.2975243147656941,Right-wing,2262,25
+Party of Freedom,0.4240867579908676,Right-wing,1752,25
+Labour Party,0.2784232365145228,Left-wing,2410,25
+Christian Union,0.2796859666339548,Other,2038,25
+Forum for Democracy,0.5,Right-wing,22,25
+List Pim Fortuyn,0.3284403669724771,Right-wing,545,25
+Socialist Party,0.4413194444444444,Left-wing,2880,25
+Christian Democratic Appeal,0.3017902813299232,Right-wing,2346,25
+Democrats‘66,0.3150024119633381,Other,2073,25
+Green Left,0.296541057367829,Left-wing,7112,25
+DENK,0.291970802919708,Left-wing,137,25
+Party for the Animals,0.2819390674970544,Left-wing,5941,25
+Reformed Political Party,0.2624649859943977,Right-wing,7140,25
+50Plus,0.2790105492906511,Other,2749,25
+People’s Party for Freedom and Democracy,0.2512056115738711,Right-wing,2281,26
+Party of Freedom,0.5437605872388481,Right-wing,1771,26
+Labour Party,0.2545902987119758,Left-wing,3649,26
+Christian Union,0.2452830188679245,Other,2173,26
+Forum for Democracy,0.4798711755233494,Right-wing,621,26
+List Pim Fortuyn,0.841726618705036,Right-wing,139,26
+Socialist Party,0.4787339268051434,Left-wing,1011,26
+Christian Democratic Appeal,0.287037037037037,Right-wing,1728,26
+Democrats‘66,0.3187817258883249,Other,2955,26
+Green Left,0.2956135859361666,Left-wing,5859,26
+DENK,0.5123893805309735,Left-wing,2260,26
+Party for the Animals,0.3952777305928316,Left-wing,5887,26
+Reformed Political Party,0.3402597402597402,Right-wing,6160,26
+50Plus,0.3199450738070717,Other,2913,26
+People’s Party for Freedom and Democracy,0.5026471504204297,Right-wing,3211,27
+Party of Freedom,0.6239015817223199,Right-wing,1707,27
+Labour Party,0.4609331084879146,Left-wing,1779,27
+Christian Union,0.53203125,Other,1280,27
+Forum for Democracy,0.5743119266055046,Right-wing,545,27
+List Pim Fortuyn,0.6723076923076923,Right-wing,650,27
+Socialist Party,0.6403203342618384,Left-wing,2872,27
+Christian Democratic Appeal,0.4502664298401421,Right-wing,2252,27
+Democrats‘66,0.4699803149606299,Other,2032,27
+Green Left,0.599168566447633,Left-wing,7457,27
+DENK,0.3211678832116788,Left-wing,137,27
+Party for the Animals,0.5822243346007605,Left-wing,6312,27
+Reformed Political Party,0.6196517748684033,Right-wing,7409,27
+50Plus,0.5924036281179138,Other,1764,27
+People’s Party for Freedom and Democracy,0.3329979879275654,Right-wing,1988,28
+Party of Freedom,0.4791666666666667,Right-wing,1296,28
+Labour Party,0.3685233160621761,Left-wing,1544,28
+Christian Union,0.3053665910808767,Other,2646,28
+Forum for Democracy,0.3531468531468531,Right-wing,286,28
+List Pim Fortuyn,0.3217247097844112,Right-wing,603,28
+Socialist Party,0.4372801875732708,Left-wing,2559,28
+Christian Democratic Appeal,0.3691397360036413,Right-wing,2197,28
+Democrats‘66,0.3007167341851044,Other,3209,28
+Green Left,0.3534739454094293,Left-wing,8060,28
+DENK,0.4087992667277726,Left-wing,1091,28
+Reformed Political Party,0.367557003257329,Right-wing,7675,28
+Party for the Animals,0.3258515975706363,Left-wing,3787,28
+50Plus,0.437956204379562,Other,2466,28
+People’s Party for Freedom and Democracy,0.3491379310344827,Right-wing,1856,29
+Party of Freedom,0.3976744186046511,Right-wing,860,29
+Labour Party,0.2536813922356091,Left-wing,2988,29
+Christian Union,0.2176581680830972,Other,2118,29
+Forum for Democracy,0.7391304347826086,Right-wing,23,29
+List Pim Fortuyn,0.4320175438596491,Right-wing,456,29
+Socialist Party,0.443359375,Left-wing,2560,29
+Christian Democratic Appeal,0.2026295436968291,Right-wing,2586,29
+Democrats‘66,0.2891357167650121,Other,2881,29
+Green Left,0.2674656533177433,Left-wing,6842,29
+DENK,0.3040590405904059,Left-wing,1355,29
+Party for the Animals,0.2517429524098211,Left-wing,6598,29
+50Plus,0.3868613138686131,Other,2192,29
+Reformed Political Party,0.2572225869993434,Right-wing,6092,29
+People’s Party for Freedom and Democracy,0.4741626794258373,Right-wing,2090,30
+Party of Freedom,0.6406747294716741,Right-wing,3142,30
+Labour Party,0.5145011600928074,Left-wing,1724,30
+Christian Union,0.4030253916801729,Other,1851,30
+Forum for Democracy,0.6016746411483254,Right-wing,836,30
+List Pim Fortuyn,0.5171673819742489,Right-wing,466,30
+Socialist Party,0.6283048211508554,Left-wing,2572,30
+Christian Democratic Appeal,0.4929116684841875,Right-wing,1834,30
+Democrats‘66,0.5030336458907887,Other,1813,30
+Green Left,0.5764796310530361,Left-wing,7806,30
+DENK,0.6001321877065433,Left-wing,1513,30
+Party for the Animals,0.5222399432925748,Left-wing,5643,30
+Reformed Political Party,0.5779150018162005,Right-wing,5506,30
+50Plus,0.594408272692455,Other,2611,30
+People’s Party for Freedom and Democracy,0.264170841022937,Right-wing,3793,31
+Party of Freedom,0.4486102133160957,Right-wing,1547,31
+Labour Party,0.2259911894273127,Left-wing,2270,31
+Christian Union,0.3336782203828246,Other,1933,31
+Forum for Democracy,0.484297520661157,Right-wing,605,31
+List Pim Fortuyn,0.8807339449541285,Right-wing,109,31
+Socialist Party,0.4686365992742353,Left-wing,1929,31
+Christian Democratic Appeal,0.2778938570831592,Right-wing,2393,31
+Democrats‘66,0.3670668953687822,Other,1749,31
+Green Left,0.2770647321428571,Left-wing,7168,31
+DENK,0.207070707070707,Left-wing,990,31
+Reformed Political Party,0.328809616130283,Right-wing,7737,31
+Party for the Animals,0.2363324764353042,Left-wing,5835,31
+50Plus,0.1578947368421052,Other,1349,31
+People’s Party for Freedom and Democracy,0.3945059137733689,Right-wing,2621,32
+Party of Freedom,0.5223214285714286,Right-wing,896,32
+Labour Party,0.453766350924673,Left-wing,2217,32
+Christian Union,0.504,Other,1625,32
+Forum for Democracy,0.711864406779661,Right-wing,826,32
+List Pim Fortuyn,0.5395189003436426,Right-wing,582,32
+Socialist Party,0.628657487091222,Left-wing,2324,32
+Christian Democratic Appeal,0.486411149825784,Right-wing,2870,32
+Democrats‘66,0.3760033798056612,Other,2367,32
+Green Left,0.5485020603630694,Left-wing,8979,32
+DENK,0.5059578368469294,Left-wing,1091,32
+Reformed Political Party,0.519316730523627,Right-wing,6264,32
+Party for the Animals,0.5706260032102729,Left-wing,3738,32
+50Plus,0.5463917525773195,Other,3007,32
+People’s Party for Freedom and Democracy,0.3098391674550615,Right-wing,2114,33
+Party of Freedom,0.4674698795180723,Right-wing,2490,33
+Labour Party,0.3169952051145445,Left-wing,1877,33
+Christian Union,0.263448275862069,Other,1450,33
+Forum for Democracy,0.3151618398637138,Right-wing,587,33
+List Pim Fortuyn,0.4714119019836639,Right-wing,857,33
+Socialist Party,0.3418870904066324,Left-wing,2533,33
+Christian Democratic Appeal,0.3060320973990039,Right-wing,1807,33
+Democrats‘66,0.2499043245311902,Other,2613,33
+Green Left,0.2873626373626373,Left-wing,10920,33
+DENK,0.3006416131989001,Left-wing,1091,33
+Party for the Animals,0.3039586919104991,Left-wing,2905,33
+Reformed Political Party,0.3167381974248927,Right-wing,5825,33
+50Plus,0.2852865697177074,Other,2338,33
+People’s Party for Freedom and Democracy,0.5481777333999002,Right-wing,2003,34
+Party of Freedom,0.6817777777777778,Right-wing,1125,34
+Labour Party,0.4833212472806381,Left-wing,2758,34
+Christian Union,0.5014914243102162,Other,2682,34
+Forum for Democracy,0.6176470588235294,Right-wing,68,34
+List Pim Fortuyn,0.7752293577981652,Right-wing,218,34
+Socialist Party,0.6778255528255528,Left-wing,3256,34
+Christian Democratic Appeal,0.5927665570690465,Right-wing,2129,34
+Democrats‘66,0.5485878410722834,Other,2089,34
+Green Left,0.6360476663356505,Left-wing,8056,34
+DENK,0.6251604621309371,Left-wing,1558,34
+Reformed Political Party,0.6799943685766577,Right-wing,7103,34
+Party for the Animals,0.6606956883982503,Left-wing,4801,34
+50Plus,0.6969891095451634,Other,1561,34
+People’s Party for Freedom and Democracy,0.4321528054118583,Right-wing,2513,35
+Party of Freedom,0.5050738007380073,Right-wing,2168,35
+Labour Party,0.3162534435261708,Left-wing,1815,35
+Christian Union,0.2662023016353725,Other,3302,35
+Forum for Democracy,0.533816425120773,Right-wing,414,35
+List Pim Fortuyn,0.6538461538461539,Right-wing,26,35
+Socialist Party,0.5259859933652783,Left-wing,2713,35
+Christian Democratic Appeal,0.3779572994806693,Right-wing,1733,35
+Democrats‘66,0.3680048661800487,Other,1644,35
+Green Left,0.3016493055555556,Left-wing,6912,35
+DENK,0.2686817800167926,Left-wing,1191,35
+Reformed Political Party,0.3086327345309381,Right-wing,8016,35
+Party for the Animals,0.2816734014737342,Left-wing,4207,35
+50Plus,0.3981111514711224,Other,2753,35
+People’s Party for Freedom and Democracy,0.439987059204141,Right-wing,3091,36
+Party of Freedom,0.6856023506366308,Right-wing,2042,36
+Labour Party,0.5594191822697746,Left-wing,2617,36
+Christian Union,0.4481292517006803,Other,1176,36
+Forum for Democracy,0.28125,Right-wing,32,36
+List Pim Fortuyn,0.7142857142857143,Right-wing,469,36
+Socialist Party,0.6889176928062216,Left-wing,3086,36
+Christian Democratic Appeal,0.4437148217636023,Right-wing,2132,36
+Democrats‘66,0.4373143196672608,Other,1683,36
+Green Left,0.5401042328714885,Left-wing,7867,36
+DENK,0.6045340050377834,Left-wing,1191,36
+Party for the Animals,0.5446247464503042,Left-wing,5916,36
+50Plus,0.65234375,Other,1280,36
+Reformed Political Party,0.5800732600732601,Right-wing,6825,36
+People’s Party for Freedom and Democracy,0.5784844384303113,Right-wing,2956,37
+Party of Freedom,0.6454993834771886,Right-wing,1622,37
+Labour Party,0.5133713283647523,Left-wing,2281,37
+Christian Union,0.4970308788598575,Other,1684,37
+Forum for Democracy,0.7992831541218638,Right-wing,279,37
+List Pim Fortuyn,0.6792168674698795,Right-wing,664,37
+Socialist Party,0.6601659751037344,Left-wing,2410,37
+Christian Democratic Appeal,0.5545493747304873,Right-wing,2319,37
+Democrats‘66,0.5073355418835779,Other,2113,37
+Green Left,0.5413819286256644,Left-wing,6585,37
+DENK,0.607380073800738,Left-wing,1355,37
+Party for the Animals,0.6146720454205886,Left-wing,6693,37
+Reformed Political Party,0.5738032938279206,Right-wing,6497,37
+50Plus,0.5926115956900975,Other,1949,37
+People’s Party for Freedom and Democracy,0.533800494641385,Right-wing,2426,38
+Party of Freedom,0.6879044300647088,Right-wing,2009,38
+Labour Party,0.4722662440570523,Left-wing,2524,38
+Christian Union,0.5750224618149147,Other,1113,38
+Forum for Democracy,0.7402597402597403,Right-wing,462,38
+List Pim Fortuyn,0.6952380952380952,Right-wing,315,38
+Socialist Party,0.6783625730994152,Left-wing,2394,38
+Christian Democratic Appeal,0.4791578947368421,Right-wing,2375,38
+Democrats‘66,0.5686346863468634,Other,2710,38
+Green Left,0.6421293937850229,Left-wing,7852,38
+DENK,0.5900857959961868,Left-wing,1049,38
+Party for the Animals,0.6534065934065935,Left-wing,4550,38
+Reformed Political Party,0.6408296943231441,Right-wing,5496,38
+50Plus,0.6510164569215876,Other,4132,38
+People’s Party for Freedom and Democracy,0.5212251477700162,Right-wing,3722,39
+Party of Freedom,0.5560814008518694,Right-wing,2113,39
+Labour Party,0.3994565217391304,Left-wing,2208,39
+Christian Union,0.529886914378029,Other,1857,39
+Forum for Democracy,0.7008797653958945,Right-wing,682,39
+List Pim Fortuyn,0.6763698630136986,Right-wing,584,39
+Socialist Party,0.6107275624004248,Left-wing,1883,39
+Christian Democratic Appeal,0.4172560113154172,Right-wing,1414,39
+Democrats‘66,0.47828418230563,Other,1865,39
+Green Left,0.5770636420919975,Left-wing,7935,39
+DENK,0.5481386392811296,Left-wing,1558,39
+Party for the Animals,0.6044454524835564,Left-wing,4409,39
+Reformed Political Party,0.5961878313557183,Right-wing,7922,39
+50Plus,0.5115537848605578,Other,1255,39
+People’s Party for Freedom and Democracy,0.3215507411630559,Right-wing,2631,40
+Party of Freedom,0.4761061946902655,Right-wing,2260,40
+Labour Party,0.3794844538931703,Left-wing,3763,40
+Christian Union,0.3264367816091954,Other,2175,40
+Forum for Democracy,0.5700934579439252,Right-wing,856,40
+List Pim Fortuyn,0.8796296296296297,Right-wing,108,40
+Socialist Party,0.4947538337368846,Left-wing,1239,40
+Christian Democratic Appeal,0.3501757469244288,Right-wing,2276,40
+Democrats‘66,0.3598039215686274,Other,1020,40
+Green Left,0.3513449740443605,Left-wing,8476,40
+DENK,0.3321678321678322,Left-wing,2574,40
+Reformed Political Party,0.3939228529839884,Right-wing,5496,40
+Party for the Animals,0.3188132799623263,Left-wing,4247,40
+50Plus,0.3573928258967629,Other,2286,40
+People’s Party for Freedom and Democracy,0.2079353416605437,Right-wing,2722,41
+Party of Freedom,0.467206132879046,Right-wing,2348,41
+Labour Party,0.2661322645290581,Left-wing,2495,41
+Christian Union,0.3072246065808298,Other,2796,41
+Forum for Democracy,0.3667861409796893,Right-wing,837,41
+List Pim Fortuyn,0.3016344725111441,Right-wing,673,41
+Socialist Party,0.596830985915493,Left-wing,568,41
+Christian Democratic Appeal,0.3116950025759917,Right-wing,1941,41
+Democrats‘66,0.2612936344969199,Other,1948,41
+Green Left,0.231995661605206,Left-wing,9220,41
+DENK,0.2178477690288714,Left-wing,1143,41
+Reformed Political Party,0.2404145077720207,Right-wing,5790,41
+Party for the Animals,0.2565894568690096,Left-wing,5008,41
+50Plus,0.4025026068821689,Other,1918,41
+People’s Party for Freedom and Democracy,0.2571428571428571,Right-wing,2170,42
+Party of Freedom,0.3740530303030303,Right-wing,3168,42
+Labour Party,0.3005286701911346,Left-wing,2459,42
+Christian Union,0.2547501759324419,Other,1421,42
+Forum for Democracy,0.0769230769230769,Right-wing,13,42
+List Pim Fortuyn,0.4225352112676056,Right-wing,71,42
+Socialist Party,0.3933470507544581,Left-wing,2916,42
+Christian Democratic Appeal,0.2303603071470762,Right-wing,1693,42
+Democrats‘66,0.2498965659908978,Other,2417,42
+Green Left,0.2809029454369869,Left-wing,8284,42
+DENK,0.2552476910159529,Left-wing,1191,42
+Party for the Animals,0.2856266298512042,Left-wing,6519,42
+Reformed Political Party,0.3096387869422445,Right-wing,5177,42
+50Plus,0.2688679245283019,Other,1908,42
+People’s Party for Freedom and Democracy,0.1832008295886623,Right-wing,2893,43
+Party of Freedom,0.403214535290007,Right-wing,1431,43
+Labour Party,0.2367807153965785,Left-wing,2572,43
+Christian Union,0.3113207547169811,Other,1378,43
+Forum for Democracy,0.7894736842105263,Right-wing,57,43
+List Pim Fortuyn,0.75,Right-wing,28,43
+Socialist Party,0.435702875399361,Left-wing,2504,43
+Christian Democratic Appeal,0.1840362495643081,Right-wing,2869,43
+Democrats‘66,0.2553929121725732,Other,2596,43
+Green Left,0.3643372904173296,Left-wing,8171,43
+DENK,0.3386783284742468,Left-wing,2058,43
+Party for the Animals,0.2295260974011793,Left-wing,4579,43
+Reformed Political Party,0.2419850680720246,Right-wing,4554,43
+50Plus,0.234866828087167,Other,3717,43
+People’s Party for Freedom and Democracy,0.488262910798122,Right-wing,2769,44
+Party of Freedom,0.641358024691358,Right-wing,1620,44
+Labour Party,0.4834476588130033,Left-wing,3353,44
+Christian Union,0.470846394984326,Other,1595,44
+Forum for Democracy,0.2352941176470588,Right-wing,85,44
+List Pim Fortuyn,0.6078431372549019,Right-wing,918,44
+Socialist Party,0.5625243474873393,Left-wing,2567,44
+Christian Democratic Appeal,0.3770226537216828,Right-wing,618,44
+Democrats‘66,0.3988583660363896,Other,2803,44
+Green Left,0.5250732911587718,Left-wing,6481,44
+DENK,0.3878020713463751,Left-wing,869,44
+Party for the Animals,0.4594594594594595,Left-wing,5143,44
+Reformed Political Party,0.5123152709359606,Right-wing,8120,44
+50Plus,0.446066504460665,Other,2466,44
+People’s Party for Freedom and Democracy,0.2958535674262234,Right-wing,2677,45
+Party of Freedom,0.4879340788699234,Right-wing,1699,45
+Labour Party,0.2904477611940299,Left-wing,3350,45
+Christian Union,0.3303782505910165,Other,1692,45
+Forum for Democracy,0.5167620605069502,Right-wing,1223,45
+List Pim Fortuyn,0.6,Right-wing,25,45
+Socialist Party,0.3595274781715459,Left-wing,1947,45
+Christian Democratic Appeal,0.3456909003370245,Right-wing,2077,45
+Democrats‘66,0.2802197802197802,Other,1638,45
+Green Left,0.261667703795893,Left-wing,6428,45
+DENK,0.2825896762904636,Left-wing,1143,45
+Reformed Political Party,0.2764253683536194,Right-wing,9366,45
+Party for the Animals,0.2471362417743114,Left-wing,4103,45
+50Plus,0.327611574301128,Other,2039,45
+People’s Party for Freedom and Democracy,0.3151390319258496,Right-wing,2913,46
+Party of Freedom,0.4250645994832041,Right-wing,2322,46
+Labour Party,0.2731707317073171,Left-wing,1640,46
+Christian Union,0.3087487283825025,Other,1966,46
+Forum for Democracy,0.4615384615384615,Right-wing,26,46
+List Pim Fortuyn,0.3716216216216216,Right-wing,444,46
+Socialist Party,0.4463667820069204,Left-wing,2023,46
+Christian Democratic Appeal,0.3143428285857071,Right-wing,2001,46
+Democrats‘66,0.3274306715669896,Other,2993,46
+Green Left,0.3477869129406464,Left-wing,8879,46
+DENK,0.3398230088495575,Left-wing,2260,46
+Party for the Animals,0.3495451364590622,Left-wing,2858,46
+Reformed Political Party,0.4212034383954154,Right-wing,5933,46
+50Plus,0.3493172435693871,Other,3149,46
+People’s Party for Freedom and Democracy,0.5394436844505244,Right-wing,2193,47
+Party of Freedom,0.6976351351351351,Right-wing,2368,47
+Labour Party,0.640278917145201,Left-wing,2438,47
+Christian Union,0.5964343598055105,Other,1234,47
+Forum for Democracy,0.6872812135355892,Right-wing,857,47
+List Pim Fortuyn,0.5666666666666667,Right-wing,330,47
+Socialist Party,0.6839989952273298,Left-wing,3981,47
+Christian Democratic Appeal,0.584241408214585,Right-wing,1193,47
+Democrats‘66,0.4896193771626297,Other,1734,47
+Green Left,0.6642114954623175,Left-wing,7603,47
+DENK,0.6535288725939505,Left-wing,1091,47
+Reformed Political Party,0.6348694316436252,Right-wing,6510,47
+Party for the Animals,0.6890362856028092,Left-wing,5126,47
+50Plus,0.71989814477992,Other,2749,47
+People’s Party for Freedom and Democracy,0.3166216737369842,Right-wing,2593,48
+Party of Freedom,0.4570446735395189,Right-wing,1164,48
+Labour Party,0.2865358592692828,Left-wing,2956,48
+Christian Union,0.3293903548680619,Other,2198,48
+Forum for Democracy,0.3695131683958499,Right-wing,1253,48
+List Pim Fortuyn,0.3914327917282127,Right-wing,677,48
+Socialist Party,0.4575556893437688,Left-wing,1661,48
+Christian Democratic Appeal,0.3441053261520048,Right-wing,1671,48
+Democrats‘66,0.2932714617169373,Other,2155,48
+Green Left,0.3568426582610979,Left-wing,7614,48
+DENK,0.3425692695214106,Left-wing,1191,48
+Party for the Animals,0.3714052620844381,Left-wing,4903,48
+50Plus,0.4079262043047489,Other,2927,48
+Reformed Political Party,0.3386095592799503,Right-wing,6444,48
+People’s Party for Freedom and Democracy,0.3731793068809643,Right-wing,1991,49
+Party of Freedom,0.5686600221483943,Right-wing,1806,49
+Labour Party,0.4005,Left-wing,2000,49
+Christian Union,0.429260935143288,Other,3315,49
+Forum for Democracy,0.375,Right-wing,24,49
+List Pim Fortuyn,0.5408163265306123,Right-wing,588,49
+Socialist Party,0.5650901999024865,Left-wing,2051,49
+Christian Democratic Appeal,0.4046797084771768,Right-wing,2607,49
+Democrats‘66,0.3751284686536485,Other,1946,49
+Green Left,0.4811931243680485,Left-wing,9890,49
+DENK,0.5194174757281553,Left-wing,206,49
+Reformed Political Party,0.4548013245033112,Right-wing,6040,49
+50Plus,0.4925427428155693,Other,2749,49
+Party for the Animals,0.4883166428230805,Left-wing,4194,49
+People’s Party for Freedom and Democracy,0.3092605390463027,Right-wing,2894,50
+Party of Freedom,0.4590964590964591,Right-wing,819,50
+Labour Party,0.3213393303348326,Left-wing,2001,50
+Christian Union,0.2770457697642163,Other,2884,50
+Forum for Democracy,0.8095238095238095,Right-wing,84,50
+List Pim Fortuyn,0.3539094650205761,Right-wing,243,50
+Socialist Party,0.3813483813483813,Left-wing,3367,50
+Christian Democratic Appeal,0.3164817098232634,Right-wing,2433,50
+Democrats‘66,0.296943231441048,Other,1603,50
+Green Left,0.3094185651139068,Left-wing,8823,50
+DENK,0.2444444444444444,Left-wing,990,50
+Party for the Animals,0.3113279755070799,Left-wing,5226,50
+50Plus,0.325,Other,1280,50
+Reformed Political Party,0.3309171597633136,Right-wing,6760,50
+People’s Party for Freedom and Democracy,0.5307409353652128,Right-wing,3806,51
+Party of Freedom,0.658662900188324,Right-wing,2124,51
+Labour Party,0.4624808575803981,Left-wing,1959,51
+Christian Union,0.5275590551181102,Other,1524,51
+Forum for Democracy,0.7027027027027027,Right-wing,111,51
+List Pim Fortuyn,0.7888888888888889,Right-wing,270,51
+Socialist Party,0.6369397917609778,Left-wing,2209,51
+Christian Democratic Appeal,0.4202719406674907,Right-wing,1618,51
+Democrats‘66,0.4710011082379017,Other,2707,51
+Green Left,0.5695233390960731,Left-wing,8098,51
+DENK,0.600836820083682,Left-wing,1195,51
+Party for the Animals,0.5744749596122779,Left-wing,6190,51
+50Plus,0.6019273535952557,Other,1349,51
+Reformed Political Party,0.590043220745958,Right-wing,6247,51
+People’s Party for Freedom and Democracy,0.2510220768601799,Right-wing,1223,52
+Party of Freedom,0.5794183445190156,Right-wing,447,52
+Labour Party,0.2365530836384117,Left-wing,3551,52
+Christian Union,0.2783078880407125,Other,3144,52
+Forum for Democracy,0.315,Right-wing,200,52
+List Pim Fortuyn,0.7816091954022989,Right-wing,87,52
+Socialist Party,0.3482965931863727,Left-wing,2495,52
+Christian Democratic Appeal,0.3224568138195777,Right-wing,2605,52
+Democrats‘66,0.2775621118012422,Other,2576,52
+Green Left,0.3412167672484097,Left-wing,6131,52
+DENK,0.2811808118081181,Left-wing,1355,52
+Reformed Political Party,0.2552410901467505,Right-wing,7632,52
+Party for the Animals,0.2549923195084485,Left-wing,5208,52
+50Plus,0.2408281874318925,Other,2753,52
+People’s Party for Freedom and Democracy,0.5049435028248588,Right-wing,2832,53
+Party of Freedom,0.6063291139240506,Right-wing,790,53
+Labour Party,0.5198395006687472,Left-wing,2243,53
+Christian Union,0.4788401253918495,Other,1276,53
+Forum for Democracy,0.8458904109589042,Right-wing,292,53
+List Pim Fortuyn,0.6025641025641025,Right-wing,78,53
+Socialist Party,0.6427498121712998,Left-wing,2662,53
+Christian Democratic Appeal,0.5079429735234215,Right-wing,2455,53
+Democrats‘66,0.4705405405405405,Other,3700,53
+Green Left,0.6492167626188244,Left-wing,7469,53
+DENK,0.5717439293598234,Left-wing,1812,53
+Reformed Political Party,0.5936923335010904,Right-wing,5961,53
+Party for the Animals,0.5906560971496037,Left-wing,5929,53
+50Plus,0.6677148846960168,Other,1908,53
+People’s Party for Freedom and Democracy,0.2770365168539326,Right-wing,2848,54
+Party of Freedom,0.3899835796387521,Right-wing,1218,54
+Labour Party,0.2799555184876285,Left-wing,3597,54
+Christian Union,0.2656473960821787,Other,2093,54
+Forum for Democracy,0.3722222222222222,Right-wing,360,54
+List Pim Fortuyn,0.3445190156599552,Right-wing,447,54
+Socialist Party,0.4865831842576029,Left-wing,1118,54
+Christian Democratic Appeal,0.3329532497149373,Right-wing,1754,54
+Democrats‘66,0.2948496370549602,Other,2893,54
+Green Left,0.2411620207198547,Left-wing,9363,54
+DENK,0.2622061482820976,Left-wing,553,54
+Party for the Animals,0.2654545454545454,Left-wing,4400,54
+50Plus,0.2637614678899082,Other,2616,54
+Reformed Political Party,0.3066536521880592,Right-wing,6147,54
+People’s Party for Freedom and Democracy,0.3512412004446091,Right-wing,2699,55
+Party of Freedom,0.4262948207171315,Right-wing,1255,55
+Labour Party,0.2920353982300885,Left-wing,3842,55
+Christian Union,0.2543859649122807,Other,1938,55
+Forum for Democracy,0.6538461538461539,Right-wing,26,55
+List Pim Fortuyn,0.4903846153846153,Right-wing,104,55
+Socialist Party,0.4752018454440599,Left-wing,2601,55
+Christian Democratic Appeal,0.3217562254259501,Right-wing,1526,55
+Democrats‘66,0.3097988874625588,Other,2337,55
+Green Left,0.2670940170940171,Left-wing,9828,55
+DENK,0.2756113681427627,Left-wing,1513,55
+Reformed Political Party,0.2759944173063503,Right-wing,5732,55
+Party for the Animals,0.3094364788262754,Left-wing,2999,55
+50Plus,0.270036581310276,Other,3007,55
+People’s Party for Freedom and Democracy,0.2689747003994673,Right-wing,2253,56
+Party of Freedom,0.3989071038251366,Right-wing,732,56
+Labour Party,0.2875,Left-wing,2400,56
+Christian Union,0.2520022883295194,Other,3496,56
+Forum for Democracy,0.9315068493150684,Right-wing,73,56
+List Pim Fortuyn,0.3947750362844702,Right-wing,689,56
+Socialist Party,0.4716535433070866,Left-wing,2540,56
+Christian Democratic Appeal,0.2547931382441978,Right-wing,1982,56
+Democrats‘66,0.2824780397595932,Other,2163,56
+Green Left,0.2753339474896361,Left-wing,8684,56
+DENK,0.2845188284518828,Left-wing,1195,56
+Party for the Animals,0.2609049479166667,Left-wing,6144,56
+50Plus,0.4141414141414141,Other,2574,56
+Reformed Political Party,0.2706381079875056,Right-wing,4482,56
+People’s Party for Freedom and Democracy,0.2820442743919104,Right-wing,3659,57
+Party of Freedom,0.4584615384615385,Right-wing,1625,57
+Labour Party,0.283203125,Left-wing,2560,57
+Christian Union,0.3011130638547158,Other,1707,57
+Forum for Democracy,0.1879194630872483,Right-wing,596,57
+List Pim Fortuyn,0.4006849315068493,Right-wing,292,57
+Socialist Party,0.3969622331691297,Left-wing,2436,57
+Christian Democratic Appeal,0.3989396951623591,Right-wing,1509,57
+Democrats‘66,0.2752057613168724,Other,1944,57
+Green Left,0.3144007155635062,Left-wing,8944,57
+DENK,0.3304692663582287,Left-wing,1513,57
+Reformed Political Party,0.3252482500406967,Right-wing,6143,57
+50Plus,0.3268664047151277,Other,4072,57
+Party for the Animals,0.2982966348151226,Left-wing,2407,57
+People’s Party for Freedom and Democracy,0.3848666303756124,Right-wing,1837,58
+Party of Freedom,0.6479514415781487,Right-wing,1977,58
+Labour Party,0.5037268574176484,Left-wing,4159,58
+Christian Union,0.5048913043478261,Other,1840,58
+Forum for Democracy,0.5198329853862212,Right-wing,479,58
+List Pim Fortuyn,0.5396270396270396,Right-wing,858,58
+Socialist Party,0.6527602191319005,Left-wing,2373,58
+Christian Democratic Appeal,0.5171026156941649,Right-wing,1491,58
+Democrats‘66,0.3850837138508371,Other,1314,58
+Green Left,0.6014230979748221,Left-wing,9135,58
+DENK,0.5017261219792866,Left-wing,869,58
+Party for the Animals,0.5291232372777437,Left-wing,4893,58
+Reformed Political Party,0.6513473301372128,Right-wing,6049,58
+50Plus,0.5489920300046882,Other,2133,58
+People’s Party for Freedom and Democracy,0.4310581768208887,Right-wing,2183,59
+Party of Freedom,0.5399188092016238,Right-wing,739,59
+Labour Party,0.3019480519480519,Left-wing,2156,59
+Christian Union,0.3592137592137592,Other,2035,59
+Forum for Democracy,0.4596774193548387,Right-wing,372,59
+List Pim Fortuyn,0.9206349206349206,Right-wing,63,59
+Socialist Party,0.5521056388294076,Left-wing,2802,59
+Christian Democratic Appeal,0.3635772357723577,Right-wing,3075,59
+Democrats‘66,0.3182914226662073,Other,2903,59
+Green Left,0.3899248538825494,Left-wing,7186,59
+DENK,0.3195571955719557,Left-wing,1355,59
+Reformed Political Party,0.3873295910184443,Right-wing,7482,59
+Party for the Animals,0.3678290213723285,Left-wing,4445,59
+50Plus,0.35656836461126,Other,2611,59
+People’s Party for Freedom and Democracy,0.5044213763936948,Right-wing,2601,60
+Party of Freedom,0.5856037672384796,Right-wing,2973,60
+Labour Party,0.4808691544638639,Left-wing,2117,60
+Christian Union,0.4835462640340689,Other,2583,60
+Forum for Democracy,0.574468085106383,Right-wing,47,60
+List Pim Fortuyn,0.5627644569816643,Right-wing,709,60
+Socialist Party,0.6113561190738699,Left-wing,1814,60
+Christian Democratic Appeal,0.5326142783769903,Right-wing,1947,60
+Democrats‘66,0.4313597918022121,Other,1537,60
+Green Left,0.5456983240223464,Left-wing,8950,60
+DENK,0.4579646017699115,Left-wing,2260,60
+Reformed Political Party,0.489158543863139,Right-wing,5027,60
+Party for the Animals,0.6131284916201117,Left-wing,4296,60
+50Plus,0.5157109190887667,Other,2546,60
+People’s Party for Freedom and Democracy,0.4780487804878048,Right-wing,1845,61
+Party of Freedom,0.592,Right-wing,3000,61
+Labour Party,0.5394736842105263,Left-wing,2888,61
+Christian Union,0.5576668139637649,Other,2263,61
+Forum for Democracy,0.2307692307692307,Right-wing,78,61
+List Pim Fortuyn,0.7142857142857143,Right-wing,7,61
+Socialist Party,0.6635120925341745,Left-wing,1902,61
+Christian Democratic Appeal,0.3811111111111111,Right-wing,1800,61
+Democrats‘66,0.4227897838899803,Other,2545,61
+Green Left,0.5063119457485654,Left-wing,9585,61
+DENK,0.5477560414269275,Left-wing,869,61
+Reformed Political Party,0.5728762033440298,Right-wing,5921,61
+Party for the Animals,0.5854806739345887,Left-wing,4036,61
+50Plus,0.6068215892053973,Other,2668,61
+People’s Party for Freedom and Democracy,0.3742309084328628,Right-wing,2763,62
+Party of Freedom,0.481799591002045,Right-wing,2445,62
+Labour Party,0.2451903397462136,Left-wing,2443,62
+Christian Union,0.2386299831555306,Other,1781,62
+Forum for Democracy,0.3464203233256351,Right-wing,433,62
+List Pim Fortuyn,0.6363636363636364,Right-wing,110,62
+Socialist Party,0.4584426946631671,Left-wing,1143,62
+Christian Democratic Appeal,0.3070110701107011,Right-wing,2710,62
+Democrats‘66,0.3588,Other,2500,62
+Green Left,0.3184923958562927,Left-wing,9074,62
+DENK,0.2695081967213115,Left-wing,1525,62
+Party for the Animals,0.3438509789013496,Left-wing,5261,62
+Reformed Political Party,0.3420125593505896,Right-wing,6529,62
+50Plus,0.3115942028985507,Other,690,62
+People’s Party for Freedom and Democracy,0.520811833505332,Right-wing,2907,63
+Party of Freedom,0.6772655007949125,Right-wing,1258,63
+Labour Party,0.5761099365750528,Left-wing,2838,63
+Christian Union,0.606984126984127,Other,1575,63
+Forum for Democracy,0.7093889716840537,Right-wing,671,63
+List Pim Fortuyn,0.7222222222222222,Right-wing,36,63
+Socialist Party,0.6822301565503982,Left-wing,3641,63
+Christian Democratic Appeal,0.6478611283323,Right-wing,1613,63
+Democrats‘66,0.4829513694801565,Other,1789,63
+Green Left,0.6169321039396479,Left-wing,8351,63
+DENK,0.6006216006216006,Left-wing,2574,63
+Party for the Animals,0.6236021889126814,Left-wing,4203,63
+50Plus,0.5581746751284375,Other,3309,63
+Reformed Political Party,0.6456268849633778,Right-wing,4642,63
+People’s Party for Freedom and Democracy,0.4596725288053365,Right-wing,1649,64
+Party of Freedom,0.6286279683377308,Right-wing,1516,64
+Labour Party,0.4860641891891892,Left-wing,2368,64
+Christian Union,0.466161342717921,Other,1847,64
+Forum for Democracy,0.6618357487922706,Right-wing,828,64
+List Pim Fortuyn,0.5969802555168409,Right-wing,861,64
+Socialist Party,0.6933265410086602,Left-wing,1963,64
+Christian Democratic Appeal,0.5176686553464892,Right-wing,2179,64
+Democrats‘66,0.4828360603144049,Other,3117,64
+Green Left,0.5772804054054054,Left-wing,7104,64
+DENK,0.5694849368318756,Left-wing,2058,64
+Party for the Animals,0.6045132912602792,Left-wing,5229,64
+Reformed Political Party,0.6466454743182198,Right-wing,5977,64
+50Plus,0.6326078937661379,Other,2711,64
+People’s Party for Freedom and Democracy,0.400613183444047,Right-wing,1957,65
+Party of Freedom,0.4182960893854748,Right-wing,1432,65
+Labour Party,0.3502747252747252,Left-wing,1456,65
+Christian Union,0.2860717264386989,Other,1199,65
+Forum for Democracy,0.502944640753828,Right-wing,849,65
+List Pim Fortuyn,0.484181568088033,Right-wing,727,65
+Socialist Party,0.3858024691358024,Left-wing,2592,65
+Christian Democratic Appeal,0.3144246353322528,Right-wing,3085,65
+Democrats‘66,0.3335532827449686,Other,3031,65
+Green Left,0.3323760769134723,Left-wing,8009,65
+DENK,0.2937238493723849,Left-wing,1195,65
+Reformed Political Party,0.3448026601127656,Right-wing,6917,65
+50Plus,0.2936476228525769,Other,2503,65
+Party for the Animals,0.3108866442199775,Left-wing,4455,65
+People’s Party for Freedom and Democracy,0.3624801271860095,Right-wing,1887,66
+Party of Freedom,0.497335701598579,Right-wing,1689,66
+Labour Party,0.3378825475599669,Left-wing,2418,66
+Christian Union,0.2537777777777777,Other,2250,66
+Forum for Democracy,0.4420921544209215,Right-wing,803,66
+List Pim Fortuyn,0.6038961038961039,Right-wing,154,66
+Socialist Party,0.4373825923606763,Left-wing,3194,66
+Christian Democratic Appeal,0.2949504483246815,Right-wing,2119,66
+Democrats‘66,0.269018743109151,Other,1814,66
+Green Left,0.382371753869771,Left-wing,7817,66
+DENK,0.395575221238938,Left-wing,2260,66
+Reformed Political Party,0.3988261598658468,Right-wing,7156,66
+Party for the Animals,0.3481421647819063,Left-wing,2476,66
+50Plus,0.3848664688427299,Other,3370,66
+People’s Party for Freedom and Democracy,0.4845303867403315,Right-wing,1810,67
+Party of Freedom,0.6585447263017357,Right-wing,2996,67
+Labour Party,0.5370253164556962,Left-wing,3160,67
+Christian Union,0.5976621417797888,Other,2652,67
+Forum for Democracy,0.5232558139534884,Right-wing,86,67
+List Pim Fortuyn,0.7751677852348994,Right-wing,298,67
+Socialist Party,0.6812664907651715,Left-wing,1895,67
+Christian Democratic Appeal,0.611764705882353,Right-wing,1360,67
+Democrats‘66,0.4505070014485756,Other,2071,67
+Green Left,0.6289858163591767,Left-wing,9377,67
+DENK,0.6075949367088608,Left-wing,869,67
+Party for the Animals,0.5805621111349496,Left-wing,4661,67
+Reformed Political Party,0.5939319103898395,Right-wing,5669,67
+50Plus,0.5860966839792249,Other,2503,67
+People’s Party for Freedom and Democracy,0.4778841769265846,Right-wing,2193,68
+Party of Freedom,0.7209446861404599,Right-wing,1609,68
+Labour Party,0.4978471474703982,Left-wing,1858,68
+Christian Union,0.5237247924080665,Other,1686,68
+Forum for Democracy,0.7319004524886877,Right-wing,884,68
+List Pim Fortuyn,0.7128129602356407,Right-wing,679,68
+Socialist Party,0.6387382947264663,Left-wing,2029,68
+Christian Democratic Appeal,0.4750542299349241,Right-wing,2766,68
+Democrats‘66,0.4725609756097561,Other,2624,68
+Green Left,0.5558599333015721,Left-wing,8396,68
+DENK,0.5036496350364964,Left-wing,137,68
+Party for the Animals,0.5513331290223721,Left-wing,6526,68
+Reformed Political Party,0.5252544651430766,Right-wing,5207,68
+50Plus,0.5051546391752577,Other,2813,68
+People’s Party for Freedom and Democracy,0.4489191590168789,Right-wing,3377,69
+Party of Freedom,0.6273841961852861,Right-wing,2936,69
+Labour Party,0.4297297297297297,Left-wing,2220,69
+Christian Union,0.4982993197278911,Other,1176,69
+Forum for Democracy,0.6414141414141414,Right-wing,198,69
+List Pim Fortuyn,0.5075187969924813,Right-wing,532,69
+Socialist Party,0.6067226890756302,Left-wing,2380,69
+Christian Democratic Appeal,0.45077484047402,Right-wing,2194,69
+Democrats‘66,0.4904942965779467,Other,1315,69
+Green Left,0.4756554307116105,Left-wing,8544,69
+DENK,0.497071129707113,Left-wing,1195,69
+Party for the Animals,0.4929097110034105,Left-wing,5571,69
+Reformed Political Party,0.474219522531431,Right-wing,7079,69
+50Plus,0.5565217391304348,Other,690,69
+People’s Party for Freedom and Democracy,0.3133124159569699,Right-wing,2231,70
+Party of Freedom,0.3269938650306748,Right-wing,1630,70
+Labour Party,0.2243589743589743,Left-wing,2808,70
+Christian Union,0.1946011281224818,Other,2482,70
+Forum for Democracy,0.2039007092198581,Right-wing,564,70
+List Pim Fortuyn,0.5384615384615384,Right-wing,117,70
+Socialist Party,0.5766470971950424,Left-wing,1533,70
+Christian Democratic Appeal,0.2662595419847328,Right-wing,3275,70
+Democrats‘66,0.3394549763033175,Other,1688,70
+Green Left,0.3356061639165416,Left-wing,7333,70
+DENK,0.2766990291262136,Left-wing,206,70
+Reformed Political Party,0.2763946212222074,Right-wing,7511,70
+50Plus,0.2372245663384904,Other,2133,70
+Party for the Animals,0.2776458616010855,Left-wing,5896,70
+People’s Party for Freedom and Democracy,0.4879267277268942,Right-wing,2402,71
+Party of Freedom,0.6883374689826303,Right-wing,2015,71
+Labour Party,0.5658848614072495,Left-wing,2345,71
+Christian Union,0.4954710144927536,Other,1104,71
+Forum for Democracy,0.7720763723150358,Right-wing,838,71
+List Pim Fortuyn,0.602203182374541,Right-wing,817,71
+Socialist Party,0.630895716140199,Left-wing,2311,71
+Christian Democratic Appeal,0.5669515669515669,Right-wing,1053,71
+Democrats‘66,0.5463258785942492,Other,3443,71
+Green Left,0.6406308674427338,Left-wing,7989,71
+DENK,0.364963503649635,Left-wing,137,71
+Reformed Political Party,0.5953452488105954,Right-wing,7777,71
+50Plus,0.6010985238585651,Other,2913,71
+Party for the Animals,0.6115411681914145,Left-wing,4263,71
+People’s Party for Freedom and Democracy,0.3116651825467498,Right-wing,2246,72
+Party of Freedom,0.4128878281622912,Right-wing,1257,72
+Labour Party,0.324298392899976,Left-wing,4169,72
+Christian Union,0.3752471332542507,Other,2529,72
+Forum for Democracy,0.7230769230769231,Right-wing,65,72
+List Pim Fortuyn,0.4845360824742268,Right-wing,194,72
+Socialist Party,0.4699683877766069,Left-wing,2847,72
+Christian Democratic Appeal,0.3081761006289308,Right-wing,2226,72
+Democrats‘66,0.4088050314465409,Other,795,72
+Green Left,0.3008279668813247,Left-wing,5435,72
+DENK,0.2753138075313807,Left-wing,1195,72
+Party for the Animals,0.3240880313536328,Left-wing,6634,72
+50Plus,0.2954545454545454,Other,3564,72
+Reformed Political Party,0.3141897296432571,Right-wing,6251,72
+People’s Party for Freedom and Democracy,0.5090991810737033,Right-wing,2198,73
+Party of Freedom,0.5922762718158188,Right-wing,2693,73
+Labour Party,0.5237633365664404,Left-wing,2062,73
+Christian Union,0.4913473423980222,Other,1618,73
+Forum for Democracy,0.5701754385964912,Right-wing,456,73
+List Pim Fortuyn,0.6111111111111112,Right-wing,126,73
+Socialist Party,0.6737007874015748,Left-wing,3175,73
+Christian Democratic Appeal,0.4576923076923077,Right-wing,1040,73
+Democrats‘66,0.5574324324324325,Other,2960,73
+Green Left,0.5451679232350926,Left-wing,7295,73
+DENK,0.5730088495575221,Left-wing,2260,73
+Reformed Political Party,0.5194201312910285,Right-wing,7312,73
+Party for the Animals,0.5665215287856797,Left-wing,4134,73
+50Plus,0.5765158806544755,Other,2078,73
+People’s Party for Freedom and Democracy,0.4644945697577276,Right-wing,2394,74
+Party of Freedom,0.568814055636896,Right-wing,1366,74
+Labour Party,0.3976883561643836,Left-wing,2336,74
+Christian Union,0.5325443786982249,Other,2535,74
+Forum for Democracy,0.6086956521739131,Right-wing,138,74
+List Pim Fortuyn,0.7222222222222222,Right-wing,36,74
+Socialist Party,0.5949288806431664,Left-wing,3234,74
+Christian Democratic Appeal,0.4930053063193439,Right-wing,2073,74
+Democrats‘66,0.4106498194945848,Other,2216,74
+Green Left,0.5364381689820087,Left-wing,8782,74
+DENK,0.5699300699300699,Left-wing,2574,74
+Reformed Political Party,0.5321774904496033,Right-wing,6806,74
+Party for the Animals,0.448423630241812,Left-wing,3267,74
+50Plus,0.5054545454545455,Other,1650,74
+People’s Party for Freedom and Democracy,0.4832268370607028,Right-wing,1252,75
+Party of Freedom,0.4779385810095305,Right-wing,2833,75
+Labour Party,0.348076923076923,Left-wing,3120,75
+Christian Union,0.3052138254247217,Other,1707,75
+Forum for Democracy,0.4434523809523809,Right-wing,672,75
+List Pim Fortuyn,0.8513513513513513,Right-wing,148,75
+Socialist Party,0.498812351543943,Left-wing,2526,75
+Christian Democratic Appeal,0.3027522935779816,Right-wing,1308,75
+Democrats‘66,0.2972483707458364,Other,2762,75
+Green Left,0.379084034812384,Left-wing,7009,75
+DENK,0.3496364838070059,Left-wing,1513,75
+Party for the Animals,0.3372035163377011,Left-wing,6029,75
+50Plus,0.3730886850152905,Other,2616,75
+Reformed Political Party,0.388700947225981,Right-wing,5912,75
+People’s Party for Freedom and Democracy,0.2653985507246377,Right-wing,1104,76
+Party of Freedom,0.455994455994456,Right-wing,1443,76
+Labour Party,0.2938060309698451,Left-wing,2454,76
+Christian Union,0.2752826153376108,Other,3273,76
+Forum for Democracy,0.4741379310344827,Right-wing,116,76
+List Pim Fortuyn,0.2747252747252747,Right-wing,455,76
+Socialist Party,0.387905604719764,Left-wing,3390,76
+Christian Democratic Appeal,0.3124699085219066,Right-wing,2077,76
+Democrats‘66,0.2916666666666667,Other,2016,76
+Green Left,0.2451803666469544,Left-wing,8455,76
+DENK,0.3163179916317992,Left-wing,1195,76
+Party for the Animals,0.2738853503184713,Left-wing,4553,76
+50Plus,0.289328576062277,Other,3083,76
+Reformed Political Party,0.2998446400828586,Right-wing,5793,76
+People’s Party for Freedom and Democracy,0.2248628884826325,Right-wing,2735,77
+Party of Freedom,0.5278246205733558,Right-wing,593,77
+Labour Party,0.2424792531120332,Left-wing,3856,77
+Christian Union,0.3065781532890766,Other,1657,77
+Forum for Democracy,0.3969465648854962,Right-wing,524,77
+List Pim Fortuyn,0.3252032520325203,Right-wing,492,77
+Socialist Party,0.5050700144857557,Left-wing,2071,77
+Christian Democratic Appeal,0.2450980392156862,Right-wing,2244,77
+Democrats‘66,0.3487940630797773,Other,2156,77
+Green Left,0.3330304996755354,Left-wing,7705,77
+DENK,0.2560738581146744,Left-wing,2058,77
+Party for the Animals,0.278023598820059,Left-wing,6780,77
+Reformed Political Party,0.3177374301675977,Right-wing,4296,77
+50Plus,0.465625,Other,2240,77
+People’s Party for Freedom and Democracy,0.3255696202531645,Right-wing,1975,78
+Party of Freedom,0.5733267716535433,Right-wing,2032,78
+Labour Party,0.373350361856109,Left-wing,2349,78
+Christian Union,0.437246963562753,Other,1729,78
+Forum for Democracy,0.6416510318949343,Right-wing,533,78
+List Pim Fortuyn,0.4922048997772829,Right-wing,449,78
+Socialist Party,0.6090509113764928,Left-wing,1591,78
+Christian Democratic Appeal,0.4853391684901532,Right-wing,2285,78
+Democrats‘66,0.4797636632200886,Other,3385,78
+Green Left,0.4275191976179282,Left-wing,6381,78
+DENK,0.488338192419825,Left-wing,2058,78
+Reformed Political Party,0.4623359580052493,Right-wing,7620,78
+Party for the Animals,0.4620309443357638,Left-wing,5623,78
+50Plus,0.5590551181102362,Other,1397,78
+People’s Party for Freedom and Democracy,0.3503496503496504,Right-wing,1430,79
+Party of Freedom,0.4765558397271952,Right-wing,1173,79
+Labour Party,0.3442109968708091,Left-wing,2237,79
+Christian Union,0.36272040302267,Other,1588,79
+Forum for Democracy,0.5511811023622047,Right-wing,127,79
+List Pim Fortuyn,0.5234567901234568,Right-wing,810,79
+Socialist Party,0.4847307051637979,Left-wing,3602,79
+Christian Democratic Appeal,0.3553391053391053,Right-wing,2772,79
+Democrats‘66,0.3928157589803013,Other,2589,79
+Green Left,0.3891919979215381,Left-wing,7698,79
+DENK,0.3254593175853018,Left-wing,1143,79
+Reformed Political Party,0.4848945147679325,Right-wing,5925,79
+Party for the Animals,0.3591585428424833,Left-wing,5847,79
+50Plus,0.4667477696674777,Other,2466,79
+People’s Party for Freedom and Democracy,0.4601036269430051,Right-wing,1930,80
+Party of Freedom,0.6892123287671232,Right-wing,2336,80
+Labour Party,0.5085178875638842,Left-wing,2348,80
+Christian Union,0.5002148689299527,Other,2327,80
+Forum for Democracy,0.7193877551020408,Right-wing,196,80
+List Pim Fortuyn,0.4768722466960352,Right-wing,908,80
+Socialist Party,0.6552542372881356,Left-wing,2950,80
+Christian Democratic Appeal,0.4450331125827814,Right-wing,755,80
+Democrats‘66,0.4542280837858805,Other,2578,80
+Green Left,0.497464135632517,Left-wing,6901,80
+DENK,0.5462295081967213,Left-wing,1525,80
+Reformed Political Party,0.5178016388810398,Right-wing,7078,80
+Party for the Animals,0.5063583815028901,Left-wing,4325,80
+50Plus,0.548,Other,3250,80
+People’s Party for Freedom and Democracy,0.4626310449780182,Right-wing,2957,81
+Party of Freedom,0.6210661528580603,Right-wing,1557,81
+Labour Party,0.4672768878718535,Left-wing,2185,81
+Christian Union,0.3790170132325142,Other,1058,81
+Forum for Democracy,0.4082278481012658,Right-wing,316,81
+List Pim Fortuyn,0.7222222222222222,Right-wing,36,81
+Socialist Party,0.6392676275808337,Left-wing,2567,81
+Christian Democratic Appeal,0.4598557692307692,Right-wing,4160,81
+Democrats‘66,0.4631367292225201,Other,1492,81
+Green Left,0.4725115039961249,Left-wing,8258,81
+DENK,0.4833141542002301,Left-wing,869,81
+Party for the Animals,0.5050155655482532,Left-wing,5782,81
+Reformed Political Party,0.5043016919988529,Right-wing,6974,81
+50Plus,0.5351170568561873,Other,1196,81
+People’s Party for Freedom and Democracy,0.5128205128205128,Right-wing,2223,82
+Party of Freedom,0.6970973782771536,Right-wing,2136,82
+Labour Party,0.5824811027123166,Left-wing,2249,82
+Christian Union,0.519163763066202,Other,2009,82
+Forum for Democracy,0.5,Right-wing,8,82
+List Pim Fortuyn,0.6859122401847575,Right-wing,866,82
+Socialist Party,0.6760828625235404,Left-wing,2124,82
+Christian Democratic Appeal,0.5088652482269503,Right-wing,1128,82
+Democrats‘66,0.5475592747559275,Other,3585,82
+Green Left,0.5580061755624173,Left-wing,6801,82
+DENK,0.4568469505178366,Left-wing,869,82
+Party for the Animals,0.6044051586726561,Left-wing,6901,82
+Reformed Political Party,0.5801771245524778,Right-wing,5307,82
+50Plus,0.6257419556388628,Other,3201,82
+People’s Party for Freedom and Democracy,0.2115637319316688,Right-wing,3044,83
+Party of Freedom,0.3471153846153846,Right-wing,1040,83
+Labour Party,0.3177777777777777,Left-wing,1350,83
+Christian Union,0.2845295055821372,Other,3135,83
+Forum for Democracy,0.3333333333333333,Right-wing,30,83
+List Pim Fortuyn,0.2920110192837465,Right-wing,363,83
+Socialist Party,0.3626592356687898,Left-wing,2512,83
+Christian Democratic Appeal,0.214790390956194,Right-wing,2123,83
+Democrats‘66,0.2592456975466862,Other,2731,83
+Green Left,0.2747511061946903,Left-wing,7232,83
+DENK,0.2603116406966086,Left-wing,1091,83
+Party for the Animals,0.3037183785431271,Left-wing,6562,83
+Reformed Political Party,0.2634173055859803,Right-wing,5478,83
+50Plus,0.2838733431516936,Other,2716,83
+People’s Party for Freedom and Democracy,0.5317042994123106,Right-wing,3233,84
+Party of Freedom,0.7151360544217688,Right-wing,1176,84
+Labour Party,0.4485396383866481,Left-wing,2876,84
+Christian Union,0.5266792215944758,Other,1593,84
+Forum for Democracy,0.6496969696969697,Right-wing,825,84
+List Pim Fortuyn,0.591304347826087,Right-wing,115,84
+Socialist Party,0.6439659489233851,Left-wing,1997,84
+Christian Democratic Appeal,0.4686527345486883,Right-wing,2249,84
+Democrats‘66,0.4381625441696113,Other,2264,84
+Green Left,0.6086791976788192,Left-wing,7927,84
+DENK,0.5585858585858586,Left-wing,990,84
+Party for the Animals,0.5569920275802629,Left-wing,4641,84
+50Plus,0.5253407899335897,Other,2861,84
+Reformed Political Party,0.6123123123123123,Right-wing,6660,84
+People’s Party for Freedom and Democracy,0.4899657366617719,Right-wing,2043,85
+Party of Freedom,0.4919441460794844,Right-wing,931,85
+Labour Party,0.4583333333333333,Left-wing,3000,85
+Christian Union,0.4458293384467881,Other,1043,85
+Forum for Democracy,0.4358974358974359,Right-wing,39,85
+List Pim Fortuyn,0.6767189384800965,Right-wing,829,85
+Socialist Party,0.5711991434689507,Left-wing,3736,85
+Christian Democratic Appeal,0.5059658174782329,Right-wing,3101,85
+Democrats‘66,0.4713574097135741,Other,1606,85
+Green Left,0.519851999430767,Left-wing,7027,85
+DENK,0.4858407079646017,Left-wing,2260,85
+Reformed Political Party,0.5181367956096908,Right-wing,7471,85
+Party for the Animals,0.4853177795655671,Left-wing,4972,85
+50Plus,0.4729429206819867,Other,1349,85
+People’s Party for Freedom and Democracy,0.272812353766963,Right-wing,2137,86
+Party of Freedom,0.2787958115183246,Right-wing,764,86
+Labour Party,0.2052685596989394,Left-wing,2923,86
+Christian Union,0.1684511063526053,Other,2802,86
+Forum for Democracy,0.953125,Right-wing,64,86
+List Pim Fortuyn,0.2931392931392931,Right-wing,481,86
+Socialist Party,0.4239389604196471,Left-wing,2097,86
+Christian Democratic Appeal,0.2419709634843818,Right-wing,2273,86
+Democrats‘66,0.2264083243631144,Other,2787,86
+Green Left,0.1814487210136265,Left-wing,8366,86
+DENK,0.5738798856053384,Left-wing,1049,86
+Party for the Animals,0.1977237223833965,Left-wing,4481,86
+Reformed Political Party,0.1888649646262688,Right-wing,6502,86
+50Plus,0.1935844834017157,Other,2681,86
+People’s Party for Freedom and Democracy,0.5244177310293012,Right-wing,1331,87
+Party of Freedom,0.6418166238217652,Right-wing,1167,87
+Labour Party,0.5777351247600768,Left-wing,2084,87
+Christian Union,0.5629432624113475,Other,2256,87
+Forum for Democracy,0.5955056179775281,Right-wing,801,87
+List Pim Fortuyn,0.6960352422907489,Right-wing,454,87
+Socialist Party,0.6783983677633256,Left-wing,3921,87
+Christian Democratic Appeal,0.5802183261660602,Right-wing,3023,87
+Democrats‘66,0.5158791634391944,Other,1291,87
+Green Left,0.5648222400427693,Left-wing,7482,87
+DENK,0.5436456996148908,Left-wing,1558,87
+Party for the Animals,0.4757700205338809,Left-wing,4870,87
+Reformed Political Party,0.5704043590478922,Right-wing,6974,87
+50Plus,0.6642369020501139,Other,2195,87
+People’s Party for Freedom and Democracy,0.4580506961799357,Right-wing,2801,88
+Party of Freedom,0.6281879194630873,Right-wing,1490,88
+Labour Party,0.4658851818455065,Left-wing,3327,88
+Christian Union,0.148397976391231,Other,593,88
+Forum for Democracy,0.6213872832369942,Right-wing,346,88
+List Pim Fortuyn,0.5761589403973509,Right-wing,151,88
+Socialist Party,0.6971061093247588,Left-wing,3110,88
+Christian Democratic Appeal,0.4566974595842956,Right-wing,1732,88
+Democrats‘66,0.4665226781857451,Other,2778,88
+Green Left,0.567153130287648,Left-wing,9456,88
+DENK,0.2846715328467153,Left-wing,137,88
+Party for the Animals,0.4620988993954426,Left-wing,6451,88
+50Plus,0.4043267437523312,Other,2681,88
+Reformed Political Party,0.4581993569131832,Right-wing,4354,88
+People’s Party for Freedom and Democracy,0.4590643274853801,Right-wing,2394,89
+Party of Freedom,0.5500667556742324,Right-wing,1498,89
+Labour Party,0.4836726853630426,Left-wing,2603,89
+Christian Union,0.4983948635634029,Other,2492,89
+Forum for Democracy,0.7832699619771863,Right-wing,263,89
+List Pim Fortuyn,0.391304347826087,Right-wing,23,89
+Socialist Party,0.5742296918767507,Left-wing,2142,89
+Christian Democratic Appeal,0.5222698779280766,Right-wing,3031,89
+Democrats‘66,0.461211477151966,Other,1882,89
+Green Left,0.4777171744046827,Left-wing,7517,89
+DENK,0.6292929292929293,Left-wing,990,89
+Reformed Political Party,0.5276932440657334,Right-wing,6572,89
+50Plus,0.5035004200504061,Other,3571,89
+Party for the Animals,0.5186272296229397,Left-wing,4429,89
+People’s Party for Freedom and Democracy,0.5297208538587849,Right-wing,3045,90
+Party of Freedom,0.661734693877551,Right-wing,1960,90
+Labour Party,0.5128036769533815,Left-wing,3046,90
+Christian Union,0.486,Other,1500,90
+Forum for Democracy,0.6211382113821138,Right-wing,615,90
+List Pim Fortuyn,0.2234042553191489,Right-wing,94,90
+Socialist Party,0.5808752025931929,Left-wing,3085,90
+Christian Democratic Appeal,0.4765300059417706,Right-wing,1683,90
+Democrats‘66,0.4492307692307692,Other,1300,90
+Green Left,0.5534492428491307,Left-wing,8915,90
+DENK,0.5431530494821634,Left-wing,869,90
+Reformed Political Party,0.5234362993699093,Right-wing,6507,90
+Party for the Animals,0.5306402857928002,Left-wing,3639,90
+50Plus,0.6363925055573197,Other,3149,90
+People’s Party for Freedom and Democracy,0.4401444788441692,Right-wing,1938,91
+Party of Freedom,0.5254476908576814,Right-wing,2122,91
+Labour Party,0.4136955291454443,Left-wing,1767,91
+Christian Union,0.435673624288425,Other,2635,91
+Forum for Democracy,0.5083798882681564,Right-wing,358,91
+List Pim Fortuyn,0.5405405405405406,Right-wing,111,91
+Socialist Party,0.5610021786492375,Left-wing,2754,91
+Christian Democratic Appeal,0.4150641025641026,Right-wing,2496,91
+Democrats‘66,0.407545412203074,Other,2147,91
+Green Left,0.4552918346021794,Left-wing,6699,91
+DENK,0.507112970711297,Left-wing,1195,91
+Party for the Animals,0.421315830598531,Left-wing,6399,91
+50Plus,0.5243581303489138,Other,3038,91
+Reformed Political Party,0.4509394572025052,Right-wing,5748,91
+People’s Party for Freedom and Democracy,0.2879884225759768,Right-wing,4146,92
+Party of Freedom,0.5529841656516443,Right-wing,821,92
+Labour Party,0.2798001427551749,Left-wing,2802,92
+Christian Union,0.3365487674169346,Other,1866,92
+Forum for Democracy,0.2529118136439268,Right-wing,601,92
+List Pim Fortuyn,0.4285714285714285,Right-wing,455,92
+Socialist Party,0.4330568720379147,Left-wing,1688,92
+Christian Democratic Appeal,0.2706992706992707,Right-wing,2331,92
+Democrats‘66,0.2632880098887515,Other,1618,92
+Green Left,0.3156207054512139,Left-wing,6549,92
+DENK,0.2458442694663167,Left-wing,1143,92
+Party for the Animals,0.2138736659936544,Left-wing,6934,92
+Reformed Political Party,0.2530009233610342,Right-wing,5415,92
+50Plus,0.2623436471362738,Other,3038,92
+People’s Party for Freedom and Democracy,0.3018802228412256,Right-wing,2872,93
+Party of Freedom,0.4040747028862478,Right-wing,589,93
+Labour Party,0.3472757292239956,Left-wing,1817,93
+Christian Union,0.2637123138394479,Other,2753,93
+Forum for Democracy,0.5515021459227468,Right-wing,466,93
+List Pim Fortuyn,0.5068259385665529,Right-wing,586,93
+Socialist Party,0.4634565778159931,Left-wing,2326,93
+Christian Democratic Appeal,0.3394031360647445,Right-wing,1977,93
+Democrats‘66,0.2654656696125085,Other,2942,93
+Green Left,0.4266812333090556,Left-wing,8238,93
+DENK,0.3096348096348096,Left-wing,2574,93
+Party for the Animals,0.4319097502014504,Left-wing,4964,93
+Reformed Political Party,0.3323456790123457,Right-wing,6075,93
+50Plus,0.3933224755700326,Other,1228,93
+People’s Party for Freedom and Democracy,0.3091805766312595,Right-wing,2636,94
+Party of Freedom,0.5399686520376176,Right-wing,1276,94
+Labour Party,0.2802690582959641,Left-wing,2230,94
+Christian Union,0.3165983606557377,Other,1952,94
+Forum for Democracy,0.4170854271356783,Right-wing,199,94
+List Pim Fortuyn,0.4519230769230769,Right-wing,624,94
+Socialist Party,0.480275516593613,Left-wing,1597,94
+Christian Democratic Appeal,0.2893506493506493,Right-wing,1925,94
+Democrats‘66,0.2653638467472358,Other,3889,94
+Green Left,0.3845745386964025,Left-wing,7533,94
+DENK,0.4183606557377049,Left-wing,1525,94
+Reformed Political Party,0.3888793547279904,Right-wing,5827,94
+Party for the Animals,0.3330146590184831,Left-wing,6276,94
+50Plus,0.6126173096976016,Other,1918,94
+People’s Party for Freedom and Democracy,0.4679007483261126,Right-wing,2539,95
+Party of Freedom,0.6610169491525424,Right-wing,1121,95
+Labour Party,0.3818267419962335,Left-wing,2124,95
+Christian Union,0.3939122649955237,Other,2234,95
+Forum for Democracy,0.7357630979498861,Right-wing,439,95
+List Pim Fortuyn,0.7,Right-wing,300,95
+Socialist Party,0.5980078263963002,Left-wing,2811,95
+Christian Democratic Appeal,0.4966229638458482,Right-wing,2517,95
+Democrats‘66,0.4213107445385644,Other,2243,95
+Green Left,0.6155529372159569,Left-wing,5941,95
+DENK,0.5696969696969697,Left-wing,990,95
+Party for the Animals,0.6192857142857143,Left-wing,4200,95
+50Plus,0.612615126988557,Other,3583,95
+Reformed Political Party,0.5936640765092648,Right-wing,8365,95
+People’s Party for Freedom and Democracy,0.3393285371702638,Right-wing,1668,96
+Party of Freedom,0.4489519945909398,Right-wing,1479,96
+Labour Party,0.3436657681940701,Left-wing,2226,96
+Christian Union,0.3357505438723713,Other,1379,96
+Forum for Democracy,0.3119266055045872,Right-wing,436,96
+List Pim Fortuyn,0.3663943990665111,Right-wing,857,96
+Socialist Party,0.4114642451759364,Left-wing,1762,96
+Christian Democratic Appeal,0.257466814159292,Right-wing,3616,96
+Democrats‘66,0.2719449225473322,Other,2905,96
+Green Left,0.3112408209376765,Left-wing,10622,96
+DENK,0.3980582524271844,Left-wing,206,96
+Party for the Animals,0.2915476390522601,Left-wing,5951,96
+Reformed Political Party,0.3246138515196811,Right-wing,4014,96
+50Plus,0.2725284339457567,Other,2286,96
+People’s Party for Freedom and Democracy,0.2391952309985097,Right-wing,1342,97
+Party of Freedom,0.5608082348455966,Right-wing,2623,97
+Labour Party,0.3550488599348534,Left-wing,2763,97
+Christian Union,0.3639558232931726,Other,1992,97
+Forum for Democracy,0.5567010309278351,Right-wing,873,97
+List Pim Fortuyn,0.2562814070351759,Right-wing,199,97
+Socialist Party,0.467834491090305,Left-wing,3311,97
+Christian Democratic Appeal,0.2884615384615384,Right-wing,988,97
+Democrats‘66,0.2829682610639249,Other,2237,97
+Green Left,0.2785212445633991,Left-wing,5978,97
+DENK,0.239355581127733,Left-wing,869,97
+Party for the Animals,0.2954667622289912,Left-wing,5581,97
+Reformed Political Party,0.2829838989922391,Right-wing,8633,97
+50Plus,0.2586719524281466,Other,2018,97
+People’s Party for Freedom and Democracy,0.1859774212715389,Right-wing,1683,98
+Party of Freedom,0.5165406427221172,Right-wing,2116,98
+Labour Party,0.2331288343558282,Left-wing,3097,98
+Christian Union,0.2922033898305085,Other,1475,98
+Forum for Democracy,0.4503816793893129,Right-wing,131,98
+List Pim Fortuyn,0.4179456906729634,Right-wing,847,98
+Socialist Party,0.4367116137451066,Left-wing,2299,98
+Christian Democratic Appeal,0.4310986964618249,Right-wing,1074,98
+Democrats‘66,0.3014420410427066,Other,3606,98
+Green Left,0.3869003883698961,Left-wing,9527,98
+DENK,0.3115029387069689,Left-wing,1191,98
+Party for the Animals,0.3317054112131276,Left-wing,5119,98
+Reformed Political Party,0.3877327491785323,Right-wing,5478,98
+50Plus,0.304421768707483,Other,1764,98
+People’s Party for Freedom and Democracy,0.33374283374283376,Right-wing,2442,99
+Party of Freedom,0.5982312065698042,Right-wing,3166,99
+Labour Party,0.3019145802650957,Left-wing,2037,99
+Christian Union,0.3298538622129436,Other,1916,99
+Forum for Democracy,0.47058823529411764,Right-wing,136,99
+List Pim Fortuyn,0.46715328467153283,Right-wing,137,99
+Socialist Party,0.4770275669196964,Left-wing,2503,99
+Christian Democratic Appeal,0.22200584225900682,Right-wing,1027,99
+Democrats‘66,0.3161268556005398,Other,2964,99
+Green Left,0.24066690830010873,Left-wing,5518,99
+DENK,0.31671041119860016,Left-wing,1143,99
+Party for the Animals,0.26309601567602875,Left-wing,7655,99
+Reformed Political Party,0.29232747535362197,Right-wing,6999,99
+50Plus,0.3010204081632653,Other,1764,99

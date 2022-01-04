@@ -19,7 +19,7 @@ The requirements for the repo to work are in env.yml. If you use Anaconda then *
 
 # Raw Data
 
-The raw data of political manifestos and leaders' speeches can be found in the "datasets" directory. All the files are in .json format and each record of the json represents a sentence and contains the following fields:
+The raw data of political manifestos and leaders' speeches can be found in the **/datasets** directory. All the files are in .json format and each record of the json represents a sentence and contains the following fields:
 
 - year: the year of the manifesto or the speech the sentence comes from
 - party: the party the manifesto or the speaker belongs to
@@ -29,3 +29,24 @@ The raw data of political manifestos and leaders' speeches can be found in the "
 
 In the original version, party and year labels for Austria (AT) were randomly assigned to manifestos, while the German data (DE) had a repeated manifesto. Here you can find the correct version.
 
+# Pre-computed Populist Scores
+
+Pre-computed Populist scores are stored in the **/scores** folder:
+
+- global_scores_{nation}.csv files contain the scores computed using each manifesto for each party
+- scores_in_time_{nation}.csv files contain the scores computed by dividing manifestos by year
+
+# How to use it?
+
+To compute scores from scratch:
+
+1. Run the *00_generate_bag_of_words.ipynb * notebook to preprocess the data in **/dataset** creating bag-of-words and labels.
+2. Run *python 01_train_all_models.py* and *python 01_train_all_models_resh.py* to train the classifiers on the dataset and the reshuffled dataset
+
+Since point *2* is quite time consuming, there are pre-computed classifier models in the **/models** and **/models_resh** directories. Skip point *2* if you are willing to use them.
+
+3. Run the *02_compute_scores.ipynb* and *02_compute_scores_reshuffled.ipynb* to compute the scores in the normal and reshuffled cases. This will overwrite the **/scores** and **/scores_resh** folders.
+
+4. Run *03_shap_values.ipynb* and *04_reshuffling_effect.ipynb* to reproduce the results.
+
+Cheers!

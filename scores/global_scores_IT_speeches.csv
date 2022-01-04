@@ -1,40 +1,40 @@
 party,score,orientation,counts
-The Right,0.2727272727272727,Right-wing,22
-Enough Taxes,0.2857142857142857,Other,7
+SEL,0.4117647058823529,Left-wing,17
 PATT,0.0,Other,5
-Italy for the Italians,0.2631578947368421,Right-wing,19
-PD,0.025,Left-wing,40
-Communist Party,0.11764705882352941,Left-wing,17
-Brothers of Italy,0.5,Right-wing,38
 TeP,0.25,Other,4
-Civic Choice,0.2727272727272727,Left-wing,11
-Democratic Center,0.08333333333333333,Other,12
-More Europe,0.125,Other,8
-PdF,0.16666666666666666,Right-wing,6
-The Megaphone,0.375,Other,8
-The Olive Tree,0.0,Left-wing,21
-SEL,0.35294117647058826,Left-wing,17
-The Rose in the Fist,0.14285714285714285,Left-wing,14
-LeU,0.18181818181818182,Left-wing,11
-Socialist Party,0.0,Left-wing,11
-Communist Refoundation Party,0.06666666666666667,Left-wing,15
-Civil Revolution,0.2222222222222222,Left-wing,9
-National Alliance,0.5,Right-wing,2
-PaP,0.3,Left-wing,20
-Together,0.21428571428571427,Left-wing,14
-M5S,0.5,Other,56
-Movement for the Autonomies,0.25,Other,8
-Northern League,0.49056603773584906,Right-wing,53
-Popular Civic List,0.2222222222222222,Other,9
-Cenrtists for Europe,0.0,Other,8
+Movement for the Autonomies,0.125,Other,8
+PaP,0.6,Left-wing,20
+Cenrtists for Europe,0.125,Other,8
+UDC,0.21428571428571427,Other,14
+Civic Choice,0.36363636363636365,Left-wing,11
+Socialist Party,0.18181818181818182,Left-wing,11
+M5S,0.6785714285714286,Other,56
+The Olive Tree,0.047619047619047616,Left-wing,21
+PD,0.175,Left-wing,40
+Brothers of Italy,0.6578947368421053,Right-wing,38
+Northern League,0.5660377358490566,Right-wing,53
 Human Value Party,0.125,Right-wing,16
-PCI,0.2222222222222222,Left-wing,9
-Moderates,0.0,Other,3
-ALA,0.13793103448275862,Other,29
-UDC,0.14285714285714285,Other,14
-FL,0.05555555555555555,Left-wing,18
+Popular Civic List,0.3333333333333333,Other,9
+Communist Party,0.29411764705882354,Left-wing,17
+Italy for the Italians,0.2631578947368421,Right-wing,19
+The Right,0.36363636363636365,Right-wing,22
+Communist Refoundation Party,0.13333333333333333,Left-wing,15
+National Alliance,0.5,Right-wing,2
+More Europe,0.125,Other,8
+Civil Revolution,0.2222222222222222,Left-wing,9
+Enough Taxes,0.42857142857142855,Other,7
+Democratic Center,0.16666666666666666,Other,12
 Tricolour Flame,0.0,Right-wing,7
-Forward Italy,0.08196721311475409,Right-wing,122
-Casapound,0.5416666666666666,Right-wing,24
-Italy of Values,0.03508771929824561,Other,57
-PdL,0.175,Right-wing,80
+FL,0.16666666666666666,Left-wing,18
+The Megaphone,0.125,Other,8
+Moderates,0.0,Other,3
+Together,0.21428571428571427,Left-wing,14
+LeU,0.18181818181818182,Left-wing,11
+PdF,0.3333333333333333,Right-wing,6
+PCI,0.3333333333333333,Left-wing,9
+ALA,0.10344827586206896,Other,29
+The Rose in the Fist,0.21428571428571427,Left-wing,14
+Forward Italy,0.19672131147540983,Right-wing,122
+Casapound,0.625,Right-wing,24
+PdL,0.375,Right-wing,80
+Italy of Values,0.22807017543859648,Other,57

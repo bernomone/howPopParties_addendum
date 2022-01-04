@@ -49,8 +49,8 @@ Since point *2* is quite time consuming, there are pre-computed classifier model
 
 4. Run *03_shap_values.ipynb* and *04_reshuffling_effect.ipynb* to reproduce the results.
 
-# Acknowledgemts
+# Acknowledgements
 
-We would like to acknowledge Michael Jankowski (Institute for Social Sciences, University of Bremen) and Robert A. Huber (Department of Political Science, University of Salzburg) that found the issues with the Austrian and German datasets.
+We would like to acknowledge *Michael Jankowski* (Institute for Social Sciences, University of Bremen) and *Robert A. Huber* (Department of Political Science, University of Salzburg) that found the issues with the Austrian and German datasets.
 
 Cheers!

@@ -36,6 +36,8 @@ Pre-computed Populist scores are stored in the **/scores** folder:
 - global_scores_{nation}.csv files contain the scores computed using each manifesto for each party
 - scores_in_time_{nation}.csv files contain the scores computed by dividing manifestos by year
 
+Since we are making a lot of trainings on reshuffled data, we chaned the classification algorithms from Random Forest to Gradient Boosting that is quite faster to train. We also realized that we did not exclude numbers from the feature set. This might hid a bit some results, especially when we look at the algorithms' feature importance.
+
 ## How to use it?
 
 To compute scores from scratch:

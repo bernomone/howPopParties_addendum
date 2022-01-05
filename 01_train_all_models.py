@@ -19,13 +19,18 @@ import time
 
 """
 
-This script trains all the classifier models per each country.
+This script trains all the classifier models per each country. 
+
+For each country it will perform a grid search over a set of parameters, depending on the model selected in the nations_params dictionary.
 
 Launch this script using simply "python 01_train_all_models.py" in the main directory of this repository
 to train iteratively all the models needed to reproduce the findings of this work. It is highly time consuming.
 
 All the models' best meta-parameters, threshold and parameters will be saved into the models folder.
 A recap of the trainings will be saved into the "training_results.json" file. 
+
+
+
 """
 
 ####################
@@ -106,7 +111,7 @@ nations_params = [
      {
          "nation": "IT_speeches",
          "model":"GradientBoosting",
-         "target": "F1",
+         "target": "AUC",
          "random_state":1
      },
      {

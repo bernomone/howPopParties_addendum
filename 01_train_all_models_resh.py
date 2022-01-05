@@ -20,6 +20,7 @@ import time
 This script trains all the classifier models per each country, on 100 reshuffled version of the data.
 Each reshuffled data is a copy of the original one, where (party, year) labels are randomly reassinged to each manifesto.
 
+For each country it will perform a grid search over a set of parameters, depending on the model selected in the nations_params dictionary.
 
 Launch this script using simply "python 01_train_all_models_resh.py" in the main directory of this repository
 to train iteratively all the models needed to reproduce the findings of this work. It is highly time consuming.
@@ -125,8 +126,6 @@ for curr_params in nations_params:
     for random_state in range(100):
     
         nation = curr_params["nation"]
-                
-        if nation=="AT" and random_state<46: continue
         
         model_type = curr_params["model"]
         target_score = curr_params["target"]  

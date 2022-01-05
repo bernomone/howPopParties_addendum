@@ -40,7 +40,7 @@ Pre-computed Populist scores are stored in the **/scores** folder:
 
 To compute scores from scratch:
 
-1. Run the *00_generate_bag_of_words.ipynb * notebook to preprocess the data in **/dataset** creating bag-of-words and labels.
+1. Run the *00_generate_bag_of_words.ipynb* notebook to preprocess the data in **/dataset** creating bag-of-words and labels.
 2. Run *python 01_train_all_models.py* and *python 01_train_all_models_resh.py* to train the classifiers on the dataset and the reshuffled dataset
 
 Since point *2* is quite time consuming, there are pre-computed classifier models in the **/models** and **/models_resh** directories. Skip point *2* if you are willing to use them.

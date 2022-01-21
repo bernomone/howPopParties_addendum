@@ -10,12 +10,40 @@ from sklearn.ensemble import GradientBoostingClassifier
 from sklearn.linear_model import LogisticRegression
 import sklearn.metrics
 import sklearn.model_selection
+import sklearn.feature_extraction
 import sklearn.dummy
 import itertools
 import json
 from train_configurations import *
 import time
 
+#####################################
+parties_to_exclude = {
+    "IT":['Forward Italy', 'PdL', 'Italy of Values', 'Casapound', 'Houses of Freedom'],
+
+    "FR":['The Greens','French Communist Party', "Nouveau Parti Anticapitaliste", "Resistons",'Debout la France'],
+    "AT":['Peter Pilz List'],
+
+    "NL":['DENK','Party for the Animals','Reformed Political Party','50Plus','Green Left'],
+    "ES":['Amaiur','Andalusian Party','Aragonist Council','Basque Country Unite'\
+          ,'Basque Nationalist Party','Basque Solidarity','Canarian Coalition','Catalan Republican Left'\
+          ,'Citizens','Commitment-Q','Commitment-We can-It is time','Democratic Convergence of Catalonia'\
+          ,'Forum Asturias','Future Yes','Galician Nationalist Bloc','In Tide',"Navarrese People's Union",'Valencian style'],
+    "DE":['Pirates']
+}
+
+populist_parties = {
+    "IT":['Northern League', 'PaP', 'M5S', 'Brothers of Italy'],
+
+    "FR":['National Front','Indomitable France'],
+    "AT":['Austrian Freedom Party','Alliance for the Future of Austria','Team Stronach for Austria'],
+
+    "NL":['Party of Freedom','List Pim Fortuyn','Socialist Party','Forum for Democracy'],
+    "ES":['We can','In Common We Can',"Vox"],
+    "DE":['The Left','Alternative for Germany']
+    
+}
+#####################################
 
 """
 
@@ -75,6 +103,19 @@ Possible values:
 '''
 
 nations_params = [
+    
+     {
+         "nation": "IT_speeches",
+         "model":"GradientBoosting",
+         "target": "AUC",
+         "random_state":1
+     },
+     {
+         "nation": "IT_manual",
+         "model":"GradientBoosting",
+         "target": "F1",
+         "random_state":1
+     },
      {
          "nation": "NL",
          "model":"GradientBoosting",
@@ -107,18 +148,6 @@ nations_params = [
          "model":"GradientBoosting",
          "target": "AUC",
          "random_state":1
-     },
-     {
-         "nation": "IT_speeches",
-         "model":"GradientBoosting",
-         "target": "AUC",
-         "random_state":1
-     },
-     {
-         "nation": "IT_manual",
-         "model":"GradientBoosting",
-         "target": "F1",
-         "random_state":1
      }
 ]
 
@@ -128,27 +157,53 @@ print("Starting training for all countries as indicated in the nations_params di
 
 for params in nations_params:
     
-    nation = params["nation"]
+    nation = params["nation"]    
     random_state = params["random_state"]
     model_type = params["model"]
     target_score = params["target"]  
     
+    if nation!="ES": continue
     ########################
     
     print("\nreading data for {0}..".format(nation))
-    X = pickle.load(open("./bow_and_labels/X_{}_sentences.pkl".format(nation), "rb"))
-    Y = pickle.load(open("./bow_and_labels/Y_{}_sentences.pkl".format(nation), "rb"))
-    
 
-    print("Splitting train+validation and test sets")
-    np.random.seed(random_state)
-    indexes = np.random.permutation(range(X.shape[0]))
-    n_train = int(p_train*X.shape[0])
-    indexes_train = indexes[:n_train]
-    indexes_test = indexes[n_train:]
-    X_train, Y_train = X[indexes_train], Y[indexes_train]
-    X_test, Y_test = X[indexes_test], Y[indexes_test]
+    if nation in ["IT_speeches","IT_manual"]:
+        data = json.load(open("./datasets/{}_sentences.json".format(nation),"r"))        
+    else:
+        data = json.load(open("./datasets/{}_manifesto_sentences.json".format(nation),"r"))
+
+    texts = np.array([record["clean_text"] for record in data])
+    texts = np.array([" ".join(sent) for sent in texts])
     
+    parties = np.array([record["party"] for record in data])
+    years = np.array([record["party"] for record in data])
+    orientations = np.array([record["orientation"] for record in data])
+    indices = np.arange(0,len(texts)).astype(int)
+
+    
+    if nation =="IT_speeches":
+        to_exclude = np.array([party in parties_to_exclude["IT"] for party in parties])
+        Y = np.array([party in populist_parties["IT"] for party in parties])
+    elif nation == "IT_manual":
+        Y = np.array([record["is_populist"] for record in data])
+        to_exclude = np.array([False for y in Y])
+    else:
+        to_exclude = np.array([party in parties_to_exclude[nation] for party in parties])
+        Y = np.array([party in populist_parties[nation] for party in parties])        
+
+    texts = texts[~to_exclude]
+    parties = parties[~to_exclude]
+    orientations = orientations[~to_exclude]
+    indices = indices[~to_exclude]
+    Y = Y[~to_exclude]
+
+
+    texts_train,texts_test, Y_train, Y_test, indices_train, indices_test = sklearn.model_selection.train_test_split(texts,Y,indices,random_state=random_state, test_size=1-p_train)
+
+    vectorizer = sklearn.feature_extraction.text.CountVectorizer()
+    X_train = (vectorizer.fit_transform(texts_train)>0).astype(int)
+    X_test = (vectorizer.transform(texts_test)>0).astype(int)  
+
     ########################
     
     print("training {0} for {1} with {2} as target score".format(nation,model_type,target_score))
@@ -321,7 +376,7 @@ for params in nations_params:
 
     pickle.dump(params, open("./models/{0}_{1}_{2}_{3}_best_model_params.pkl".format(nation, model_type,target_score,random_state), "wb"))
     pickle.dump(best_model, open("./models/{0}_{1}_{2}_{3}_best_model.pkl".format(nation, model_type,target_score,random_state), "wb"))
-    pickle.dump(indexes_test, open("./models/{0}_{1}_{2}_{3}_test_indexes.pkl".format(nation, model_type,target_score,random_state), "wb"))
+    pickle.dump(indices_test, open("./models/{0}_{1}_{2}_{3}_test_indices.pkl".format(nation, model_type,target_score,random_state), "wb"))
     pickle.dump(search, open("./models/{0}_{1}_{2}_{3}_search.pkl".format(nation, model_type,target_score,random_state), "wb"))
 
 

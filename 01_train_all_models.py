@@ -43,6 +43,9 @@ populist_parties = {
     "DE":['The Left','Alternative for Germany']
     
 }
+
+numbers = [str(n) for n in range(1000)]
+
 #####################################
 
 """
@@ -162,7 +165,6 @@ for params in nations_params:
     model_type = params["model"]
     target_score = params["target"]  
     
-    if nation!="ES": continue
     ########################
     
     print("\nreading data for {0}..".format(nation))
@@ -172,7 +174,7 @@ for params in nations_params:
     else:
         data = json.load(open("./datasets/{}_manifesto_sentences.json".format(nation),"r"))
 
-    texts = np.array([record["clean_text"] for record in data])
+    texts = np.array([[w for w in record["clean_text"] if w not in numbers] for record in data])
     texts = np.array([" ".join(sent) for sent in texts])
     
     parties = np.array([record["party"] for record in data])

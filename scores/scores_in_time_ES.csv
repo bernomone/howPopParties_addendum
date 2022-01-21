@@ -1,28 +1,15 @@
 party,year,score,orientation,counts
-People's Party,2011.0,0.06074766355140187,Right-wing,642
-Spanish Socialist Workers’ Party,2008.0,0.08821635544108178,Left-wing,1553
-Popular Unity,2015.0,0.21492537313432836,Left-wing,670
-We can,2015.0,0.49293563579277866,Left-wing,637
-People's Party,2015.0,0.058240396530359353,Right-wing,807
-Spanish Socialist Workers’ Party,2011.0,0.0916030534351145,Left-wing,655
-People's Party,2008.0,0.08651026392961877,Right-wing,1364
-Convergence and Union,2011.0,0.550185873605948,Other,538
-In Common We Can,2016.0,0.9156171284634761,Left-wing,794
-Spanish Socialist Workers’ Party,2016.0,0.08089770354906055,Left-wing,1916
-We can,2016.0,0.4743975903614458,Left-wing,664
-In Common We Can,2015.0,0.90153452685422,Left-wing,782
-Democracy and Freedom,2015.0,0.614853195164076,Right-wing,579
-Spanish Socialist Workers’ Party,2015.0,0.10223425863236289,Left-wing,1477
-We can,2019.0,0.5626822157434402,Left-wing,343
-People's Party,2019.0,0.07722007722007722,Right-wing,259
-People's Party,2016.0,0.07793923381770146,Right-wing,757
-United Left,2011.0,0.18503937007874016,Left-wing,508
-United Left,2008.0,0.1228813559322034,Left-wing,708
-"Union, Progress and Democracy",2011.0,0.20425531914893616,Other,235
-Spanish Socialist Workers’ Party,2019.0,0.22641509433962265,Left-wing,53
-United We Can,2016.0,0.2890625,Left-wing,128
-Compromis,2019.0,0.22807017543859648,Left-wing,57
-Convergence and Union,2008.0,0.5490196078431373,Other,102
-Citizens,2019.0,0.2116279069767442,Right-wing,430
-Citizens,2015.0,0.16532258064516128,Right-wing,5456
-Citizens,2016.0,0.1823394495412844,Right-wing,872
+People's Party,People's Party,0.07596940121340016,Right-wing,3791
+Spanish Socialist Workers’ Party,Spanish Socialist Workers’ Party,0.09459936463113307,Left-wing,5666
+In Common We Can,In Common We Can,0.902241594022416,Left-wing,1606
+We can,We can,0.4341317365269461,Left-wing,1670
+United Left,United Left,0.17304492512479203,Left-wing,1202
+Convergence and Union,Convergence and Union,0.6039156626506024,Other,664
+"Union, Progress and Democracy","Union, Progress and Democracy",0.18229166666666666,Other,192
+Democracy and Freedom,Democracy and Freedom,0.665625,Right-wing,640
+Popular Unity,Popular Unity,0.19508196721311474,Left-wing,610
+Compromis,Compromis,0.21666666666666667,Left-wing,60
+United We Can,United We Can,0.2755905511811024,Left-wing,127
+Commitment-We can-It is time,Commitment-We can-It is time,0.8386627906976745,Left-wing,2064
+Democratic Convergence of Catalonia,Democratic Convergence of Catalonia,0.53314696485623,Right-wing,2504
+Citizens,Citizens,0.1663213968629772,Right-wing,6758

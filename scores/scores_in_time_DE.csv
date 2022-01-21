@@ -1,29 +1,9 @@
 party,year,score,orientation,counts
-Free Democratic Party,2005,0.19597989949748743,Right-wing,199
-Social Democratic Party of Germany,2009,0.2,Left-wing,285
-Free Democratic Party,2013,0.14545454545454545,Right-wing,385
-Christian Democratic Union-Christian Social Union,2017,0.12385321100917432,Right-wing,218
-Social Democratic Party of Germany,2013,0.24549549549549549,Left-wing,444
-Alliance‘90-Greens,2017,0.24960505529225907,Left-wing,633
-Christian Democratic Union-Christian Social Union,2002,0.10891089108910891,Right-wing,202
-Free Democratic Party,2002,0.2,Right-wing,320
-Free Democratic Party,2009,0.1683673469387755,Right-wing,392
-The Left,2009,0.6342592592592593,Left-wing,216
-Christian Democratic Union-Christian Social Union,2013,0.1073170731707317,Right-wing,410
-Free Democratic Party,2017,0.1810344827586207,Right-wing,348
-Christian Democratic Union-Christian Social Union,2009,0.11379310344827587,Right-wing,290
-The Left,2017,0.707936507936508,Left-wing,630
-Alliance‘90-Greens,2002,0.22641509433962265,Left-wing,265
-Social Democratic Party of Germany,2017,0.2398989898989899,Left-wing,396
-Alliance‘90-Greens,2005,0.21794871794871795,Left-wing,312
-Alliance‘90-Greens,2013,0.26477272727272727,Left-wing,880
-Alliance‘90-Greens,2009,0.2640449438202247,Left-wing,534
-Social Democratic Party of Germany,2002,0.13580246913580246,Left-wing,243
-The Left,2013,0.68,Left-wing,400
-Party of Democratic Socialism,2005,0.4666666666666667,Left-wing,105
-Alternative for Germany,2017,0.5,Right-wing,186
-Christian Democratic Union-Christian Social Union,2005,0.12,Right-wing,125
-Party of Democratic Socialism,2002,0.31756756756756754,Left-wing,148
-Social Democratic Party of Germany,2005,0.12903225806451613,Left-wing,124
-Alternative for Germany,2013,0.3333333333333333,Right-wing,9
-Pirates,2013,0.4380305602716469,Other,1178
+Alliance‘90-Greens,Alliance‘90-Greens,0.2779060816012317,Left-wing,2598
+The Left,The Left,0.6173553719008265,Left-wing,1210
+Social Democratic Party of Germany,Social Democratic Party of Germany,0.23306772908366533,Left-wing,1506
+Party of Democratic Socialism,Party of Democratic Socialism,0.4225941422594142,Left-wing,239
+Christian Democratic Union-Christian Social Union,Christian Democratic Union-Christian Social Union,0.15047021943573669,Right-wing,1276
+Free Democratic Party,Free Democratic Party,0.22945002956830277,Right-wing,1691
+Alternative for Germany,Alternative for Germany,0.5251396648044693,Right-wing,179
+Pirates,Pirates,0.42869269949066213,Other,1178

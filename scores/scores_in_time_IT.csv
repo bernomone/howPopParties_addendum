@@ -1,32 +1,24 @@
 party,year,score,orientation,counts
-Democratic Center,2013.0,0.125,Other,128
-Communist Refoundation Party,2001.0,0.0530421216848674,Left-wing,641
-SVP,2013.0,0.003968253968253968,Left-wing,252
-European Democracy,2001.0,0.07547169811320754,Other,53
-Civic Choice,2013.0,0.06944444444444445,Left-wing,144
-The Union,2006.0,0.1951219512195122,Left-wing,82
-UDC,2013.0,0.07258064516129033,Other,124
-Northern League,2008.0,0.34782608695652173,Right-wing,69
-Civil Revolution,2013.0,0.05185185185185185,Left-wing,135
-PD,2018.0,0.3559322033898305,Left-wing,118
-Northern League,2018.0,0.5808080808080808,Right-wing,198
-The Olive Tree,2001.0,0.13740458015267176,Left-wing,131
-SEL,2013.0,0.11170212765957446,Left-wing,188
-Labour and Freedom List,2013.0,0.05714285714285714,Right-wing,105
-M5S,2018.0,0.8794642857142857,Other,224
-M5S,2013.0,0.3404255319148936,Other,47
-PD,2013.0,0.05454545454545454,Left-wing,55
-PD,2008.0,0.08695652173913043,Left-wing,69
-LeU,2018.0,0.48,Left-wing,25
-UDC,2018.0,0.8333333333333334,Other,6
-Brothers of Italy,2018.0,0.5555555555555556,Right-wing,9
-PaP,2018.0,0.5555555555555556,Left-wing,9
-Autonomy Liberty Participation Ecology,2013.0,0.3333333333333333,Other,3
-PdL,2008.0,0.07194244604316546,Right-wing,278
-PdL,2013.0,0.08898305084745763,Right-wing,236
-Italy of Values,2008.0,0.08928571428571429,Other,56
-Italy of Values,2001.0,0.10213078618662748,Other,1361
-Houses of Freedom,2001.0,0.06649282920469361,Right-wing,767
-Houses of Freedom,2006.0,0.3333333333333333,Right-wing,87
-Casapound,2018.0,0.8157894736842105,Right-wing,38
-Forward Italy,2018.0,0.6,Right-wing,15
+M5S,M5S,0.7683397683397684,Other,259
+Communist Refoundation Party,Communist Refoundation Party,0.057096247960848286,Left-wing,613
+PD,PD,0.17063492063492064,Left-wing,252
+The Olive Tree,The Olive Tree,0.13013698630136986,Left-wing,146
+Northern League,Northern League,0.5229681978798587,Right-wing,283
+Brothers of Italy,Brothers of Italy,0.4166666666666667,Right-wing,12
+SEL,SEL,0.13658536585365855,Left-wing,205
+SVP,SVP,0.0,Left-wing,241
+Civil Revolution,Civil Revolution,0.06766917293233082,Left-wing,133
+Labour and Freedom List,Labour and Freedom List,0.0851063829787234,Right-wing,94
+The Union,The Union,0.18811881188118812,Left-wing,101
+LeU,LeU,0.4090909090909091,Left-wing,22
+Democratic Center,Democratic Center,0.15151515151515152,Other,132
+Civic Choice,Civic Choice,0.08928571428571429,Left-wing,112
+UDC,UDC,0.1554054054054054,Other,148
+European Democracy,European Democracy,0.02040816326530612,Other,49
+PaP,PaP,0.9166666666666666,Left-wing,12
+Autonomy Liberty Participation Ecology,Autonomy Liberty Participation Ecology,0.0,Other,1
+PdL,PdL,0.0622568093385214,Right-wing,514
+Italy of Values,Italy of Values,0.08539167254763586,Other,1417
+Houses of Freedom,Houses of Freedom,0.07494145199063232,Right-wing,854
+Casapound,Casapound,0.868421052631579,Right-wing,38
+Forward Italy,Forward Italy,0.8,Right-wing,15

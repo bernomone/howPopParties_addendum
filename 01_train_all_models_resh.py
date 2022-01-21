@@ -10,11 +10,41 @@ from sklearn.ensemble import GradientBoostingClassifier
 from sklearn.linear_model import LogisticRegression
 import sklearn.metrics
 import sklearn.model_selection
+import sklearn.feature_extraction
+
 import sklearn.dummy
 import itertools
 import json
 from train_configurations import *
 import time
+
+parties_to_exclude = {
+    "IT":['Forward Italy', 'PdL', 'Italy of Values', 'Casapound', 'Houses of Freedom'],
+
+    "FR":['The Greens','French Communist Party', "Nouveau Parti Anticapitaliste", "Resistons",'Debout la France'],
+    "AT":['Peter Pilz List'],
+
+    "NL":['DENK','Party for the Animals','Reformed Political Party','50Plus','Green Left'],
+    "ES":['Amaiur','Andalusian Party','Aragonist Council','Basque Country Unite'\
+          ,'Basque Nationalist Party','Basque Solidarity','Canarian Coalition','Catalan Republican Left'\
+          ,'Citizens','Commitment-Q','Commitment-We can-It is time','Democratic Convergence of Catalonia'\
+          ,'Forum Asturias','Future Yes','Galician Nationalist Bloc','In Tide',"Navarrese People's Union",'Valencian style'],
+    "DE":['Pirates']
+}
+
+populist_parties = {
+    "IT":['Northern League', 'PaP', 'M5S', 'Brothers of Italy'],
+
+    "FR":['National Front','Indomitable France'],
+    "AT":['Austrian Freedom Party','Alliance for the Future of Austria','Team Stronach for Austria'],
+
+    "NL":['Party of Freedom','List Pim Fortuyn','Socialist Party','Forum for Democracy'],
+    "ES":['We can','In Common We Can',"Vox"],
+    "DE":['The Left','Alternative for Germany']
+    
+}
+
+numbers = [str(n) for n in range(1000)]
 
 """
 This script trains all the classifier models per each country, on 100 reshuffled version of the data.
@@ -119,11 +149,14 @@ populist_parties = {
 }
 
 print("Starting training for all countries as indicated in the nations_params dictionary...")
+def cut_words(w_list):
+    return [w for w in w_list if len(w)>2 and w not in numbers]
+
 
 for curr_params in nations_params:
     
     
-    for random_state in range(100):
+    for random_state in range(10):
     
         nation = curr_params["nation"]
         
@@ -133,37 +166,54 @@ for curr_params in nations_params:
         ########################
 
         print("\nreading data for {0}, random state = {1}..".format(nation,random_state))
-        X = pickle.load(open("./bow_and_labels/X_{}_sentences.pkl".format(nation), "rb"))
-        Y = pickle.load(open("./bow_and_labels/Y_{}_sentences.pkl".format(nation), "rb"))
- 
+        if nation in ["IT_speeches","IT_manual"]:
+            data = json.load(open("./datasets/{}_sentences.json".format(nation),"r"))        
+        else:
+            data = json.load(open("./datasets/{}_manifesto_sentences.json".format(nation),"r"))
+
+        texts = np.array([cut_words(record["clean_text"]) for record in data])
+        texts = np.array([" ".join(sent) for sent in texts])
+
+        parties = np.array([record["party"] for record in data])
+        years = np.array([record["year"] for record in data])
+        orientations = np.array([record["orientation"] for record in data])
+        indices = np.arange(0,len(texts)).astype(int)
+        
 
         #############################
 
-        parties = pickle.load(open("./bow_and_labels/parties_{}_sentences.pkl".format(nation), "rb"))
-        years = pickle.load(open("./bow_and_labels/years_{}_sentences.pkl".format(nation), "rb"))
-        orients = pickle.load(open("./bow_and_labels/orientations_{}_sentences.pkl".format(nation), "rb"))
-
-        parties_years_orients = [elem for elem in zip(parties, years,orients)]
+        parties_years_orients = [elem for elem in zip(parties, years,orientations)]
         parties_years_orients_set = list(set(parties_years_orients))
-
-        #############################
         np.random.seed(random_state)
         parties_years_orients_resh_set = np.random.permutation(parties_years_orients_set)
         remapping = {}
         for pyo, pyo_resh in zip(parties_years_orients_set,parties_years_orients_resh_set):
             remapping[pyo] = pyo_resh
         parties_years_orients_resh = [remapping[pyo] for pyo in parties_years_orients]
-        Y = np.array([(elem[0] in populist_parties[nation]) for elem in parties_years_orients_resh])
+ 
+        parties = np.array([elem[0] for elem in parties_years_orients_resh])
+        years = np.array([elem[1] for elem in parties_years_orients_resh])
+        orientations = np.array([elem[2] for elem in parties_years_orients_resh])
         pickle.dump(remapping, open("./datasets_resh/{0}_remapping_{1}.pkl".format(nation, random_state), "wb"))
+        
+        #############################       
 
-        print("Splitting train+validation and test sets")
-        np.random.seed(random_state)
-        indexes = np.random.permutation(range(X.shape[0]))
-        n_train = int(p_train*X.shape[0])
-        indexes_train = indexes[:n_train]
-        indexes_test = indexes[n_train:]
-        X_train, Y_train = X[indexes_train], Y[indexes_train]
-        X_test, Y_test = X[indexes_test], Y[indexes_test]
+        to_exclude = np.array([party in parties_to_exclude[nation] for party in parties])
+        Y = np.array([party in populist_parties[nation] for party in parties])        
+
+        texts = texts[~to_exclude]
+        parties = parties[~to_exclude]
+        orientations = orientations[~to_exclude]
+        indices = indices[~to_exclude]
+        Y = Y[~to_exclude]
+
+
+        texts_train,texts_test, Y_train, Y_test, indices_train, indices_test = sklearn.model_selection.train_test_split(texts,Y,indices,random_state=random_state, test_size=1-p_train)
+
+        vectorizer = sklearn.feature_extraction.text.CountVectorizer()
+        X_train = (vectorizer.fit_transform(texts_train)>0).astype(int)
+        X_test = (vectorizer.transform(texts_test)>0).astype(int) 
+
 
         ########################
 
@@ -334,7 +384,7 @@ for curr_params in nations_params:
 
         pickle.dump(params, open("./models_resh/{0}_{1}_{2}_{3}_best_model_params.pkl".format(nation, model_type,target_score,random_state), "wb"))
         pickle.dump(best_model, open("./models_resh/{0}_{1}_{2}_{3}_best_model.pkl".format(nation, model_type,target_score,random_state), "wb"))
-        pickle.dump(indexes_test, open("./models_resh/{0}_{1}_{2}_{3}_test_indexes.pkl".format(nation, model_type,target_score,random_state), "wb"))
+        pickle.dump(indices_test, open("./models_resh/{0}_{1}_{2}_{3}_test_indices.pkl".format(nation, model_type,target_score,random_state), "wb"))
         pickle.dump(search, open("./models_resh/{0}_{1}_{2}_{3}_search.pkl".format(nation, model_type,target_score,random_state), "wb"))
 
 

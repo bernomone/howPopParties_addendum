@@ -1,18 +1,29 @@
 party,year,score,orientation,counts
-Left Front,Left Front,0.3037974683544304,Left-wing,237
-Radical Party,Radical Party,0.25,Right-wing,104
-Democratic Mouvement,Democratic Mouvement,0.19633507853403143,Right-wing,382
-Left Radical Party,Left Radical Party,0.22796352583586627,Left-wing,329
-National Front,National Front,0.5950413223140496,Right-wing,484
-Union of Democrats and Independents,Union of Democrats and Independents,0.08641975308641975,Right-wing,81
-New Centre,New Centre,0.24,Other,275
-Socialist Party,Socialist Party,0.23300970873786409,Left-wing,206
-Union for a Popular Movement,Union for a Popular Movement,0.15141955835962145,Right-wing,317
-Indomitable France,Indomitable France,0.6102719033232629,Left-wing,331
-Republic Onwards!,Republic Onwards!,0.2459016393442623,Other,122
-Centrist Alliance,Centrist Alliance,0.11538461538461539,Other,26
-The Greens,The Greens,0.39903846153846156,Left-wing,1872
-French Communist Party,French Communist Party,0.3076923076923077,Left-wing,39
-Nouveau Parti Anticapitaliste,Nouveau Parti Anticapitaliste,0.3898305084745763,Left-wing,236
-Debout la France,Debout la France,0.4765625,Right-wing,256
-Resistons,Resistons,0.45108695652173914,Left-wing,552
+Left Front,2012.0,0.31645569620253167,Left-wing,237
+Radical Party,2012.0,0.25961538461538464,Right-wing,104
+Democratic Mouvement,2007.0,0.23469387755102042,Right-wing,98
+Left Radical Party,2012.0,0.27586206896551724,Left-wing,145
+National Front,2007.0,0.6758620689655173,Right-wing,290
+Union of Democrats and Independents,2017.0,0.1728395061728395,Right-wing,81
+New Centre,2012.0,0.2581818181818182,Other,275
+Left Radical Party,2017.0,0.23369565217391305,Left-wing,184
+Socialist Party,2012.0,0.2638888888888889,Left-wing,72
+Union for a Popular Movement,2012.0,0.1834319526627219,Right-wing,169
+Indomitable France,2017.0,0.6435045317220544,Left-wing,331
+National Front,2012.0,0.4854368932038835,Right-wing,103
+Socialist Party,2007.0,0.1826086956521739,Left-wing,115
+Democratic Mouvement,2017.0,0.18705035971223022,Right-wing,139
+Democratic Mouvement,2012.0,0.23448275862068965,Right-wing,145
+Republic Onwards!,2017.0,0.30327868852459017,Other,122
+Union for a Popular Movement,2017.0,0.16470588235294117,Right-wing,85
+National Front,2017.0,0.6263736263736264,Right-wing,91
+Centrist Alliance,2012.0,0.07692307692307693,Other,26
+Union for a Popular Movement,2007.0,0.19047619047619047,Right-wing,63
+Socialist Party,2017.0,0.2631578947368421,Left-wing,19
+The Greens,2017.0,0.40789473684210525,Left-wing,228
+The Greens,2012.0,0.36893203883495146,Left-wing,1339
+The Greens,2007.0,0.580327868852459,Left-wing,305
+French Communist Party,2017.0,0.23076923076923078,Left-wing,39
+Nouveau Parti Anticapitaliste,2017.0,0.4067796610169492,Left-wing,236
+Debout la France,2017.0,0.5703125,Right-wing,256
+Resistons,2017.0,0.5072463768115942,Left-wing,552

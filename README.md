@@ -42,14 +42,13 @@ Since we are making a lot of trainings on reshuffled data, we chaned the classif
 
 To compute scores from scratch:
 
-1. Run the *00_generate_bag_of_words.ipynb* notebook to preprocess the data in **/dataset** creating bag-of-words and labels.
-2. Run *python 01_train_all_models.py* and *python 01_train_all_models_resh.py* to train the classifiers on the dataset and the reshuffled dataset
+1. Run *python 01_train_all_models.py* and *python 01_train_all_models_resh.py* to train the classifiers on the dataset and the reshuffled dataset
 
-Since point *2* is quite time consuming, there are pre-computed classifier models in the **/models** and **/models_resh** directories. Skip point *2* if you are willing to use them.
+Since point *1* is quite time consuming, there are pre-computed classifier models in the **/models** and **/models_resh** directories. Skip point *1* if you are willing to use them.
 
-3. Run the *02_compute_scores.ipynb* and *02_compute_scores_reshuffled.ipynb* to compute the scores in the normal and reshuffled cases. This will overwrite the **/scores** and **/scores_resh** folders.
+2. Run the *02_compute_scores.ipynb* and *02_compute_scores_reshuffled.ipynb* to compute the scores in the normal and reshuffled cases. This will overwrite the **/scores** and **/scores_resh** folders.
 
-4. Run *03_shap_values.ipynb* and *04_reshuffling_effect.ipynb* to reproduce the results.
+3. Run *03_shap_values.ipynb* and *04_reshuffling_effect.ipynb* to reproduce the results.
 
 ## Acknowledgements
 

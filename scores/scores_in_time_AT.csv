@@ -1,10 +1,28 @@
 party,year,score,orientation,counts
-Austrian Social Democratic Party,Austrian Social Democratic Party,0.16633858267716536,Left-wing,1016
-The Greens,The Greens,0.16271186440677965,Left-wing,885
-Austrian People’s Party,Austrian People’s Party,0.17467581998474446,Right-wing,1311
-The New Austria,The New Austria,0.25,Other,208
-Austrian Communist Party,Austrian Communist Party,0.09090909090909091,Left-wing,11
-Alliance for the Future of Austria,Alliance for the Future of Austria,0.5086206896551724,Right-wing,116
-Austrian Freedom Party,Austrian Freedom Party,0.6111111111111112,Right-wing,504
-Team Stronach for Austria,Team Stronach for Austria,0.413265306122449,Right-wing,196
-Peter Pilz List,Peter Pilz List,0.2857142857142857,Left-wing,28
+Austrian Social Democratic Party,2017.0,0.16666666666666666,Left-wing,498
+The Greens,2013.0,0.14189189189189189,Left-wing,444
+Austrian People’s Party,2017.0,0.14711359404096835,Right-wing,537
+The New Austria,2013.0,0.19444444444444445,Other,180
+Austrian People’s Party,2002.0,0.21981424148606812,Right-wing,323
+The Greens,2017.0,0.16243654822335024,Left-wing,197
+Austrian Social Democratic Party,2008.0,0.11347517730496454,Left-wing,141
+Austrian Communist Party,2008.0,0.2727272727272727,Left-wing,11
+Austrian People’s Party,2013.0,0.1388888888888889,Right-wing,180
+The Greens,2008.0,0.22033898305084745,Left-wing,59
+Alliance for the Future of Austria,2006.0,0.4411764705882353,Right-wing,68
+Austrian Social Democratic Party,2006.0,0.16279069767441862,Left-wing,86
+Austrian Social Democratic Party,2002.0,0.19852941176470587,Left-wing,136
+Austrian People’s Party,2006.0,0.19,Right-wing,200
+Austrian Freedom Party,2013.0,0.7222222222222222,Right-wing,18
+Alliance for the Future of Austria,2008.0,0.4791666666666667,Right-wing,48
+The Greens,2006.0,0.17525773195876287,Left-wing,97
+Austrian Freedom Party,2017.0,0.5625,Right-wing,80
+Austrian Freedom Party,2002.0,0.5825242718446602,Right-wing,309
+Austrian People’s Party,2008.0,0.11267605633802817,Right-wing,71
+Team Stronach for Austria,2013.0,0.44387755102040816,Right-wing,196
+The Greens,2002.0,0.19318181818181818,Left-wing,88
+Austrian Social Democratic Party,2013.0,0.12903225806451613,Left-wing,155
+Austrian Freedom Party,2008.0,0.6111111111111112,Right-wing,54
+Austrian Freedom Party,2006.0,0.627906976744186,Right-wing,43
+The New Austria,2017.0,0.14285714285714285,Other,28
+Peter Pilz List,2017.0,0.17857142857142858,Left-wing,28

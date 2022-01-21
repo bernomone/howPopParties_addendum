@@ -1,40 +1,57 @@
 party,year,score,orientation,counts
-SEL,SEL,0.375,Left-wing,16
-Together,Together,0.0,Left-wing,11
-PaP,PaP,0.4,Left-wing,20
-LeU,LeU,0.23529411764705882,Left-wing,17
-Civic Choice,Civic Choice,0.08333333333333333,Left-wing,12
-FL,FL,0.19047619047619047,Left-wing,21
-PCI,PCI,0.09090909090909091,Left-wing,11
-Socialist Party,Socialist Party,0.0,Left-wing,11
-PD,PD,0.05555555555555555,Left-wing,36
-ALA,ALA,0.10344827586206896,Other,29
-The Right,The Right,0.2,Right-wing,25
-UDC,UDC,0.058823529411764705,Other,17
-The Olive Tree,The Olive Tree,0.15151515151515152,Left-wing,33
-Brothers of Italy,Brothers of Italy,0.5185185185185185,Right-wing,27
-M5S,M5S,0.4230769230769231,Other,52
-Cenrtists for Europe,Cenrtists for Europe,0.0,Other,6
-PdF,PdF,0.125,Right-wing,8
-Northern League,Northern League,0.5483870967741935,Right-wing,62
-Popular Civic List,Popular Civic List,0.1111111111111111,Other,9
-Human Value Party,Human Value Party,0.18181818181818182,Right-wing,11
-The Megaphone,The Megaphone,0.125,Other,8
-Civil Revolution,Civil Revolution,0.1111111111111111,Left-wing,9
-Italy for the Italians,Italy for the Italians,0.3181818181818182,Right-wing,22
-Democratic Center,Democratic Center,0.4,Other,15
-Communist Refoundation Party,Communist Refoundation Party,0.16666666666666666,Left-wing,12
-The Rose in the Fist,The Rose in the Fist,0.0,Left-wing,13
-PATT,PATT,0.0,Other,6
-Moderates,Moderates,0.0,Other,3
-Enough Taxes,Enough Taxes,0.0,Other,3
-TeP,TeP,0.0,Other,6
-Movement for the Autonomies,Movement for the Autonomies,0.14285714285714285,Other,7
-"Amnesty, Justice and Liberty","Amnesty, Justice and Liberty",0.0,Other,3
-Communist Party,Communist Party,0.21428571428571427,Left-wing,14
-More Europe,More Europe,0.3333333333333333,Other,3
-Tricolour Flame,Tricolour Flame,0.0,Right-wing,3
-Forward Italy,Forward Italy,0.1557377049180328,Right-wing,122
-PdL,PdL,0.2,Right-wing,80
-Italy of Values,Italy of Values,0.14035087719298245,Other,57
-Casapound,Casapound,0.5,Right-wing,24
+SEL,2013.0,0.4375,Left-wing,16
+Together,2018.0,0.09090909090909091,Left-wing,11
+PaP,2018.0,0.7,Left-wing,20
+LeU,2018.0,0.11764705882352941,Left-wing,17
+Civic Choice,2013.0,0.16666666666666666,Left-wing,12
+FL,2013.0,0.23809523809523808,Left-wing,21
+PCI,2008.0,0.0,Left-wing,3
+PCI,2006.0,0.25,Left-wing,8
+Socialist Party,2008.0,0.18181818181818182,Left-wing,11
+PD,2008.0,0.1111111111111111,Left-wing,9
+ALA,2018.0,0.2413793103448276,Other,29
+The Right,2013.0,0.19047619047619047,Right-wing,21
+PD,2018.0,0.26666666666666666,Left-wing,15
+UDC,2008.0,0.0,Other,4
+The Olive Tree,2006.0,0.15151515151515152,Left-wing,33
+Brothers of Italy,2013.0,0.5,Right-wing,18
+M5S,2018.0,0.6363636363636364,Other,33
+Cenrtists for Europe,2018.0,0.0,Other,6
+PdF,2018.0,0.125,Right-wing,8
+Northern League,2008.0,0.6923076923076923,Right-wing,26
+Popular Civic List,2018.0,0.0,Other,9
+Human Value Party,2018.0,0.09090909090909091,Right-wing,11
+The Megaphone,2013.0,0.125,Other,8
+Civil Revolution,2013.0,0.2222222222222222,Left-wing,9
+Northern League,2018.0,0.5833333333333334,Right-wing,12
+The Right,2008.0,0.0,Right-wing,4
+UDC,2018.0,0.0,Other,8
+Italy for the Italians,2018.0,0.4090909090909091,Right-wing,22
+PD,2013.0,0.16666666666666666,Left-wing,12
+Democratic Center,2013.0,0.5333333333333333,Other,15
+Communist Refoundation Party,2008.0,0.1111111111111111,Left-wing,9
+Brothers of Italy,2018.0,0.3333333333333333,Right-wing,9
+The Rose in the Fist,2006.0,0.1111111111111111,Left-wing,9
+PATT,2018.0,0.0,Other,6
+UDC,2006.0,0.3333333333333333,Other,3
+Moderates,2013.0,0.0,Other,3
+M5S,2013.0,0.2631578947368421,Other,19
+Enough Taxes,2013.0,0.3333333333333333,Other,3
+Communist Refoundation Party,2006.0,0.0,Left-wing,3
+Northern League,2013.0,0.7916666666666666,Right-wing,24
+TeP,2018.0,0.0,Other,6
+The Rose in the Fist,2008.0,0.25,Left-wing,4
+Movement for the Autonomies,2008.0,0.25,Other,4
+"Amnesty, Justice and Liberty",2013.0,0.3333333333333333,Other,3
+Communist Party,2018.0,0.21428571428571427,Left-wing,14
+More Europe,2018.0,0.3333333333333333,Other,3
+Movement for the Autonomies,2013.0,0.0,Other,3
+Tricolour Flame,2008.0,0.0,Right-wing,3
+UDC,2013.0,0.0,Other,2
+Forward Italy,2006.0,0.16666666666666666,Right-wing,108
+PdL,2008.0,0.2222222222222222,Right-wing,36
+Italy of Values,2008.0,0.14814814814814814,Other,54
+Italy of Values,2013.0,0.3333333333333333,Other,3
+PdL,2013.0,0.3181818181818182,Right-wing,44
+Forward Italy,2018.0,0.5714285714285714,Right-wing,14
+Casapound,2018.0,0.625,Right-wing,24

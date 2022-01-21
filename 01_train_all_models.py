@@ -154,13 +154,15 @@ nations_params = [
      }
 ]
 
-
+def cut_words(w_list):
+    return [w for w in w_list if len(w)>2 and w not in numbers]
 
 print("Starting training for all countries as indicated in the nations_params dictionary...")
 
 for params in nations_params:
     
-    nation = params["nation"]    
+    nation = params["nation"]  
+    
     random_state = params["random_state"]
     model_type = params["model"]
     target_score = params["target"]  
@@ -174,11 +176,11 @@ for params in nations_params:
     else:
         data = json.load(open("./datasets/{}_manifesto_sentences.json".format(nation),"r"))
 
-    texts = np.array([[w for w in record["clean_text"] if w not in numbers] for record in data])
+    texts = np.array([cut_words(record["clean_text"]) for record in data])
     texts = np.array([" ".join(sent) for sent in texts])
     
     parties = np.array([record["party"] for record in data])
-    years = np.array([record["party"] for record in data])
+    years = np.array([record["year"] for record in data])
     orientations = np.array([record["orientation"] for record in data])
     indices = np.arange(0,len(texts)).astype(int)
 
@@ -203,8 +205,8 @@ for params in nations_params:
     texts_train,texts_test, Y_train, Y_test, indices_train, indices_test = sklearn.model_selection.train_test_split(texts,Y,indices,random_state=random_state, test_size=1-p_train)
 
     vectorizer = sklearn.feature_extraction.text.CountVectorizer()
-    X_train = (vectorizer.fit_transform(texts_train)>0).astype(int)
-    X_test = (vectorizer.transform(texts_test)>0).astype(int)  
+    X_train = (vectorizer.fit_transform(texts_train)>0).astype(int)#.toarray()  
+    X_test = (vectorizer.transform(texts_test)>0).astype(int)#.toarray()
 
     ########################
     

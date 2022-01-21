@@ -1,15 +1,59 @@
 party,year,score,orientation,counts
-Christian Democratic Appeal,Christian Democratic Appeal,0.20639147802929428,Right-wing,2253
-People’s Party for Freedom and Democracy,People’s Party for Freedom and Democracy,0.21139359698681734,Right-wing,2124
-Socialist Party,Socialist Party,0.5023094688221709,Left-wing,1732
-Labour Party,Labour Party,0.22421203438395415,Left-wing,2792
-Democrats‘66,Democrats‘66,0.1514497223935842,Other,3242
-Christian Union,Christian Union,0.20809932013006208,Other,3383
-Party of Freedom,Party of Freedom,0.4279835390946502,Right-wing,486
-Forum for Democracy,Forum for Democracy,0.3689839572192513,Right-wing,187
-List Pim Fortuyn,List Pim Fortuyn,0.5426356589147286,Right-wing,129
-50Plus,50Plus,0.33201581027667987,Other,759
-Green Left,Green Left,0.31266110689916604,Left-wing,6595
-DENK,DENK,0.24444444444444444,Left-wing,990
-Party for the Animals,Party for the Animals,0.30080971659919026,Left-wing,4940
-Reformed Political Party,Reformed Political Party,0.237263910158244,Right-wing,9795
+Christian Democratic Appeal,2012.0,0.15425531914893617,Right-wing,376
+People’s Party for Freedom and Democracy,2010.0,0.18303571428571427,Right-wing,448
+Christian Democratic Appeal,2017.0,0.18290258449304175,Right-wing,503
+Socialist Party,2006.0,0.4166666666666667,Left-wing,492
+Socialist Party,2012.0,0.4039301310043668,Left-wing,458
+Labour Party,2017.0,0.1990811638591118,Left-wing,653
+Democrats‘66,2006.0,0.18636363636363637,Other,440
+Christian Democratic Appeal,2006.0,0.2087745839636914,Right-wing,661
+Christian Union,2010.0,0.19098457888493475,Other,843
+People’s Party for Freedom and Democracy,2017.0,0.2,Right-wing,865
+Christian Democratic Appeal,2010.0,0.17567567567567569,Right-wing,592
+Party of Freedom,2012.0,0.4037735849056604,Right-wing,265
+Democrats‘66,2012.0,0.12231404958677686,Other,605
+Labour Party,2012.0,0.2236180904522613,Left-wing,796
+People’s Party for Freedom and Democracy,2012.0,0.1962962962962963,Right-wing,540
+Christian Union,2002.0,0.3105590062111801,Other,322
+Christian Union,2017.0,0.18796068796068796,Other,814
+Democrats‘66,2017.0,0.1567524115755627,Other,1244
+Democrats‘66,2010.0,0.13387660069848661,Other,859
+Labour Party,2002.0,0.417910447761194,Left-wing,134
+Democrats‘66,2003.0,0.22727272727272727,Other,22
+Christian Union,2012.0,0.19127086007702182,Other,779
+Labour Party,2006.0,0.21633888048411498,Left-wing,661
+Christian Union,2006.0,0.2144,Other,625
+Christian Democratic Appeal,2002.0,0.2644628099173554,Right-wing,121
+Forum for Democracy,2017.0,0.39572192513368987,Right-wing,187
+People’s Party for Freedom and Democracy,2003.0,0.2,Right-wing,25
+People’s Party for Freedom and Democracy,2006.0,0.24,Right-wing,175
+List Pim Fortuyn,2003.0,0.5271317829457365,Right-wing,129
+Labour Party,2010.0,0.19883040935672514,Left-wing,513
+Socialist Party,2002.0,0.9142857142857143,Left-wing,70
+People’s Party for Freedom and Democracy,2002.0,0.22535211267605634,Right-wing,71
+Socialist Party,2010.0,0.5064516129032258,Left-wing,310
+Labour Party,2003.0,0.34285714285714286,Left-wing,35
+Socialist Party,2017.0,0.43356643356643354,Left-wing,286
+Party of Freedom,2010.0,0.4105263157894737,Right-wing,190
+Socialist Party,2003.0,0.8275862068965517,Left-wing,116
+Party of Freedom,2006.0,0.20833333333333334,Right-wing,24
+Democrats‘66,2002.0,0.2777777777777778,Other,72
+Party of Freedom,2017.0,0.7142857142857143,Right-wing,7
+50Plus,2017.0,0.25316455696202533,Other,553
+Green Left,2017.0,0.295397489539749,Left-wing,1195
+50Plus,2012.0,0.3883495145631068,Other,206
+DENK,2017.0,0.25252525252525254,Left-wing,990
+Party for the Animals,2012.0,0.30310663308144414,Left-wing,1191
+Green Left,2003.0,0.45255474452554745,Left-wing,137
+Green Left,2012.0,0.30006609385327165,Left-wing,1513
+Reformed Political Party,2012.0,0.21909492273730685,Right-wing,1812
+Reformed Political Party,2017.0,0.25602175602175603,Right-wing,2574
+Party for the Animals,2010.0,0.3033210332103321,Left-wing,1355
+Reformed Political Party,2010.0,0.21671525753158405,Right-wing,2058
+Green Left,2010.0,0.28498074454428757,Left-wing,1558
+Reformed Political Party,2006.0,0.2832263978001833,Right-wing,1091
+Reformed Political Party,2002.0,0.23539823008849559,Right-wing,2260
+Green Left,2002.0,0.3908484270734032,Left-wing,1049
+Party for the Animals,2017.0,0.3232786885245902,Left-wing,1525
+Green Left,2006.0,0.3333333333333333,Left-wing,1143
+Party for the Animals,2006.0,0.3302646720368239,Left-wing,869

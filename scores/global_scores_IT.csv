@@ -1,24 +1,24 @@
 party,score,orientation,counts
-Civil Revolution,0.06766917293233082,Left-wing,133
-Labour and Freedom List,0.0851063829787234,Right-wing,94
-The Union,0.18811881188118812,Left-wing,101
-European Democracy,0.02040816326530612,Other,49
-Democratic Center,0.15151515151515152,Other,132
-SEL,0.13658536585365855,Left-wing,205
-M5S,0.7683397683397684,Other,259
-PD,0.17063492063492064,Left-wing,252
-Communist Refoundation Party,0.057096247960848286,Left-wing,613
 Autonomy Liberty Participation Ecology,0.0,Other,1
+SVP,0.004149377593360996,Left-wing,241
+Labour and Freedom List,0.02127659574468085,Right-wing,94
+M5S,0.7297297297297297,Other,259
+Democratic Center,0.14393939393939395,Other,132
+UDC,0.12837837837837837,Other,148
+Northern League,0.46996466431095407,Right-wing,283
+SEL,0.08292682926829269,Left-wing,205
+Civil Revolution,0.045112781954887216,Left-wing,133
+PaP,0.75,Left-wing,12
+PD,0.18253968253968253,Left-wing,252
+Civic Choice,0.08035714285714286,Left-wing,112
+The Olive Tree,0.14383561643835616,Left-wing,146
+European Democracy,0.08163265306122448,Other,49
+Communist Refoundation Party,0.06035889070146819,Left-wing,613
+LeU,0.45454545454545453,Left-wing,22
+The Union,0.16831683168316833,Left-wing,101
 Brothers of Italy,0.4166666666666667,Right-wing,12
-SVP,0.0,Left-wing,241
-Civic Choice,0.08928571428571429,Left-wing,112
-PaP,0.9166666666666666,Left-wing,12
-UDC,0.1554054054054054,Other,148
-Northern League,0.5229681978798587,Right-wing,283
-The Olive Tree,0.13013698630136986,Left-wing,146
-LeU,0.4090909090909091,Left-wing,22
-Forward Italy,0.8,Right-wing,15
-Casapound,0.868421052631579,Right-wing,38
-Italy of Values,0.08539167254763586,Other,1417
-PdL,0.0622568093385214,Right-wing,514
+Italy of Values,0.0748059280169372,Other,1417
+Casapound,0.8947368421052632,Right-wing,38
 Houses of Freedom,0.07494145199063232,Right-wing,854
+PdL,0.048638132295719845,Right-wing,514
+Forward Italy,0.6,Right-wing,15

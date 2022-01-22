@@ -156,7 +156,7 @@ def cut_words(w_list):
 for curr_params in nations_params:
     
     
-    for random_state in range(10):
+    for random_state in range(100):
     
         nation = curr_params["nation"]
         

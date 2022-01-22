@@ -117,7 +117,7 @@ nations_params = [
          "nation": "IT_manual",
          "model":"GradientBoosting",
          "target": "F1",
-         "random_state":1
+         "random_state":15
      },
      {
          "nation": "NL",
@@ -162,7 +162,7 @@ print("Starting training for all countries as indicated in the nations_params di
 for params in nations_params:
     
     nation = params["nation"]  
-    
+        
     random_state = params["random_state"]
     model_type = params["model"]
     target_score = params["target"]  

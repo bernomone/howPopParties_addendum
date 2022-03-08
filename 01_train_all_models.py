@@ -76,7 +76,7 @@ These are general parameters that are used in the main text.
 """
 
 n_splits = 5
-p_train = 0.7
+p_train = 0.5
 n_jobs = 40
 
 #####################
@@ -123,34 +123,34 @@ nations_params = [
          "nation": "NL",
          "model":"GradientBoosting",
          "target": "AUC",
-         "random_state":1
+         "random_state":999
      },
      {   "nation": "IT",
          "model":"GradientBoosting",
          "target": "AUC",
-         "random_state":1
+         "random_state":999
      },
      {   "nation": "FR",
          "model":"GradientBoosting",
          "target": "AUC",
-         "random_state":1
+         "random_state":999
      },
      {   "nation": "ES",
          "model":"GradientBoosting",
          "target": "AUC",
-         "random_state":1
+         "random_state":999
      },
      {
          "nation": "DE",
          "model":"GradientBoosting",
          "target": "AUC",
-         "random_state":1
+         "random_state":999
      },
      {
          "nation": "AT",
          "model":"GradientBoosting",
          "target": "AUC",
-         "random_state":1
+         "random_state":999
      }
 ]
 
@@ -161,8 +161,7 @@ print("Starting training for all countries as indicated in the nations_params di
 
 for params in nations_params:
     
-    nation = params["nation"]  
-        
+    nation = params["nation"]          
     random_state = params["random_state"]
     model_type = params["model"]
     target_score = params["target"]  
@@ -199,10 +198,13 @@ for params in nations_params:
     parties = parties[~to_exclude]
     orientations = orientations[~to_exclude]
     indices = indices[~to_exclude]
+    years = years[~to_exclude]
     Y = Y[~to_exclude]
+    
+    texts_train,texts_test, Y_train, Y_test, indices_train, indices_test = sklearn.model_selection.train_test_split(texts,Y,indices,
+                                                                                                                    random_state=random_state, 
+                                                                                                                    test_size=1-p_train)
 
-
-    texts_train,texts_test, Y_train, Y_test, indices_train, indices_test = sklearn.model_selection.train_test_split(texts,Y,indices,random_state=random_state, test_size=1-p_train)
 
     vectorizer = sklearn.feature_extraction.text.CountVectorizer()
     X_train = (vectorizer.fit_transform(texts_train)>0).astype(int)#.toarray()  
@@ -313,13 +315,13 @@ for params in nations_params:
 
 
     training_results["AUC_train"] = np.mean(all_aurocs_train)
-    training_results["F1_train"] = np.mean(all_accuracies_train)
-    training_results["Accuracy_train"] = np.mean(all_F1_train)
+    training_results["Accuracy_train"] = np.mean(all_accuracies_train)
+    training_results["F1_train"] = np.mean(all_F1_train)
 
 
     training_results["AUC_train_err"] = np.sqrt(np.var(all_aurocs_train)/len(all_aurocs_train))
-    training_results["F1_train_err"] = np.sqrt(np.var(all_accuracies_train)/len(all_accuracies_train))
-    training_results["Accuracy_train_err"] = np.sqrt(np.var(all_F1_train)/len(all_F1_train))
+    training_results["Accuracy_train_err"] = np.sqrt(np.var(all_accuracies_train)/len(all_accuracies_train))
+    training_results["F1_train_err"] = np.sqrt(np.var(all_F1_train)/len(all_F1_train))
     
 
     ########################

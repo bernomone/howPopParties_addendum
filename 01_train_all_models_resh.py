@@ -318,13 +318,13 @@ for curr_params in nations_params:
 
 
         training_results["AUC_train"] = np.mean(all_aurocs_train)
-        training_results["F1_train"] = np.mean(all_accuracies_train)
-        training_results["Accuracy_train"] = np.mean(all_F1_train)
+        training_results["Accuracy_train"] = np.mean(all_accuracies_train)
+        training_results["F1_train"] = np.mean(all_F1_train)
 
 
         training_results["AUC_train_err"] = np.sqrt(np.var(all_aurocs_train)/len(all_aurocs_train))
-        training_results["F1_train_err"] = np.sqrt(np.var(all_accuracies_train)/len(all_accuracies_train))
-        training_results["Accuracy_train_err"] = np.sqrt(np.var(all_F1_train)/len(all_F1_train))
+        training_results["Accuracy_train_err"] = np.sqrt(np.var(all_accuracies_train)/len(all_accuracies_train))
+        training_results["F1_train_err"] = np.sqrt(np.var(all_F1_train)/len(all_F1_train))
 
 
         ########################
